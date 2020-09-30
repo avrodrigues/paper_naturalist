@@ -39,5 +39,6 @@ new.df <- data.frame(institutionCode,
                      basisOfRecord   ,
                      mediaType       ,
                      occurrenceID )
+
 write.csv(occ.raw, "data/myrteae_raw.csv", row.names = F)
 write.csv(new.df, "data/myrteae_to_naturaList.csv", row.names = F)
