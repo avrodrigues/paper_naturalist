@@ -42,3 +42,42 @@ new.df <- data.frame(institutionCode,
 
 write.csv(occ.raw, "data/myrteae_raw.csv", row.names = F)
 write.csv(new.df, "data/myrteae_to_naturaList.csv", row.names = F)
+
+
+
+# data filtered only with coordinate cleaner ------------------------------
+load("../Doutorado/data/Bases de dados ocorrencia/jt_dataset_final.RData")
+
+str(jt.dataset.final)
+
+# organizando tabela para o naturalist ------------------------------------
+
+
+institutionCode  <- jt.dataset.final$database.source
+collectionCode   <- jt.dataset.final$herb
+catalogNumber    <- jt.dataset.final$herb.code
+year             <- year(as.Date(jt.dataset.final$date.colected))
+dateIdentified   <- jt.dataset.final$date.determined
+species          <- jt.dataset.final$new.scientific.name
+identifiedBy     <- jt.dataset.final$determined.by
+decimalLongitude <- jt.dataset.final$longitude
+decimalLatitude  <- jt.dataset.final$latitude
+basisOfRecord    <- ifelse(!is.na(jt.dataset.final$herb), "PRESERVED_SPECIMEN", NA)
+mediaType        <- rep(NA, nrow(jt.dataset.final))
+occurrenceID     <- rep(NA, nrow(jt.dataset.final))
+
+new.df <- data.frame(institutionCode,
+                     collectionCode, 
+                     catalogNumber ,  
+                     year ,           
+                     dateIdentified  ,
+                     species         ,
+                     identifiedBy    ,
+                     decimalLongitude,
+                     decimalLatitude ,
+                     basisOfRecord   ,
+                     mediaType       ,
+                     occurrenceID )
+
+write.csv(jt.dataset.final, "data/myrteae_raw_CoordClean.csv", row.names = F)
+write.csv(new.df, "data/myrteae_to_naturaList_CoordClean.csv", row.names = F)
