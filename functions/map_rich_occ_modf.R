@@ -1,13 +1,14 @@
 
 map_rich_occ_modif<- function(x,
-         resolution = 1,
-         species = "species",
-         latitude = "latitude",
-         longitude = "longitude",
-         color.palette = c("white","red"),
-         xlim = NULL,
-         ylim = NULL,
-         filter.by= NULL
+                              resolution = 1,
+                              species = "species",
+                              latitude = "latitude",
+                              longitude = "longitude",
+                              color.palette = c("white","red"),
+                              xlim = NULL,
+                              ylim = NULL,
+                              filter.by= NULL,
+                              main
 ){
   
   if(!is.null(filter.by) == TRUE){
@@ -29,18 +30,21 @@ map_rich_occ_modif<- function(x,
   species_data <- split(as.data.frame(x), x[,species])
   
   cells_occ <- list()
-
+  species_data_list<- list()
+  
   for (i in seq_along(species_data)){
-    #i= 327
     if(is.null(filter.by) == TRUE){
       cells_occ[[i]] <- unique(raster::cellFromXY(r, species_data[[i]][ ,c("decimalLongitude", "decimalLatitude")]))
+      species_data_list[[i]] <- species_data[[i]][ ,c("decimalLongitude", "decimalLatitude")] 
     } else{
       cells_occ[[i]]<- unique(raster::cellFromXY(r, species_data[[i]][which(species_data[[i]][, "naturaList_levels"] == filter), 
                                                                       c("decimalLongitude", "decimalLatitude")]))
+      species_data_list[[i]] <- species_data[[i]][which(species_data[[i]][, "naturaList_levels"] == filter), 
+                                                  c("decimalLongitude", "decimalLatitude")]
     }
   }
   
-
+  
   # Gera valores de riqueza para cada pixel do raster
   riq_cell <- table(unlist(cells_occ))
   
@@ -66,7 +70,8 @@ map_rich_occ_modif<- function(x,
   plot(richness_raster,
        xlim = lims[1:2]+c(-1,1),
        ylim = lims[3:4]+c(-1,1), # limites longitude/latitude
-       col = pal(50))
+       col = pal(50), main= main)
   plot(countries, add = T)
+  list(richness= riq_cell, XY= species_data_list)
 }
 
