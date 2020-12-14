@@ -1,0 +1,2 @@
+"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
+"NY" "NY" "1673431" 1912 NA "Eugenia sauvallei" "" -82.124574 23.092556 "PRESERVED_SPECIMEN" NA "GBIF" "4_sci_colection"

@@ -1,0 +1,6 @@
+"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
+"REFLORA" "NY" "NY00719859" 2008 NA "Marlierea villas-boasii" "Sem determinador" -46.2877777777778 -23.7694444444444 "PRESERVED_SPECIMEN" NA "REFLORA" "2_taxonomist"
+"REFLORA" "P" "P06233811" 2008 "2009-03-05" "Marlierea villas-boasii" "R.J. Almeida-Scabbia" -46.2875 -23.7694444444444 "PRESERVED_SPECIMEN" NA "REFLORA" "2_taxonomist"
+"SPLINK" "NYBG_BR" "719859" 2008 NA "Marlierea villas-boasii" "" -46.287717 -23.769525 "PRESERVED_SPECIMEN" NA "SPLINK" "4_sci_colection"
+"SPLINK" "SP" "427010" 2008 "2009-03-05" "Marlierea villas-boasii" "Almeida Scabbia, RJ" -46.297311 -23.769289 "PRESERVED_SPECIMEN" NA "SPLINK" "2_taxonomist"
+"SPLINK" "SPF" "145646" 2001 NA "Marlierea villas-boasii" "Sobral, M" -45.883333 -23.65 "PRESERVED_SPECIMEN" NA "SPLINK" "1_det_by_spec"

@@ -1,0 +1,4 @@
+"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
+"ntt" NA NA NA NA "Myrcianthes crebrifolia" NA -73.0839 5.9981 NA NA "BIEN" "6_no_criteria_met"
+"ntt" NA NA NA NA "Myrcianthes crebrifolia" NA -72.4172 7.4083 NA NA "BIEN" "6_no_criteria_met"
+"ntt" NA NA NA NA "Myrcianthes crebrifolia" NA -72.7011 7.0169 NA NA "BIEN" "6_no_criteria_met"

@@ -1,0 +1,2 @@
+"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
+"MO" "MO" "2865657" 1992 NA "Eugenia paloverdensis" "F.R. Barrie" -85.30694 10.32333 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"

@@ -1,0 +1,7 @@
+"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
+"REFLORA" "NY" "NY00405000" 1933 NA "Eugenia quadrijuga" "Sem determinador" -68.7180555555556 -9.1875 "PRESERVED_SPECIMEN" NA "REFLORA" "2_taxonomist"
+"REFLORA" "NY" "NY00866701" 1933 NA "Eugenia quadrijuga" "R. McVaugh" -69 -9.33 "PRESERVED_SPECIMEN" NA "REFLORA" "1_det_by_spec"
+"REFLORA" "S" "S05-3013" 1933 NA "Eugenia quadrijuga" "Sem determinador" -69 -9.33333333333333 "PRESERVED_SPECIMEN" NA "REFLORA" "2_taxonomist"
+"SPLINK" "NYBG_BR" "230170" 1996 NA "Eugenia quadrijuga" "" -69.2594 -8.8392 "PRESERVED_SPECIMEN" NA "SPLINK" "4_sci_colection"
+"SPLINK" "NYBG_BR" "404999" 1933 NA "Eugenia quadrijuga" "" -68.7179804 -9.1875329 "PRESERVED_SPECIMEN" NA "SPLINK" "4_sci_colection"
+"SPLINK" "SP" "120523" 1933 NA "Eugenia quadrijuga" "Faria Jr, JEQ" -69 -9.333333 "PRESERVED_SPECIMEN" NA "SPLINK" "1_det_by_spec"

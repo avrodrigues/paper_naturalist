@@ -1,0 +1,3 @@
+"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
+"B" "Herbarium Berolinense" "B 10 0480752" 2012 NA "Eugenia clarensis" "" -80.000832 22.404167 "PRESERVED_SPECIMEN" NA "GBIF" "4_sci_colection"
+"NY" "NY" "1435574" 1912 NA "Eugenia clarensis" "" -79.715443 21.869521 "PRESERVED_SPECIMEN" NA "GBIF" "4_sci_colection"

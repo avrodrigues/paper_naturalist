@@ -1,0 +1,4 @@
+"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
+"US" "Botany" "2284027" 1951 NA "Mosiera moaensis" "Salywon, A. M., (ASU)" -74.88 20.63 "PRESERVED_SPECIMEN" NA "GBIF" "2_taxonomist"
+"B" "Herbarium Berolinense" "B 10 0670096" 2015 NA "Mosiera moaensis" "J. L. Gómez" -74.845001 20.433887 "PRESERVED_SPECIMEN" NA "GBIF" "2_taxonomist"
+"NY" "NY" "1437096" 1949 NA "Mosiera moaensis" "" -74.848483 20.578381 "PRESERVED_SPECIMEN" NA "GBIF" "4_sci_colection"

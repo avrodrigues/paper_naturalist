@@ -1,0 +1,2 @@
+"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
+"K" "Herbarium" "K001002583" NA NA "Eugenia marshiana" "" -76.66 18.05 "PRESERVED_SPECIMEN" NA "GBIF" "4_sci_colection"

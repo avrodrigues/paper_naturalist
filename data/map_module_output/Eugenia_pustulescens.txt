@@ -1,0 +1,4 @@
+"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
+"NY" "NY" "3107529" 2016 NA "Eugenia pustulescens" "" -80.02 -2.17 "PRESERVED_SPECIMEN" NA "GBIF" "4_sci_colection"
+"K" "Herbarium" "K001003035" 1993 NA "Eugenia pustulescens" "" -79.58 -2.1 "PRESERVED_SPECIMEN" NA "GBIF" "4_sci_colection"
+"MO" "MO" "309624" 1980 NA "Eugenia pustulescens" "" -79.7 -1.27 "PRESERVED_SPECIMEN" NA "GBIF" "4_sci_colection"

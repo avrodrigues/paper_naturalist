@@ -1,0 +1,4 @@
+"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
+"US" "Botany" "3400853" 1997 NA "Calyptranthes spicata" "Holst, Bruce K." -58.6736 3.17778 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"
+"ntt" NA NA NA NA "Calyptranthes spicata" NA -54.5331 4.9133 NA NA "BIEN" "6_no_criteria_met"
+"ntt" NA NA NA NA "Calyptranthes spicata" NA -56.2067 5.0731 NA NA "BIEN" "6_no_criteria_met"

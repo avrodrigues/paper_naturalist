@@ -1,0 +1,3 @@
+"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
+"ntt" NA NA NA NA "Myrcia apiocarpa" NA -46.4322 -23.8497 NA NA "BIEN" "6_no_criteria_met"
+"ntt" NA NA NA NA "Myrcia apiocarpa" NA -46.385 -23.9875 NA NA "BIEN" "6_no_criteria_met"

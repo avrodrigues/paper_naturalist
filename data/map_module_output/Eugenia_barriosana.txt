@@ -1,0 +1,3 @@
+"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
+"MO" "MO" "2862238" 1975 NA "Eugenia barriosana" "F.R. Barrie" -90.238055 15.172222 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"
+"F" "Botany" "V0064917F" 1975 NA "Eugenia barriosana" "" -90.1792 15.7422 "PRESERVED_SPECIMEN" NA "GBIF" "4_sci_colection"

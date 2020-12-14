@@ -1,0 +1,3 @@
+"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
+"MO" "MO" "1704536" 1969 NA "Eugenia lempana" "F.R. Barrie" -89.216667 14.417222 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"
+"F" "Botany" "V0044397F" 1968 NA "Eugenia lempana" "RRC ID Flag" -89 14.5 "PRESERVED_SPECIMEN" NA "GBIF" "4_sci_colection"

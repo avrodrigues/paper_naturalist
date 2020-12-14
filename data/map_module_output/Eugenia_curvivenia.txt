@@ -1,0 +1,3 @@
+"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
+"REFLORA" "MO" "MO313452" 1992 NA "Eugenia curvivenia" "McVaugh," -70.25 -3.78333333333333 "PRESERVED_SPECIMEN" NA "REFLORA" "2_taxonomist"
+"REFLORA" "NY" "NY00404899" 1933 NA "Eugenia curvivenia" "Sem determinador" -70.25 -7.5 "PRESERVED_SPECIMEN" NA "REFLORA" "2_taxonomist"

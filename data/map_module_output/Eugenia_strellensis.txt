@@ -1,0 +1,2 @@
+"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
+"REFLORA" "NY" "NY01279954" 1992 NA "Eugenia strellensis" "G. M. Barroso" -42.8830555555556 -22.4830555555556 "PRESERVED_SPECIMEN" NA "REFLORA" "1_det_by_spec"

@@ -1,0 +1,2 @@
+"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
+"MO" "MO" "2495381" 1977 NA "Eugenia eperforata" "G.A. Goodfriend & G.R. Proctor" -77.36553 18.22408 "PRESERVED_SPECIMEN" NA "GBIF" "2_taxonomist"

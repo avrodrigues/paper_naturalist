@@ -1,0 +1,2 @@
+"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
+"ntt" NA NA NA NA "Psidium tenuirame" NA -75.7356 20.5714 NA NA "BIEN" "6_no_criteria_met"

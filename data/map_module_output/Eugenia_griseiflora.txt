@@ -1,0 +1,6 @@
+"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
+"REFLORA" "P" "P01902361" 1963 NA "Eugenia griseiflora" "McVaugh" -56.8166666666667 3.33333333333333 "PRESERVED_SPECIMEN" NA "REFLORA" "2_taxonomist"
+"REFLORA" "MG" "MG036904" 1963 NA "Eugenia griseiflora" "McVaugh, R." -56.5 3.6 "PRESERVED_SPECIMEN" NA "REFLORA" "1_det_by_spec"
+"US" "Botany" "2548831" 1963 NA "Eugenia griseiflora" "McVaugh, R." -56.53 3.68 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"
+"US" "Botany" "2548858" 1963 NA "Eugenia griseiflora" "McVaugh, R." -56.5 3.65 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"
+"US" "Botany" "2548915" 1969 NA "Eugenia griseiflora" "" -56.5308 3.66004 "PRESERVED_SPECIMEN" NA "GBIF" "4_sci_colection"

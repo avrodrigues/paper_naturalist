@@ -1,0 +1,4 @@
+"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
+"NY" "NY" "01437352" 1922 NA "Myrcia manacalensis" "" -75.483362 20.528286 "PRESERVED_SPECIMEN" NA "GBIF" "4_sci_colection"
+"NY" "NY" "1437355" 1922 NA "Myrcia manacalensis" "" -76.90283 20.01365 "PRESERVED_SPECIMEN" NA "GBIF" "4_sci_colection"
+"ntt" NA NA NA NA "Myrcia manacalensis" NA -76.9744 19.9989 NA NA "BIEN" "6_no_criteria_met"

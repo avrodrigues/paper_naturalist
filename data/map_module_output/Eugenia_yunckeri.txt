@@ -1,0 +1,7 @@
+"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
+"UNICACH" "HEM" "HEM 29443" 2002 NA "Eugenia yunckeri" "R.M.Camilo" -93.205889 16.871667 "PRESERVED_SPECIMEN" NA "GBIF" "2_taxonomist"
+"MO" "MO" "100460964" 2010 NA "Eugenia yunckeri" "J.A. Espinosa J." -93.212333 16.801139 "PRESERVED_SPECIMEN" NA "GBIF" "2_taxonomist"
+"IBUNAM" "MEXUw" "MEXU 113" 1952 NA "Eugenia yunckeri" "MF" -93.175 16.78333 "PRESERVED_SPECIMEN" NA "GBIF" "2_taxonomist"
+"MO" "MO" "3105610" 1978 NA "Eugenia yunckeri" "F.R. Barrie" -88.66194 14.50305 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"
+"MO" "MO" "2865216" 1932 NA "Eugenia yunckeri" "F.R. Barrie" -87.7 14.18333 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"
+"F" "Botany" "V0065028F" 1936 NA "Eugenia yunckeri" "" -86.4556 14.8364 "PRESERVED_SPECIMEN" NA "GBIF" "4_sci_colection"

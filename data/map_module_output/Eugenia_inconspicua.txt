@@ -1,0 +1,3 @@
+"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
+"MO" "MO" "2864540" 1891 NA "Eugenia inconspicua" "F.R. Barrie" -107.38 24.79 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"
+"MO" "MO" "2865092" 1904 NA "Eugenia inconspicua" "F.R. Barrie" -107.383333 24.783333 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"

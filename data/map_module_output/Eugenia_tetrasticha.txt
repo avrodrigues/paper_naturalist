@@ -1,0 +1,4 @@
+"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
+"MO" "MO" "307373" 1976 NA "Eugenia tetrasticha" "Ronald L. Liesner (MO)" -73.33 -3.78 "PRESERVED_SPECIMEN" NA "GBIF" "2_taxonomist"
+"MO" "MO" "308867" 1980 NA "Eugenia tetrasticha" "R. Liesner" -73.83 -5.08 "PRESERVED_SPECIMEN" NA "GBIF" "2_taxonomist"
+"W" "Herbarium W" "0047891" 1830 NA "Eugenia tetrasticha" "F. F. Mazine-Capelo (CCTS) 2004-07" -73.66667 -3 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"

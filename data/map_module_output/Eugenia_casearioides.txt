@@ -1,0 +1,4 @@
+"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
+"K" "Herbarium" "K001002772" 1978 NA "Eugenia casearioides" "" -69.28 7.75 "PRESERVED_SPECIMEN" NA "GBIF" "4_sci_colection"
+"MO" "MO" "3224866" 2003 NA "Eugenia casearioides" "W. Meier" -68.63333 10.21666 "PRESERVED_SPECIMEN" NA "GBIF" "2_taxonomist"
+"MO" "MO" "3190700" 1985 NA "Eugenia casearioides" "" -69.78333 9.6 "PRESERVED_SPECIMEN" NA "GBIF" "4_sci_colection"

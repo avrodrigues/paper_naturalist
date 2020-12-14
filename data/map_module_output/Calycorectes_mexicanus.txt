@@ -1,0 +1,3 @@
+"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
+"MO" "MO" "307438" 1986 NA "Calycorectes mexicanus" "F.R. Barrie" -96.63 18.46 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"
+"MO" "MO" "2862549" 1919 NA "Calycorectes mexicanus" "F.R. Barrie" -96.81666 19.2 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"

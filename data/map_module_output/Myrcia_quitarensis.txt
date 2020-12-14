@@ -1,0 +1,5 @@
+"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
+"US" "Botany" "3374392" 1996 NA "Myrcia quitarensis" "Holst, Bruce K." -58.5078 4.28444 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"
+"ntt" NA NA NA NA "Myrcia quitarensis" NA -58.9039 4.2453 NA NA "BIEN" "6_no_criteria_met"
+"U" "U" NA 1996 NA "Myrcia quitarensis" NA -58.5 4.283333333 "PRESERVED_SPECIMEN" NA "BIEN" "4_sci_colection"
+"ntt" NA NA NA NA "Myrcia quitarensis" NA -61.6556 6.7419 NA NA "BIEN" "6_no_criteria_met"

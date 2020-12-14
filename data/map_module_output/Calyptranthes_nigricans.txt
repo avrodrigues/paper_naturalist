@@ -1,0 +1,4 @@
+"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
+"ntt" NA NA NA NA "Calyptranthes nigricans" NA -65.9217 -1.0319 NA NA "BIEN" "6_no_criteria_met"
+"ntt" NA NA NA NA "Calyptranthes nigricans" NA -60.1544 -3.1786 NA NA "BIEN" "6_no_criteria_met"
+"ntt" NA NA NA NA "Calyptranthes nigricans" NA -61.2583 -1.7539 NA NA "BIEN" "6_no_criteria_met"

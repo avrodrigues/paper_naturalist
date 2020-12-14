@@ -1,0 +1,2 @@
+"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
+"NY" "NY" "1434999" 1981 NA "Calyptranthes terniflora" "" -71.63 18.15 "PRESERVED_SPECIMEN" NA "GBIF" "4_sci_colection"

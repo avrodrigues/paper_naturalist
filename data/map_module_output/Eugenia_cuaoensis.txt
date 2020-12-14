@@ -1,0 +1,2 @@
+"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
+"MO" "MO" "3189652" 1986 NA "Eugenia cuaoensis" "Bruce Holst" -67.41666 6.41666 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"

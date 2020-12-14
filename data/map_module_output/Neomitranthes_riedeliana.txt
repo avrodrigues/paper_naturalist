@@ -1,0 +1,4 @@
+"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
+"ntt" NA NA NA NA "Neomitranthes riedeliana" NA -43.4481 -22.9406 NA NA "BIEN" "6_no_criteria_met"
+"ntt" NA NA NA NA "Neomitranthes riedeliana" NA -43.0658 -22.5381 NA NA "BIEN" "6_no_criteria_met"
+"ntt" NA NA NA NA "Neomitranthes riedeliana" NA -43.2647 -22.5436 NA NA "BIEN" "6_no_criteria_met"

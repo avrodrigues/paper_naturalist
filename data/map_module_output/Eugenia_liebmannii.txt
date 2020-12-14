@@ -1,0 +1,6 @@
+"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
+"CNS-UT" "LL" "00270975" 1937 NA "Eugenia liebmannii" "C. L. Lundell" -100.266111 22.323889 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"
+"CNS-UT" "TEX" "00270976" 1979 NA "Eugenia liebmannii" "J. B. Alcorn" -98.631389 21.776389 "PRESERVED_SPECIMEN" NA "GBIF" "2_taxonomist"
+"CNS-UT" "LL" "00270974" 1959 NA "Eugenia liebmannii" "R. McVaugh" -98.820042 22.113131 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"
+"CNS-UT" "TEX" "00270969" 1993 NA "Eugenia liebmannii" "T. F. Patterson" -98.254719 23.206939 "PRESERVED_SPECIMEN" NA "GBIF" "2_taxonomist"
+"CNS-UT" "LL" "00270970" 1956 NA "Eugenia liebmannii" "C. L. Lundell" -98.396661 23.251078 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"

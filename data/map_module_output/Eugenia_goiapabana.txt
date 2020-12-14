@@ -1,0 +1,8 @@
+"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
+"REFLORA" "CEPEC" "CEPEC00125544" NA NA "Eugenia goiapabana" "M. Sobral" -41.1016666666667 -20.5269444444444 "PRESERVED_SPECIMEN" NA "REFLORA" "1_det_by_spec"
+"REFLORA" "UPCB" "UPCB0030079" 2008 NA "Eugenia goiapabana" "Sem determinador" -41.1019444444444 -20.5269444444444 "PRESERVED_SPECIMEN" NA "REFLORA" "2_taxonomist"
+"REFLORA" "K" "K000812553" 2008 NA "Eugenia goiapabana" "Faria, J.E.Q." -41.1 -20.53 "PRESERVED_SPECIMEN" NA "REFLORA" "1_det_by_spec"
+"SPLINK" "UPCB" "82604" 2008 NA "Eugenia goiapabana" "" -41.102 -20.527 "PRESERVED_SPECIMEN" NA "SPLINK" "4_sci_colection"
+"SPLINK" "BHCB" "137801" 2008 NA "Eugenia goiapabana" "" -41.101667 -20.526944 "PRESERVED_SPECIMEN" NA "SPLINK" "4_sci_colection"
+"SPLINK" "MBML-HERBARIO" "13174" 2000 NA "Eugenia goiapabana" "J.E.Q.Faria/V-2011" -40.472222 -19.914167 "PRESERVED_SPECIMEN" NA "SPLINK" "1_det_by_spec"
+"SPLINK" "MBML-HERBARIO" "19049" 2002 NA "Eugenia goiapabana" "M.O. Bünger/03-X-2012" -40.553056 -19.9075 "PRESERVED_SPECIMEN" NA "SPLINK" "1_det_by_spec"

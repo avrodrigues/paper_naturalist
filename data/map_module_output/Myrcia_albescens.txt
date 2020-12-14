@@ -1,0 +1,3 @@
+"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
+"B" "Herbarium Berolinense" "B 10 0627788" 2015 NA "Myrcia albescens" "J. L. Gómez" -74.880836 20.445 "PRESERVED_SPECIMEN" NA "GBIF" "2_taxonomist"
+"B" "Herbarium Berolinense" "B 10 0627196" 2015 NA "Myrcia albescens" "J. L. Gómez" -74.815834 20.6 "PRESERVED_SPECIMEN" NA "GBIF" "2_taxonomist"

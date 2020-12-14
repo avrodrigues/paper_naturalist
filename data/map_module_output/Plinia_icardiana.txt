@@ -1,0 +1,3 @@
+"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
+"US" "Botany" "3640156" 1995 NA "Plinia icardiana" "Peguero, B." -71.42 18.0583 "PRESERVED_SPECIMEN" NA "GBIF" "2_taxonomist"
+"MO" "MO" "3151112" 1995 NA "Plinia icardiana" "B. Peguero" -71.41666 18.05138 "PRESERVED_SPECIMEN" NA "GBIF" "2_taxonomist"

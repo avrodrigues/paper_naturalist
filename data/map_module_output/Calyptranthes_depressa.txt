@@ -1,0 +1,2 @@
+"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
+"K" "Herbarium" "K000330971" 1929 NA "Calyptranthes depressa" "Urban, I." -69.05 18.88 "PRESERVED_SPECIMEN" NA "GBIF" "2_taxonomist"

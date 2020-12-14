@@ -1,0 +1,3 @@
+"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
+"MO" "MO" "1433324" 1998 NA "Psidium fulvum" "L.R. Landrum (ASU)" -77.66666 -6.33333 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"
+"ntt" NA NA NA NA "Psidium fulvum" NA -78.2581 -3.5697 NA NA "BIEN" "6_no_criteria_met"

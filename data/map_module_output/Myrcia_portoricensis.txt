@@ -1,0 +1,6 @@
+"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
+"US" "Botany" "3358158" 1995 NA "Myrcia portoricensis" "Fairchild Tropical Garden (UNITED STATES)" -66.9861 18.1697 "PRESERVED_SPECIMEN" NA "GBIF" "2_taxonomist"
+"NY" "NY" "99344" 1950 NA "Myrcia portoricensis" "" -66.99416 18.152331 "PRESERVED_SPECIMEN" NA "GBIF" "4_sci_colection"
+"NY" "NY" "84464" 1913 NA "Myrcia portoricensis" "" -66.964214 18.150127 "PRESERVED_SPECIMEN" NA "GBIF" "4_sci_colection"
+"ntt" NA NA NA NA "Myrcia portoricensis" NA -66.5761 18.1675 NA NA "BIEN" "6_no_criteria_met"
+"ntt" NA NA NA NA "Myrcia portoricensis" NA -66.9933 18.1497 NA NA "BIEN" "6_no_criteria_met"

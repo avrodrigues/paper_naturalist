@@ -1,0 +1,2 @@
+"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
+"REFLORA" "SPF" "SPF00185568" 1995 NA "Calyptranthes dichotoma" "Sobral, M" -42.15 -22.3 "PRESERVED_SPECIMEN" NA "REFLORA" "1_det_by_spec"

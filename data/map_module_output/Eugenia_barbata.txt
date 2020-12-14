@@ -1,0 +1,2 @@
+"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
+"F" "Botany" "V0040069F" NA NA "Eugenia barbata" "RRC ID Flag" -75 -11.5 "PRESERVED_SPECIMEN" NA "GBIF" "4_sci_colection"

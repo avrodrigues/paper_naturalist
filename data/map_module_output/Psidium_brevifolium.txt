@@ -1,0 +1,2 @@
+"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
+"K" "Herbarium" "K000812398" 2013 NA "Psidium brevifolium" "Lucas, E., Broddle, P." -71.55 18.28 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"

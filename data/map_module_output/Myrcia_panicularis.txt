@@ -1,0 +1,4 @@
+"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
+"ntt" NA NA NA NA "Myrcia panicularis" NA -42.3303 -22.0031 NA NA "BIEN" "6_no_criteria_met"
+"dryflor" NA NA NA NA "Myrcia panicularis" NA -42.33029938 -22.00309944 NA NA "BIEN" "6_no_criteria_met"
+"ntt" NA NA NA NA "Myrcia panicularis" NA -39.8706 -19.1483 NA NA "BIEN" "6_no_criteria_met"

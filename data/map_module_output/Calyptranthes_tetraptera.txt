@@ -1,0 +1,8 @@
+"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
+"REFLORA" "K" "K000331215" 1968 NA "Calyptranthes tetraptera" "Barroso, G.M." -42.02 -22.83 "PRESERVED_SPECIMEN" NA "REFLORA" "1_det_by_spec"
+"ntt" NA NA NA NA "Calyptranthes tetraptera" NA -41.9258 -21.3911 NA NA "BIEN" "6_no_criteria_met"
+"ntt" NA NA NA NA "Calyptranthes tetraptera" NA -43.3181 -21.7483 NA NA "BIEN" "6_no_criteria_met"
+"dryflor" NA NA NA NA "Calyptranthes tetraptera" NA -42.42860031 -21.08029938 NA NA "BIEN" "6_no_criteria_met"
+"dryflor" NA NA NA NA "Calyptranthes tetraptera" NA -43.31809998 -21.74830055 NA NA "BIEN" "6_no_criteria_met"
+"dryflor" NA NA NA NA "Calyptranthes tetraptera" NA -41.92580032 -21.39109993 NA NA "BIEN" "6_no_criteria_met"
+"ntt" NA NA NA NA "Calyptranthes tetraptera" NA -42.4286 -21.0803 NA NA "BIEN" "6_no_criteria_met"

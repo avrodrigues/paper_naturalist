@@ -1,0 +1,6 @@
+"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
+"MO" "MO" "311382" 1987 NA "Eugenia scalariformis" "B.K. Holst (MO)" -73.33333 -4.58333 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"
+"MO" "MO" "311839" 1989 NA "Eugenia scalariformis" "B.K. Holst (MO)" -73.08333 -3.5 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"
+"MO" "MO" "1062100" 1996 NA "Eugenia scalariformis" "R. Vasquez (MO)" -78.31666 -4.91666 "PRESERVED_SPECIMEN" NA "GBIF" "2_taxonomist"
+"MO" "MO" "1113128" 1995 NA "Eugenia scalariformis" "R. Vasquez (MO)" -78.316667 -4.916667 "PRESERVED_SPECIMEN" NA "GBIF" "2_taxonomist"
+"G" "Geneva Herbarium – General Collection (G)" "G-G-219636/1" NA NA "Eugenia scalariformis" "McVaugh, R. (1955)" -74.37556 -9.16389 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"

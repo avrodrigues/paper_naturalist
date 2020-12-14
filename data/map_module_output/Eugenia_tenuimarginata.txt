@@ -1,0 +1,4 @@
+"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
+"F" "Botany" "V0109679F" NA NA "Eugenia tenuimarginata" "" -74.14 -9.1839 "PRESERVED_SPECIMEN" NA "GBIF" "4_sci_colection"
+"MO" "MO" "945341" 1973 NA "Eugenia tenuimarginata" "R. McVaugh (MICH)" -78.15 -4.45 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"
+"G" "Geneva Herbarium – General Collection (G)" "G-G-219402/1" NA NA "Eugenia tenuimarginata" "McVaugh, R. (1955)" -74.37556 -9.16389 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"

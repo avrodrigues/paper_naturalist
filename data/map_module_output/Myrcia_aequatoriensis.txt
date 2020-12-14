@@ -1,0 +1,5 @@
+"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
+"F" "Botany" "V0106134F" 1990 NA "Myrcia aequatoriensis" "" -78.1869 -1.4628 "PRESERVED_SPECIMEN" NA "GBIF" "4_sci_colection"
+"ntt" NA NA NA NA "Myrcia aequatoriensis" NA -76.2197 -0.9042 NA NA "BIEN" "6_no_criteria_met"
+"ntt" NA NA NA NA "Myrcia aequatoriensis" NA -76.1267 -0.6131 NA NA "BIEN" "6_no_criteria_met"
+"ntt" NA NA NA NA "Myrcia aequatoriensis" NA -76.7025 -0.035 NA NA "BIEN" "6_no_criteria_met"

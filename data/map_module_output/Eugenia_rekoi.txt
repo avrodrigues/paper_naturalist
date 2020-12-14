@@ -1,0 +1,6 @@
+"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
+"MO" "MO" "2863174" 2002 NA "Eugenia rekoi" "F.R. Barrie" -93.91527 16.37194 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"
+"MO" "MO" "2865661" 1890 NA "Eugenia rekoi" "F.R. Barrie" -104.3333 19.05 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"
+"CNS-UT" "TEX" "00266050" 1992 NA "Eugenia rekoi" "A. Campos V." -96.966667 16.2 "PRESERVED_SPECIMEN" NA "GBIF" "2_taxonomist"
+"MO" "MO" "2863937" 1892 NA "Eugenia rekoi" "F.R. Barrie" -90.28472 14.38166 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"
+"MO" "MO" "2863173" 1892 NA "Eugenia rekoi" "F.R. Barrie" -91.83638 14.48666 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"

@@ -1,0 +1,4 @@
+"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
+"US" "Botany" "2284146" 1951 NA "Myrcia maestrensis" "" -76.62 20.1 "PRESERVED_SPECIMEN" NA "GBIF" "4_sci_colection"
+"ntt" NA NA NA NA "Myrcia maestrensis" NA -75.6231 20.0122 NA NA "BIEN" "6_no_criteria_met"
+"ntt" NA NA NA NA "Myrcia maestrensis" NA -76.8383 19.9906 NA NA "BIEN" "6_no_criteria_met"

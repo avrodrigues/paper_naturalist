@@ -1,0 +1,4 @@
+"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
+"MO" "MO" "100422072" 1980 NA "Myrciaria puberulenta" "B. Holst" -67.25 5.583333 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"
+"MO" "MO, VEN" NA 1980 NA "Myrciaria puberulenta" NA -67.25 5.5833333 "PRESERVED_SPECIMEN" NA "BIEN" "4_sci_colection"
+"ntt" NA NA NA NA "Myrciaria puberulenta" NA -66.8272 5.5281 NA NA "BIEN" "6_no_criteria_met"

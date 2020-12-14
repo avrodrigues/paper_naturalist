@@ -1,0 +1,4 @@
+"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
+"REFLORA" "MO" "MO313523" 1984 NA "Marlierea ensiformis" "R. McVaugh," -73.4188888888889 -3.97111111111111 "PRESERVED_SPECIMEN" NA "REFLORA" "1_det_by_spec"
+"ntt" NA NA NA NA "Marlierea ensiformis" NA -65.9372 1.0625 NA NA "BIEN" "6_no_criteria_met"
+"ntt" NA NA NA NA "Marlierea ensiformis" NA -66.0481 0.8739 NA NA "BIEN" "6_no_criteria_met"

@@ -1,0 +1,6 @@
+"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
+"ntt" NA NA NA NA "Calyptranthes martiusiana" NA -43.2297 -22.9586 NA NA "BIEN" "6_no_criteria_met"
+"ntt" NA NA NA NA "Calyptranthes martiusiana" NA -44.2608 -23.1619 NA NA "BIEN" "6_no_criteria_met"
+"ntt" NA NA NA NA "Calyptranthes martiusiana" NA -42.9122 -22.4883 NA NA "BIEN" "6_no_criteria_met"
+"ntt" NA NA NA NA "Calyptranthes martiusiana" NA -39.57 -15.3925 NA NA "BIEN" "6_no_criteria_met"
+"ntt" NA NA NA NA "Calyptranthes martiusiana" NA -43.2647 -22.5436 NA NA "BIEN" "6_no_criteria_met"

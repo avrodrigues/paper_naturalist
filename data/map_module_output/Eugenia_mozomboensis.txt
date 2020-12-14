@@ -1,0 +1,3 @@
+"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
+"MO" "MO" "2865127" 1984 NA "Eugenia mozomboensis" "F.R. Barrie" -96.43333 19.55 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"
+"CNS-UT" "TEX" "00266046" 1990 NA "Eugenia mozomboensis" "R. Acosta P.; M. Cházaro B.; R. Patiño R." -96.48 19.503331 "PRESERVED_SPECIMEN" NA "GBIF" "2_taxonomist"

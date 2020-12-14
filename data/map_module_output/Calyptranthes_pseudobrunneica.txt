@@ -1,0 +1,3 @@
+"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
+"Universidad de Antioquia" "HUA" "136805" 2001 NA "Calyptranthes pseudobrunneica" "Parra C." -74.476729 5.017568 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"
+"ntt" NA NA NA NA "Calyptranthes pseudobrunneica" NA -74.365 5.4681 NA NA "BIEN" "6_no_criteria_met"

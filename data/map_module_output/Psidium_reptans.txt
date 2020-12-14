@@ -1,0 +1,2 @@
+"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
+"UnB" "UB" "193618" 2006 NA "Psidium reptans" "Proença, C" -49.025833 -25.058611 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"

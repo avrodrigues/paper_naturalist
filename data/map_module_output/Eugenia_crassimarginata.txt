@@ -1,0 +1,6 @@
+"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
+"MO" "MO" "1130362" 1995 NA "Eugenia crassimarginata" "B.K. Holst (SEL)" -77.983333 1.166667 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"
+"US" "Botany" "3479836" 2003 NA "Eugenia crassimarginata" "Holst, Bruce K." -79.77 -3.5578 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"
+"MO" "MO" "311160" 1991 NA "Eugenia crassimarginata" "fide Kawasaki & Holst" -79.8 -0.616667 "PRESERVED_SPECIMEN" NA "GBIF" "2_taxonomist"
+"MO" "MO" "1932437" 2003 NA "Eugenia crassimarginata" "B. Holst (SEL)" -78.998055 -0.515278 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"
+"MO" "MO" "100241831" 1984 NA "Eugenia crassimarginata" "fide Kawasaki & Holst" -79.266667 -0.616667 "PRESERVED_SPECIMEN" NA "GBIF" "2_taxonomist"

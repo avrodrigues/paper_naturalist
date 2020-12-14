@@ -1,0 +1,3 @@
+"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
+"MO" "MO" "2865215" 1980 NA "Eugenia yautepecana" "F.R. Barrie" -96.65 19.41666 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"
+"MO" "MO" "2865711" 1934 NA "Eugenia yautepecana" "F.R. Barrie" -99.94 18.92 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"

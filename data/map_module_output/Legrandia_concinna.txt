@@ -1,0 +1,3 @@
+"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
+"ntt" NA NA NA NA "Legrandia concinna" NA -71.4531 -36.9119 NA NA "BIEN" "6_no_criteria_met"
+"ntt" NA NA NA NA "Legrandia concinna" NA -71.0414 -35.6 NA NA "BIEN" "6_no_criteria_met"

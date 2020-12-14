@@ -1,0 +1,5 @@
+"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
+"REFLORA" "NY" "NY00579746" 1990 NA "Eugenia badia" "G. M. Barroso" -42.8183333333333 -22.9194444444444 "PRESERVED_SPECIMEN" NA "REFLORA" "1_det_by_spec"
+"REFLORA" "VIES" "VIES022644" 2010 "2010-12-11" "Eugenia badia" "Gomes, J.M.L." -40.0722222222222 -19.3911111111111 "PRESERVED_SPECIMEN" NA "REFLORA" "2_taxonomist"
+"SPLINK" "NYBG_BR" "579746" 1990 NA "Eugenia badia" "G. M. Barroso" -42.8183 -22.9194 "PRESERVED_SPECIMEN" NA "SPLINK" "1_det_by_spec"
+"SPLINK" "ASU-PLANTS" "35455" 1988 NA "Eugenia badia" "M. Sobral (specieslink at MBM)" -39 -15.35 "PRESERVED_SPECIMEN" NA "SPLINK" "1_det_by_spec"

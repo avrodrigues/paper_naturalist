@@ -1,0 +1,2 @@
+"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
+"FR" "Herbarium Senckenbergianum" "FR-0083948" NA NA "Eugenia roigii" "" -83.983333 22.15 "PRESERVED_SPECIMEN" NA "GBIF" "4_sci_colection"

@@ -1,0 +1,3 @@
+"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
+"K" "Herbarium" "K001002033" 1949 NA "Eugenia alpina" "" -76.58 18.04 "PRESERVED_SPECIMEN" NA "GBIF" "4_sci_colection"
+"MO" "MO" "2496680" 1939 NA "Eugenia alpina" "" -76.64094 18.09364 "PRESERVED_SPECIMEN" NA "GBIF" "4_sci_colection"

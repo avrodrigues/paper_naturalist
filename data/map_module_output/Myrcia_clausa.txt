@@ -1,0 +1,7 @@
+"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
+"REFLORA" "P" "P01036319" 1980 NA "Myrcia clausa" "Sem determinador" -41.4833333333333 -12.6 "PRESERVED_SPECIMEN" NA "REFLORA" "2_taxonomist"
+"US" "Botany" "2584608" 1964 NA "Myrcia clausa" "" -61.3766 5.96306 "PRESERVED_SPECIMEN" NA "GBIF" "4_sci_colection"
+"F" "Botany" "V0065458F" 1964 NA "Myrcia clausa" "" -65.9119 7.0758 "PRESERVED_SPECIMEN" NA "GBIF" "4_sci_colection"
+"ntt" NA NA NA NA "Myrcia clausa" NA -61.1489 4.9881 NA NA "BIEN" "6_no_criteria_met"
+"ntt" NA NA NA NA "Myrcia clausa" NA -61.3872 6.9881 NA NA "BIEN" "6_no_criteria_met"
+"ntt" NA NA NA NA "Myrcia clausa" NA -62.5447 5.7153 NA NA "BIEN" "6_no_criteria_met"

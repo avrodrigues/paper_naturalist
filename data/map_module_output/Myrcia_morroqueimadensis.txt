@@ -1,0 +1,6 @@
+"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
+"SPLINK" "MBML-HERBARIO" "10442" 1999 NA "Myrcia morroqueimadensis" "M. Sobral/2003" -40.6075 -19.931389 "PRESERVED_SPECIMEN" NA "SPLINK" "1_det_by_spec"
+"SPLINK" "MBML-HERBARIO" "24705" 2003 NA "Myrcia morroqueimadensis" "M. Sobral/2007" -40.620278 -19.923889 "PRESERVED_SPECIMEN" NA "SPLINK" "1_det_by_spec"
+"ntt" NA NA NA NA "Myrcia morroqueimadensis" NA -40.6153 -19.9211 NA NA "BIEN" "6_no_criteria_met"
+"ntt" NA NA NA NA "Myrcia morroqueimadensis" NA -42.3303 -22.0031 NA NA "BIEN" "6_no_criteria_met"
+"dryflor" NA NA NA NA "Myrcia morroqueimadensis" NA -42.33029938 -22.00309944 NA NA "BIEN" "6_no_criteria_met"

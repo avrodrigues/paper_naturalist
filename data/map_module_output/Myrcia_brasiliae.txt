@@ -1,0 +1,7 @@
+"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
+"dryflor" NA NA NA NA "Myrcia brasiliae" NA -49.0821991 -15.76809978 NA NA "BIEN" "6_no_criteria_met"
+"ntt" NA NA NA NA "Myrcia brasiliae" NA -48.7736 -15.8764 NA NA "BIEN" "6_no_criteria_met"
+"dryflor" NA NA NA NA "Myrcia brasiliae" NA -48.33560181 -15.80560017 NA NA "BIEN" "6_no_criteria_met"
+"ntt" NA NA NA NA "Myrcia brasiliae" NA -47.7217 -15.6711 NA NA "BIEN" "6_no_criteria_met"
+"dryflor" NA NA NA NA "Myrcia brasiliae" NA -47.5318985 -14.14830017 NA NA "BIEN" "6_no_criteria_met"
+"ntt" NA NA NA NA "Myrcia brasiliae" NA -47.9339 -16.0075 NA NA "BIEN" "6_no_criteria_met"

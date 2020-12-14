@@ -1,0 +1,4 @@
+"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
+"MO" "MO" NA 1990 NA "Psidium huanucoense" NA -75.0333333 -9.6666667 "PRESERVED_SPECIMEN" NA "BIEN" "4_sci_colection"
+"NY" "NY" NA 1991 NA "Psidium huanucoense" NA -75.033 -9.667 "PRESERVED_SPECIMEN" NA "BIEN" "4_sci_colection"
+"ntt" NA NA NA NA "Psidium huanucoense" NA -74.9703 -9.9844 NA NA "BIEN" "6_no_criteria_met"

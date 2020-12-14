@@ -1,0 +1,2 @@
+"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
+"US" "Botany" "3317327" 1995 NA "Eugenia tamaensis" "Cuello, N. L." -70.2833 9.15 "PRESERVED_SPECIMEN" NA "GBIF" "2_taxonomist"

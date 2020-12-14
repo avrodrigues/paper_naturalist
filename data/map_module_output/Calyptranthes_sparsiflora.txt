@@ -1,0 +1,6 @@
+"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
+"MO" "MO" "310955" 1991 NA "Calyptranthes sparsiflora" "fide Kawasaki & Holst (TYPUS)" -76.216667 -0.033333 "PRESERVED_SPECIMEN" NA "GBIF" "2_taxonomist"
+"MO" "MO" "2666072" 1980 NA "Calyptranthes sparsiflora" "fide Kawasaki & Holst" -75.966667 -1.633333 "PRESERVED_SPECIMEN" NA "GBIF" "2_taxonomist"
+"MO" "AAU, F, QCA" NA 1980 NA "Calyptranthes sparsiflora" NA -75.9666667 -1.6333333 "PRESERVED_SPECIMEN" NA "BIEN" "4_sci_colection"
+"ntt" NA NA NA NA "Calyptranthes sparsiflora" NA -76.6578 -2.3858 NA NA "BIEN" "6_no_criteria_met"
+"ntt" NA NA NA NA "Calyptranthes sparsiflora" NA -76.7025 -0.035 NA NA "BIEN" "6_no_criteria_met"

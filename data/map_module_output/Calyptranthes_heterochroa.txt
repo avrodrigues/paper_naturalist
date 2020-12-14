@@ -1,0 +1,2 @@
+"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
+"NY" "NY" "1434822" NA NA "Calyptranthes heterochroa" "" -74.855966 20.613429 "PRESERVED_SPECIMEN" NA "GBIF" "4_sci_colection"

@@ -1,0 +1,5 @@
+"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
+"REFLORA" "RB" "RB01236290" 2015 NA "Eugenia corcovadensis" "A. Giaretta" -42.9136111111111 -22.4844444444444 "PRESERVED_SPECIMEN" NA "REFLORA" "1_det_by_spec"
+"REFLORA" "K" "K001018839" 1983 "1992-07-24" "Eugenia corcovadensis" "G.M. Barroso" -43.0333333333333 -22.5833333333333 "PRESERVED_SPECIMEN" NA "REFLORA" "1_det_by_spec"
+"REFLORA" "VIES" "VIES004978" 1985 NA "Eugenia corcovadensis" "Barroso, G.M." -42.4908333333333 -22.5511111111111 "PRESERVED_SPECIMEN" NA "REFLORA" "1_det_by_spec"
+"REFLORA" "K" "K000331510" NA NA "Eugenia corcovadensis" "Sem determinador" -41.77 -22.37 "PRESERVED_SPECIMEN" NA "REFLORA" "2_taxonomist"

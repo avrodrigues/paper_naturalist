@@ -1,0 +1,4 @@
+"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
+"ntt" NA NA NA NA "Marlierea estrellensis" NA -42.0044 -21.9775 NA NA "BIEN" "6_no_criteria_met"
+"ntt" NA NA NA NA "Marlierea estrellensis" NA -42.5311 -22.305 NA NA "BIEN" "6_no_criteria_met"
+"ntt" NA NA NA NA "Marlierea estrellensis" NA -40.4267 -18.7711 NA NA "BIEN" "6_no_criteria_met"

@@ -1,0 +1,3 @@
+"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
+"MO" "MO" "2865330" 1994 NA "Eugenia coibensis" "F.R. Barrie" -81.78638 8.60222 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"
+"F" "Botany" "V0044391F" 1961 NA "Eugenia coibensis" "RRC ID Flag" -81.25 8.1667 "PRESERVED_SPECIMEN" NA "GBIF" "4_sci_colection"

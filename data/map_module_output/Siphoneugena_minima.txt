@@ -1,0 +1,5 @@
+"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
+"MO" "MO" "3463795" 2008 NA "Siphoneugena minima" "I. Loza (LPB) & P.M. Jørgensen (MO)" -68.960278 -14.634722 "PRESERVED_SPECIMEN" NA "GBIF" "2_taxonomist"
+"MO" "MO" "2766779" 2005 NA "Siphoneugena minima" "I. Loza (LPB) & P.M. Jørgensen (MO)" -68.960278 -14.630833 "PRESERVED_SPECIMEN" NA "GBIF" "2_taxonomist"
+"MO" "F, LPB, MO, SEL" NA 2008 NA "Siphoneugena minima" NA -68.9602778 -14.6347222 "PRESERVED_SPECIMEN" NA "BIEN" "4_sci_colection"
+"MO" "LPB, MO, SEL" NA 2005 NA "Siphoneugena minima" NA -68.9602778 -14.6308334 "PRESERVED_SPECIMEN" NA "BIEN" "4_sci_colection"

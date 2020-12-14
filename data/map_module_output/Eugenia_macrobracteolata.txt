@@ -1,0 +1,7 @@
+"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
+"REFLORA" "NY" "NY00594859" NA NA "Eugenia macrobracteolata" "M. Sobral" -48.9080555555556 -25.9338888888889 "PRESERVED_SPECIMEN" NA "REFLORA" "1_det_by_spec"
+"SPLINK" "NYBG_BR" "594859" 1965 NA "Eugenia macrobracteolata" "M. Sobral" -48.90806 -25.93389 "PRESERVED_SPECIMEN" NA "SPLINK" "1_det_by_spec"
+"SPLINK" "UB" "199048" 2012 NA "Eugenia macrobracteolata" "Faria, JEQ" -46.3125 -23.775556 "PRESERVED_SPECIMEN" NA "SPLINK" "1_det_by_spec"
+"SPLINK" "UB" "199112" 2012 NA "Eugenia macrobracteolata" "Bünger, M" -46.312778 -23.78 "PRESERVED_SPECIMEN" NA "SPLINK" "1_det_by_spec"
+"SPLINK" "SPF" "120627" 1996 NA "Eugenia macrobracteolata" "Bünger, MO" -46.733611 -23.987778 "PRESERVED_SPECIMEN" NA "SPLINK" "1_det_by_spec"
+"JABOT" "RB" "463169" 2008 NA "Eugenia macrobracteolata" "M.Sobral" -40.5194444444444 -20.2913888888889 "PRESERVED_SPECIMEN" NA "JABOT" "1_det_by_spec"

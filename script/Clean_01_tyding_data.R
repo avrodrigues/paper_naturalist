@@ -8,11 +8,8 @@ length(myrt.file)
 l.occ <- lapply(myrt.file, read.table, header = T, stringsAsFactors = F)
 
 occ.raw <- do.call(rbind, l.occ)
-tbl.occ.raw <- as_tibble(occ.raw)
 
-
-# organizando tabela para o naturalist ------------------------------------
-
+# organizando tabela para o naturaList ------------------------------------
 
 institutionCode  <- occ.raw$database.source
 collectionCode   <- occ.raw$herb
@@ -25,7 +22,8 @@ decimalLongitude <- occ.raw$longitude
 decimalLatitude  <- occ.raw$latitude
 basisOfRecord    <- ifelse(!is.na(occ.raw$herb), "PRESERVED_SPECIMEN", NA)
 mediaType        <- rep(NA, nrow(occ.raw))
-occurrenceID     <- rep(NA, nrow(occ.raw))
+occurrenceID     <- occ.raw$database
+
 
 new.df <- data.frame(institutionCode,
                      collectionCode, 
@@ -64,7 +62,7 @@ decimalLongitude <- jt.dataset.final$longitude
 decimalLatitude  <- jt.dataset.final$latitude
 basisOfRecord    <- ifelse(!is.na(jt.dataset.final$herb), "PRESERVED_SPECIMEN", NA)
 mediaType        <- rep(NA, nrow(jt.dataset.final))
-occurrenceID     <- rep(NA, nrow(jt.dataset.final))
+occurrenceID     <- jt.dataset.final$database
 
 new.df <- data.frame(institutionCode,
                      collectionCode, 

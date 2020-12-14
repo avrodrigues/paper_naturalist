@@ -1,0 +1,5 @@
+"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
+"US" "Botany" "3073767" 1985 NA "Myrcia sipapensis" "Holst, Bruce K." -65.96 0.86 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"
+"US" "Botany" "3279367" 1985 NA "Myrcia sipapensis" "Holst, Bruce K." -65.96 0.84 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"
+"ntt" NA NA NA NA "Myrcia sipapensis" NA -65.9014 1.0494 NA NA "BIEN" "6_no_criteria_met"
+"ntt" NA NA NA NA "Myrcia sipapensis" NA -67.3506 4.9469 NA NA "BIEN" "6_no_criteria_met"

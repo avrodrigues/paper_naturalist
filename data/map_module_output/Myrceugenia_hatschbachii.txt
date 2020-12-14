@@ -1,0 +1,5 @@
+"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
+"REFLORA" "NY" "NY00405353" 1965 NA "Myrceugenia hatschbachii" "Sem determinador" -49.8916666666667 -25.2991666666667 "PRESERVED_SPECIMEN" NA "REFLORA" "2_taxonomist"
+"SPLINK" "NYBG_BR" "405353" 1965 NA "Myrceugenia hatschbachii" "" -49.891776 -25.299294 "PRESERVED_SPECIMEN" NA "SPLINK" "4_sci_colection"
+"SPLINK" "EFC" "11825" 2013 "2016-10-31" "Myrceugenia hatschbachii" "Ribeiro, C.L." -49.7103 -25.4581 "PRESERVED_SPECIMEN" NA "SPLINK" "2_taxonomist"
+"NY" "NY" NA 1965 NA "Myrceugenia hatschbachii" NA -50.00639 -25.42944 "PRESERVED_SPECIMEN" NA "BIEN" "4_sci_colection"

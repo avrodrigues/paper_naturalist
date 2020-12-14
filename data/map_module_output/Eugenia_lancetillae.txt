@@ -1,0 +1,4 @@
+"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
+"MO" "MO" "311393" 1993 NA "Eugenia lancetillae" "C. Nelson, 2006 (TEFH)" -86.85 15.7 "PRESERVED_SPECIMEN" NA "GBIF" "2_taxonomist"
+"MO" "MO" "2782333" 1927 NA "Eugenia lancetillae" "F.R. Barrie" -87.457778 15.711111 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"
+"F" "Botany" "V0064969F" 1928 NA "Eugenia lancetillae" "" -86.4556 14.8364 "PRESERVED_SPECIMEN" NA "GBIF" "4_sci_colection"

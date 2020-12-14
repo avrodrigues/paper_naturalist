@@ -1,0 +1,3 @@
+"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
+"MO" "MO" "2517819" 1959 NA "Eugenia rojasiana" "Legrand, C. M. D. H." -56.51666 -24.63333 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"
+"MO" "SI" NA 1959 NA "Eugenia rojasiana" NA -56.51666 -24.63333 "PRESERVED_SPECIMEN" NA "BIEN" "4_sci_colection"

@@ -1,0 +1,5 @@
+"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
+"UDFJC" "UDBC" "UDBC036426" 2011 NA "Myrcianthes borealis" "Parra, C." -72.586261 7.497403 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"
+"MO" "MO" "3191494" 1987 NA "Myrcianthes borealis" "Francesca T. Grifo" -70.33333 8.9 "PRESERVED_SPECIMEN" NA "GBIF" "2_taxonomist"
+"ntt" NA NA NA NA "Myrcianthes borealis" NA -72.3919 7.5311 NA NA "BIEN" "6_no_criteria_met"
+"ntt" NA NA NA NA "Myrcianthes borealis" NA -72.3756 7.3206 NA NA "BIEN" "6_no_criteria_met"

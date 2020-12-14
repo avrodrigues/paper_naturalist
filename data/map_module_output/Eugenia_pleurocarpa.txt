@@ -1,0 +1,7 @@
+"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
+"MO" "MO" "2864246" 1991 NA "Eugenia pleurocarpa" "F.R. Barrie" -104.95 19.41666 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"
+"MO" "MO" "2865881" NA NA "Eugenia pleurocarpa" "F.R. Barrie" -106.433333 23.933333 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"
+"NHMUK" "BOT" "BM000603776" 1926 NA "Eugenia pleurocarpa" "Rogers McVaugh" -103.62627 20.557926 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"
+"CNS-UT" "TEX" "00266047" 1991 NA "Eugenia pleurocarpa" "R. McVaugh" -104.95 19.416667 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"
+"CNS-UT" "TEX" "00266049" 1959 NA "Eugenia pleurocarpa" "R. McVaugh" -105.367781 20.502781 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"
+"K" "Herbarium" "K000752338" 1991 NA "Eugenia pleurocarpa" "" -104.95 19.42 "PRESERVED_SPECIMEN" NA "GBIF" "4_sci_colection"

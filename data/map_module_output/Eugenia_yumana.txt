@@ -1,0 +1,2 @@
+"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
+"US" "Botany" "3629005" 1992 NA "Eugenia yumana" "" -68.62 18.37 "PRESERVED_SPECIMEN" NA "GBIF" "4_sci_colection"

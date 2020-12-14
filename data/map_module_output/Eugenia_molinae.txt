@@ -1,0 +1,4 @@
+"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
+"MO" "MO" "2863909" 1947 NA "Eugenia molinae" "F.R. Barrie" -87.000633 14.0005 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"
+"MO" "MO" "1704584" 1968 NA "Eugenia molinae" "F.R. Barrie" -87.98333 14.48333 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"
+"F" "Botany" "V0044402F" 1964 NA "Eugenia molinae" "RRC ID Flag" -86.5 14.0833 "PRESERVED_SPECIMEN" NA "GBIF" "4_sci_colection"

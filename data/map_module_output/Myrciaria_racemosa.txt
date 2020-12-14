@@ -1,0 +1,7 @@
+"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
+"MO" "MO" "794600" 1993 NA "Myrciaria racemosa" "M.L. Kawasaki (F)" -76.433333 -0.816667 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"
+"MO" "MO" "100431555" 1999 NA "Myrciaria racemosa" "M.L. Kawasaki (F)" -76.15 -0.633333 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"
+"MO" "MO" "100431556" 2000 NA "Myrciaria racemosa" "M.L. Kawasaki (F)" -76.5 -0.633333 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"
+"MO" "F, K, L, MO, QCNE, SEL" NA 1993 NA "Myrciaria racemosa" NA -76.4333333 -0.8166667 "PRESERVED_SPECIMEN" NA "BIEN" "4_sci_colection"
+"MO" "F, QCA" NA 2000 NA "Myrciaria racemosa" NA -76.5 -0.6333333 "PRESERVED_SPECIMEN" NA "BIEN" "4_sci_colection"
+"MO" "AAU, F, QCA" NA 1999 NA "Myrciaria racemosa" NA -76.15 -0.6333333 "PRESERVED_SPECIMEN" NA "BIEN" "4_sci_colection"

@@ -1,0 +1,3 @@
+"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
+"MO" "MO" "2864742" 1976 NA "Eugenia gigas" "F.R. Barrie" -89.35083 16.08111 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"
+"MO" "MO" "2862724" 1942 NA "Eugenia gigas" "F.R. Barrie" -90.5225 15.76166 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"

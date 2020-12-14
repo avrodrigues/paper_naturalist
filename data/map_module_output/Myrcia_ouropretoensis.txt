@@ -1,0 +1,6 @@
+"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
+"REFLORA" "RB" "RB01361833" 1996 NA "Myrcia ouropretoensis" "F.F. Mazine" -41.8075 -20.4316666666667 "PRESERVED_SPECIMEN" NA "REFLORA" "1_det_by_spec"
+"REFLORA" "NY" "NY00979100" 1971 NA "Myrcia ouropretoensis" "Sem determinador" -43.6761111111111 -19.8225 "PRESERVED_SPECIMEN" NA "REFLORA" "2_taxonomist"
+"SPLINK" "NYBG_BR" "00979100" 1971 NA "Myrcia ouropretoensis" "L. V. S. Jennings" -43.67613 -19.82237 "PRESERVED_SPECIMEN" NA "SPLINK" "2_taxonomist"
+"SPLINK" "BHCB" "136352" 2010 NA "Myrcia ouropretoensis" "" -41.795833 -20.434722 "PRESERVED_SPECIMEN" NA "SPLINK" "4_sci_colection"
+"SPLINK" "SP" "361761" 2000 NA "Myrcia ouropretoensis" "Mamede, MCH" -41.830556 -20.406944 "PRESERVED_SPECIMEN" NA "SPLINK" "2_taxonomist"

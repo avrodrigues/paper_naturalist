@@ -1,0 +1,3 @@
+"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
+"MO" "MO" "1704618" 1942 NA "Eugenia papalensis" "F.R. Barrie" -91.882778 15.464167 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"
+"F" "Botany" "V0064991F" 1942 NA "Eugenia papalensis" "" -91.8828 15.4642 "PRESERVED_SPECIMEN" NA "GBIF" "4_sci_colection"

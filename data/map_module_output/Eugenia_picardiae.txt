@@ -1,0 +1,3 @@
+"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
+"K" "Herbarium" "K001002625" 1924 NA "Eugenia picardiae" "" -72.28 18.35 "PRESERVED_SPECIMEN" NA "GBIF" "4_sci_colection"
+"MO" "MO" "2494634" 1942 NA "Eugenia picardiae" "" -71.81666 18.3 "PRESERVED_SPECIMEN" NA "GBIF" "4_sci_colection"

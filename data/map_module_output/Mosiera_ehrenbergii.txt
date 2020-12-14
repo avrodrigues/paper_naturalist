@@ -1,0 +1,5 @@
+"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
+"SPLINK" "UB" "208200" 1999 NA "Mosiera ehrenbergii" "" -100.487778 22 "PRESERVED_SPECIMEN" NA "SPLINK" "4_sci_colection"
+"MO" "ASU, CAS, MEXU, NY" NA 1973 NA "Mosiera ehrenbergii" NA -99.66666 23.35 "PRESERVED_SPECIMEN" NA "BIEN" "4_sci_colection"
+"MO" "F, GH, MEXU, MICH, MO, NY, UC" NA 1911 NA "Mosiera ehrenbergii" NA -100.25 22.21666 "PRESERVED_SPECIMEN" NA "BIEN" "4_sci_colection"
+"MO" "MEXU" NA 1976 NA "Mosiera ehrenbergii" NA -99.65 23.3 "PRESERVED_SPECIMEN" NA "BIEN" "4_sci_colection"

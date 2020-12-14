@@ -1,0 +1,2 @@
+"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
+"MO" "MO" NA 1971 NA "Calyptranthes mammosa" NA -89.29611 15.99916 "PRESERVED_SPECIMEN" NA "BIEN" "4_sci_colection"

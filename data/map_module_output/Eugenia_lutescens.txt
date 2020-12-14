@@ -1,0 +1,7 @@
+"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
+"REFLORA" "NY" "NY00907535" 1978 NA "Eugenia lutescens" "C. E. B. Proença" -47.935 -15.9519444444444 "PRESERVED_SPECIMEN" NA "REFLORA" "1_det_by_spec"
+"SPLINK" "NYBG_BR" "00907534" 1976 NA "Eugenia lutescens" "C. E. B. Proença" -47.93495 -15.952 "PRESERVED_SPECIMEN" NA "SPLINK" "1_det_by_spec"
+"SPLINK" "CEN" "64118" NA NA "Eugenia lutescens" "J. E. Q. Faria Júnior" -48 -15.86667 "PRESERVED_SPECIMEN" NA "SPLINK" "1_det_by_spec"
+"SPLINK" "ASU-PLANTS" "34451" 1983 NA "Eugenia lutescens" "C. Proenca, 1994." -47.9167 -15.9667 "PRESERVED_SPECIMEN" NA "SPLINK" "2_taxonomist"
+"SPLINK" "HEPH" "12185" 1996 NA "Eugenia lutescens" "Proença, CEB" -47.85 -15.866667 "PRESERVED_SPECIMEN" NA "SPLINK" "1_det_by_spec"
+"SPLINK" "HEPH" "28640" 2009 NA "Eugenia lutescens" "Alkimim, W" -47.835 -15.874167 "PRESERVED_SPECIMEN" NA "SPLINK" "2_taxonomist"

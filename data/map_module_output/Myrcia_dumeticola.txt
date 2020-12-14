@@ -1,0 +1,2 @@
+"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
+"NHMUK" "BOT" "BM000511486" 1897 NA "Myrcia dumeticola" "Duane Fernandes Lima" -57.508 -25.5628 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"

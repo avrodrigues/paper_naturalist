@@ -1,0 +1,8 @@
+"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
+"SPLINK" "BHCB" "121023" 2007 "2013-11-14" "Campomanesia prosthecesepala" "" -44.907783 -22.450842 "PRESERVED_SPECIMEN" NA "SPLINK" "4_sci_colection"
+"JABOT" "RB" "407204" 2004 "2007-11-08" "Campomanesia prosthecesepala" "M.Ibrahim" -43.4938888888889 -21.9455555555556 "PRESERVED_SPECIMEN" NA "JABOT" "1_det_by_spec"
+"ntt" NA NA NA NA "Campomanesia prosthecesepala" NA -42.9531 -21.4236 NA NA "BIEN" "6_no_criteria_met"
+"dryflor" NA NA NA NA "Campomanesia prosthecesepala" NA -42.9530983 -21.42359924 NA NA "BIEN" "6_no_criteria_met"
+"ntt" NA NA NA NA "Campomanesia prosthecesepala" NA -45.0556 -22.4147 NA NA "BIEN" "6_no_criteria_met"
+"dryflor" NA NA NA NA "Campomanesia prosthecesepala" NA -43.1053009 -21.2730999 NA NA "BIEN" "6_no_criteria_met"
+"ntt" NA NA NA NA "Campomanesia prosthecesepala" NA -43.1053 -21.2731 NA NA "BIEN" "6_no_criteria_met"

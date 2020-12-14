@@ -1,0 +1,7 @@
+"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
+"REFLORA" "K" "K000330684" 1937 NA "Marlierea buxifolia" "Sandwith, N.Y." -59.47 5.17 "PRESERVED_SPECIMEN" NA "REFLORA" "2_taxonomist"
+"MO" "MO" NA 1979 NA "Marlierea buxifolia" NA -60.55 5.95 "PRESERVED_SPECIMEN" NA "BIEN" "4_sci_colection"
+"MO" "MO" NA 1987 NA "Marlierea buxifolia" NA -59.48333 5.18333 "PRESERVED_SPECIMEN" NA "BIEN" "4_sci_colection"
+"U" "U" NA 1944 NA "Marlierea buxifolia" NA -59.4666667 5.1666667 "PRESERVED_SPECIMEN" NA "BIEN" "4_sci_colection"
+"U" "U" NA 1937 NA "Marlierea buxifolia" NA -59.4166667 5.2166667 "PRESERVED_SPECIMEN" NA "BIEN" "4_sci_colection"
+"ntt" NA NA NA NA "Marlierea buxifolia" NA -61.4628 5.8792 NA NA "BIEN" "6_no_criteria_met"

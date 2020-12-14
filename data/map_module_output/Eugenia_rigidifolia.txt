@@ -1,0 +1,6 @@
+"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
+"US" "Botany" "3628504" 2011 NA "Eugenia rigidifolia" "" -75.8232 20.4128 "PRESERVED_SPECIMEN" NA "GBIF" "4_sci_colection"
+"B" "Herbarium Berolinense" "B 10 0487118" 2012 NA "Eugenia rigidifolia" "W. Greuter" -83.440277 22.782223 "PRESERVED_SPECIMEN" NA "GBIF" "2_taxonomist"
+"NY" "NY" "1436985" 1952 NA "Eugenia rigidifolia" "" -83.445597 22.790292 "PRESERVED_SPECIMEN" NA "GBIF" "4_sci_colection"
+"NY" "NY" "1436986" 1926 NA "Eugenia rigidifolia" "" -83.173836 22.752137 "PRESERVED_SPECIMEN" NA "GBIF" "4_sci_colection"
+"NY" "NY" "1436990" 1957 NA "Eugenia rigidifolia" "" -83.173841 22.750809 "PRESERVED_SPECIMEN" NA "GBIF" "4_sci_colection"

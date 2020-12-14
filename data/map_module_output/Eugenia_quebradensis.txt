@@ -1,0 +1,2 @@
+"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
+"F" "Botany" "V0109466F" NA NA "Eugenia quebradensis" "" -74.14 -9.1839 "PRESERVED_SPECIMEN" NA "GBIF" "4_sci_colection"

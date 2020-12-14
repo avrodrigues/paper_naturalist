@@ -1,0 +1,2 @@
+"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
+"NY" "NY" "1093432" 2006 NA "Calyptranthes carinata" "" -75.1494 -2.1369 "PRESERVED_SPECIMEN" NA "GBIF" "4_sci_colection"

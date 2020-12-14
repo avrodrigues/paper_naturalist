@@ -1,0 +1,2 @@
+"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
+"MO" "MO" "100697372" 1991 NA "Calyptranthes limoncillo" "" -71.5 19.216667 "PRESERVED_SPECIMEN" NA "GBIF" "4_sci_colection"

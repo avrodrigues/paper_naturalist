@@ -1,0 +1,8 @@
+"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
+"MO" "MO" "2865235" 1967 NA "Plinia darienensis" "F.R. Barrie" -77.733333 8.133333 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"
+"MO" "MO" "2390218" 1980 NA "Plinia darienensis" "F.R. Barrie" -77.73333 8.01666 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"
+"MO" "MO" "2278733" 1966 NA "Plinia darienensis" "F.R. Barrie" -77.73333 7.86666 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"
+"MO" "MO" "1842509" 1971 NA "Plinia darienensis" "F.R. Barrie" -77.766667 8.05 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"
+"ntt" NA NA NA NA "Plinia darienensis" NA -77.6986 8.0197 NA NA "BIEN" "6_no_criteria_met"
+"MO" "MO" NA 1971 NA "Plinia darienensis" NA -77.7666667 8.05 "PRESERVED_SPECIMEN" NA "BIEN" "4_sci_colection"
+"MO" "MO" NA 1967 NA "Plinia darienensis" NA -77.73333 8.13333 "PRESERVED_SPECIMEN" NA "BIEN" "4_sci_colection"

@@ -1,0 +1,2 @@
+"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
+"NY" "NY" "84523" 1910 NA "Eugenia earlei" "" -79.90961 22.081322 "PRESERVED_SPECIMEN" NA "GBIF" "4_sci_colection"

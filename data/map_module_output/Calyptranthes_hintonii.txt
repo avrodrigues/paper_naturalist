@@ -1,0 +1,3 @@
+"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
+"W" "Herbarium W" "1959-0013466" 1935 NA "Calyptranthes hintonii" "A. C. Araújo & E. Lucas (K) 2011-02-11" -100.03333 19.025 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"
+"MO" "Herb. Hinton, MO" NA 1935 NA "Calyptranthes hintonii" NA -100.0330556 19.025 "PRESERVED_SPECIMEN" NA "BIEN" "4_sci_colection"

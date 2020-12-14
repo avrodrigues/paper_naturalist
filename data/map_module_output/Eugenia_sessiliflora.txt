@@ -1,0 +1,3 @@
+"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
+"NY" "NY" "01007950" 1991 NA "Eugenia sessiliflora" "" -67.11957 18.00038 "PRESERVED_SPECIMEN" NA "GBIF" "4_sci_colection"
+"BPBM" "BISH" "734169" 2001 NA "Eugenia sessiliflora" "" -67.1124 18.0028 "PRESERVED_SPECIMEN" NA "GBIF" "4_sci_colection"

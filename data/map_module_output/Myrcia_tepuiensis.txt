@@ -1,0 +1,7 @@
+"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
+"ntt" NA NA NA NA "Myrcia tepuiensis" NA -61.0042 5.3844 NA NA "BIEN" "6_no_criteria_met"
+"ntt" NA NA NA NA "Myrcia tepuiensis" NA -62.3911 5.445 NA NA "BIEN" "6_no_criteria_met"
+"ntt" NA NA NA NA "Myrcia tepuiensis" NA -61.7447 5.7061 NA NA "BIEN" "6_no_criteria_met"
+"ntt" NA NA NA NA "Myrcia tepuiensis" NA -61.8217 5.7703 NA NA "BIEN" "6_no_criteria_met"
+"ntt" NA NA NA NA "Myrcia tepuiensis" NA -65.8889 5.7108 NA NA "BIEN" "6_no_criteria_met"
+"ntt" NA NA NA NA "Myrcia tepuiensis" NA -67.3675 5.0114 NA NA "BIEN" "6_no_criteria_met"

@@ -1,0 +1,2 @@
+"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
+"NY" "NY" "84589" 1923 NA "Eugenia phyllocardia" "" -83.929212 22.419094 "PRESERVED_SPECIMEN" NA "GBIF" "4_sci_colection"

@@ -1,0 +1,6 @@
+"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
+"F" "Botany" "V0360458F" 1972 NA "Plinia gentryi" "" -79.9106 8.5714 "PRESERVED_SPECIMEN" NA "GBIF" "4_sci_colection"
+"MO" "MO" "2866311" 1967 NA "Plinia gentryi" "F.R. Barrie" -79.375 9.23388 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"
+"MO" "MO" "2401014" 2001 NA "Plinia gentryi" "F.R. Barrie" -79.367222 9.219445 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"
+"ntt" NA NA NA NA "Plinia gentryi" NA -79.3553 9.2578 NA NA "BIEN" "6_no_criteria_met"
+"MO" "MO" NA 2001 NA "Plinia gentryi" NA -79.3672223 9.2194445 "PRESERVED_SPECIMEN" NA "BIEN" "4_sci_colection"

@@ -1,0 +1,4 @@
+"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
+"MO" "MO" "2863908" 1939 NA "Eugenia michoacanensis" "F.R. Barrie" -103.26 18.92 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"
+"CNS-UT" "TEX" "00270981" 1991 NA "Eugenia michoacanensis" "A. C. Sanders" -103.683528 19.433583 "PRESERVED_SPECIMEN" NA "GBIF" "2_taxonomist"
+"CNS-UT" "LL" "00270984" 1941 NA "Eugenia michoacanensis" "C. L. Lundell" -103.504169 18.598611 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"

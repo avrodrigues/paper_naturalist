@@ -1,0 +1,6 @@
+"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
+"Instituto de Investigación de Recursos Biológicos Alexander von Humboldt (IAvH)" "FMB" "FMB-109217" 2014 NA "Calyptranthes meridensis" "Aymard, Gerardo" -71.895275 6.359939 "PRESERVED_SPECIMEN" NA "GBIF" "2_taxonomist"
+"MO" "MO" "3185132" 1995 NA "Calyptranthes meridensis" "" -70.20416 9.24666 "PRESERVED_SPECIMEN" NA "GBIF" "4_sci_colection"
+"ntt" NA NA NA NA "Calyptranthes meridensis" NA -70.1894 9.2317 NA NA "BIEN" "6_no_criteria_met"
+"ntt" NA NA NA NA "Calyptranthes meridensis" NA -70.4069 9.2361 NA NA "BIEN" "6_no_criteria_met"
+"ntt" NA NA NA NA "Calyptranthes meridensis" NA -70.8044 8.7858 NA NA "BIEN" "6_no_criteria_met"

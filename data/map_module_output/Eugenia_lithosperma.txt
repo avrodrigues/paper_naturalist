@@ -1,0 +1,8 @@
+"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
+"MO" "MO" "307596" 1988 NA "Eugenia lithosperma" "F.R. Barrie" -84.71 10.31 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"
+"MO" "MO" "308883" 1989 NA "Eugenia lithosperma" "F.R. Barrie" -84.66 10.35 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"
+"MO" "MO" "2863131" 1970 NA "Eugenia lithosperma" "F.R. Barrie" -84.02 10.42 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"
+"MO" "MO" "2863130" 1969 NA "Eugenia lithosperma" "F.R. Barrie" -84.00361 10.43138 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"
+"MO" "MO" "2863509" 1997 NA "Eugenia lithosperma" "F.R. Barrie" -84.93055 10.92222 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"
+"MO" "MO" "2863510" 1995 NA "Eugenia lithosperma" "F.R. Barrie" -84.783333 10.366667 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"
+"MO" "MO" "1704478" 1972 NA "Eugenia lithosperma" "F.R. Barrie" -83.59 9.93 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"

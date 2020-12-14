@@ -1,0 +1,2 @@
+"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
+"NY" "NY" "84472" 1941 NA "Calyptranthes oblongifolia" "" -74.932799 20.658809 "PRESERVED_SPECIMEN" NA "GBIF" "4_sci_colection"

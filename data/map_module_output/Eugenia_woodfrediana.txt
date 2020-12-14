@@ -1,0 +1,2 @@
+"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
+"NY" "NY" "99332" 1910 NA "Eugenia woodfrediana" "" -75.715252 20.566791 "PRESERVED_SPECIMEN" NA "GBIF" "4_sci_colection"

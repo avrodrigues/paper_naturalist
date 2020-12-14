@@ -1,0 +1,2 @@
+"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
+"FR" "Herbarium Senckenbergianum" "FR-0093582" NA NA "Eugenia rocana" "" -84.3 22.439683 "PRESERVED_SPECIMEN" NA "GBIF" "4_sci_colection"

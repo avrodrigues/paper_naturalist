@@ -1,0 +1,5 @@
+"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
+"REFLORA" "NY" "NY01459645" NA NA "Eugenia yatuae" "B. K. Holst" -65.9288888888889 -0.646666666666667 "PRESERVED_SPECIMEN" NA "REFLORA" "1_det_by_spec"
+"SPLINK" "NYBG_BR" "01459645" 1965 NA "Eugenia yatuae" "B. K. Holst" -65.928794 0.6466 "PRESERVED_SPECIMEN" NA "SPLINK" "1_det_by_spec"
+"US" "Botany" "2555768" 1957 NA "Eugenia yatuae" "" -66.0663 1.14496 "PRESERVED_SPECIMEN" NA "GBIF" "4_sci_colection"
+"MO" "MO" "310303" 1984 NA "Eugenia yatuae" "B.Holst" -66.25 0.88333 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"

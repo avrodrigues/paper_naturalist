@@ -1,0 +1,3 @@
+"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
+"ntt" NA NA NA NA "Calyptranthes luetzelburgii" NA -37.0203 -8.4386 NA NA "BIEN" "6_no_criteria_met"
+"dryflor" NA NA NA NA "Calyptranthes luetzelburgii" NA -36.4919014 -7.398900032 NA NA "BIEN" "6_no_criteria_met"

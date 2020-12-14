@@ -1,0 +1,4 @@
+"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
+"MO" "MO" "312191" 1985 NA "Eugenia magniflora" "F.R. Barrie" -84.01666 10.3 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"
+"MO" "MO" "2866167" 1983 NA "Eugenia magniflora" "F.R. Barrie" -84.06666 10.35 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"
+"MO" "MO" "2866168" 1995 NA "Eugenia magniflora" "F.R. Barrie" -83.73 10.64 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"

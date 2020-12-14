@@ -1,0 +1,6 @@
+"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
+"REFLORA" "K" "K000330983" 1887 NA "Calyptranthes rigida" "Sem determinador" -76.65 17.92 "PRESERVED_SPECIMEN" NA "REFLORA" "2_taxonomist"
+"MO" "MO" "2495384" 1919 NA "Calyptranthes rigida" "Urban" -76.669 18.097 "PRESERVED_SPECIMEN" NA "GBIF" "2_taxonomist"
+"K" "Herbarium" "K000330981" 1919 NA "Calyptranthes rigida" "" -76.65 18.1 "PRESERVED_SPECIMEN" NA "GBIF" "4_sci_colection"
+"K" "Herbarium" "K000330979" 1909 NA "Calyptranthes rigida" "" -76.4 18.08 "PRESERVED_SPECIMEN" NA "GBIF" "4_sci_colection"
+"K" "Herbarium" "K000330980" 1911 NA "Calyptranthes rigida" "" -77.15 18.22 "PRESERVED_SPECIMEN" NA "GBIF" "4_sci_colection"

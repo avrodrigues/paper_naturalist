@@ -1,0 +1,2 @@
+"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
+"UConn" "CONN" "CONN00127244" 1967 NA "Eugenia harrisii" "" -76.66666 18.11666 "PRESERVED_SPECIMEN" NA "GBIF" "4_sci_colection"

@@ -1,0 +1,2 @@
+"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
+"BPBM" "BISH" "733330" 2001 NA "Psidium sintenisii" "" -66.9718 18.1412 "PRESERVED_SPECIMEN" NA "GBIF" "4_sci_colection"

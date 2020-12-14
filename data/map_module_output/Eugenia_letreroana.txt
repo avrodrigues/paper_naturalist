@@ -1,0 +1,7 @@
+"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
+"MO" "MO" "2865115" 1974 NA "Eugenia letreroana" "F.R. Barrie" -91.636667 16.093055 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"
+"MO" "MO" "2864213" 1964 NA "Eugenia letreroana" "F.R. Barrie" -91.22666 15.45888 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"
+"MO" "MO" "2864214" 1964 NA "Eugenia letreroana" "F.R. Barrie" -91.24194 15.45722 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"
+"MO" "MO" "2863902" 1964 NA "Eugenia letreroana" "F.R. Barrie" -91.18861 15.43666 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"
+"MO" "MO" "2863899" 1964 NA "Eugenia letreroana" "F.R. Barrie" -91.13138 15.385 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"
+"MO" "MO" "2862313" 1975 NA "Eugenia letreroana" "F.R. Barrie" -90.20444 15.18361 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"

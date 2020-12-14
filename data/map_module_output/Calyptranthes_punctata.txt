@@ -1,0 +1,7 @@
+"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
+"MO" "MO" "2484441" 1915 NA "Calyptranthes punctata" "Urban" -75.816667 20.46667 "PRESERVED_SPECIMEN" NA "GBIF" "2_taxonomist"
+"NY" "NY" "1434958" 1949 NA "Calyptranthes punctata" "" -75.089051 20.477163 "PRESERVED_SPECIMEN" NA "GBIF" "4_sci_colection"
+"NY" "NY" "1434959" 1945 NA "Calyptranthes punctata" "" -74.894582 20.576659 "PRESERVED_SPECIMEN" NA "GBIF" "4_sci_colection"
+"NY" "NY" "1434964" 1949 NA "Calyptranthes punctata" "" -75.088825 20.478972 "PRESERVED_SPECIMEN" NA "GBIF" "4_sci_colection"
+"NY" "NY" "01434956" 1914 NA "Calyptranthes punctata" "" -75.738379 20.441815 "PRESERVED_SPECIMEN" NA "GBIF" "4_sci_colection"
+"NHMUK" "BOT" "BM001011019" NA NA "Calyptranthes punctata" "Ana Cláudia Araújo" -79.03635 21.62117 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"

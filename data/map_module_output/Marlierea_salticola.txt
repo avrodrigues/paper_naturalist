@@ -1,0 +1,3 @@
+"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
+"U" "U" NA 1922 NA "Marlierea salticola" NA -59.2 5.3333333 "PRESERVED_SPECIMEN" NA "BIEN" "4_sci_colection"
+"ntt" NA NA NA NA "Marlierea salticola" NA -59.4856 5.1703 NA NA "BIEN" "6_no_criteria_met"

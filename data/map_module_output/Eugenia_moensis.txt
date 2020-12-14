@@ -1,0 +1,6 @@
+"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
+"NY" "NY" "84573" NA NA "Eugenia moensis" "" -74.966667 20.45 "PRESERVED_SPECIMEN" NA "GBIF" "4_sci_colection"
+"Université de Montréal Biodiversity Centre" "MT" "MT00114179" 1944 NA "Eugenia moensis" "Clément José, Fr." -74.8724 20.6224 "PRESERVED_SPECIMEN" NA "GBIF" "2_taxonomist"
+"Université de Montréal Biodiversity Centre" "MT" "MT00114178" NA NA "Eugenia moensis" "Marie-Victorin, Fr.; Clément José, Fr." -74.917642 20.643899 "PRESERVED_SPECIMEN" NA "GBIF" "2_taxonomist"
+"Université de Montréal Biodiversity Centre" "MT" "MT00114177" NA NA "Eugenia moensis" "Marie-Victorin, Fr.; Clément José, Fr." -74.8468 20.5955 "PRESERVED_SPECIMEN" NA "GBIF" "2_taxonomist"
+"Université de Montréal Biodiversity Centre" "MT" "MT00114176" NA NA "Eugenia moensis" "Marie-Victorin, Fr.; Clément José, Fr." -74.96212 20.616397 "PRESERVED_SPECIMEN" NA "GBIF" "2_taxonomist"

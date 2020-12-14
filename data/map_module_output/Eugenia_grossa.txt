@@ -1,0 +1,4 @@
+"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
+"F" "Botany" "V0360438F" 1992 NA "Eugenia grossa" "" -78.4 1 "PRESERVED_SPECIMEN" NA "GBIF" "4_sci_colection"
+"MO" "MO" "308759" 1992 NA "Eugenia grossa" "fide Holst & Kawasaki" -78.533333 0.916667 "PRESERVED_SPECIMEN" NA "GBIF" "2_taxonomist"
+"MO" "MO" "308594" 1992 NA "Eugenia grossa" "fide Holst & Kawasaki" -78.416667 0.883333 "PRESERVED_SPECIMEN" NA "GBIF" "2_taxonomist"

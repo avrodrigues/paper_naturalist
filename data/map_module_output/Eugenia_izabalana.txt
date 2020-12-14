@@ -1,0 +1,7 @@
+"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
+"MO" "MO" "3428848" 1969 NA "Eugenia izabalana" "F.R. Barrie" -89.20083 15.89055 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"
+"MO" "MO" "307697" 1988 NA "Eugenia izabalana" "F.R. Barrie" -88.98333 16.98333 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"
+"MO" "MO" "2864823" 1970 NA "Eugenia izabalana" "F.R. Barrie" -89.15583 15.8125 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"
+"MO" "MO" "2864818" 1976 NA "Eugenia izabalana" "F.R. Barrie" -89.11527 15.77027 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"
+"MO" "MO" "1704500" 1969 NA "Eugenia izabalana" "F.R. Barrie" -89.2325 15.88833 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"
+"UConn" "CONN" "CONN00127245" 1969 NA "Eugenia izabalana" "" -89.21666 15.88333 "PRESERVED_SPECIMEN" NA "GBIF" "4_sci_colection"

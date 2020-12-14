@@ -1,0 +1,2 @@
+"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
+"JABOT" "RB" "776034" 2018 NA "Eugenia subamplexicaulis" "T. Fernandes" -42.9672222222222 -22.9413888888889 "PRESERVED_SPECIMEN" NA "JABOT" "2_taxonomist"

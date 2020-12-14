@@ -1,0 +1,3 @@
+"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
+"MO" "MO" "1704305" 1975 NA "Eugenia bajaverapazana" "F.R. Barrie" -90.20444 15.18361 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"
+"F" "Botany" "V0064914F" 1975 NA "Eugenia bajaverapazana" "" -90.1792 15.7422 "PRESERVED_SPECIMEN" NA "GBIF" "4_sci_colection"

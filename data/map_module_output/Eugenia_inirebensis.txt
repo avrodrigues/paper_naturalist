@@ -1,0 +1,5 @@
+"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
+"UACh" "CHAP" "31313" 1987 NA "Eugenia inirebensis" "G. Ibarra M." -95.075 18.575 "PRESERVED_SPECIMEN" NA "GBIF" "2_taxonomist"
+"MO" "MO" "2862742" 1986 NA "Eugenia inirebensis" "F.R. Barrie" -96.75 18.91666 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"
+"MO" "MO" "2864199" 1985 NA "Eugenia inirebensis" "F.R. Barrie" -96.76666 18.95 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"
+"MO" "MO" "100424298" 2009 NA "Eugenia inirebensis" "G. Ibarra M." -95.075556 18.585833 "PRESERVED_SPECIMEN" NA "GBIF" "2_taxonomist"

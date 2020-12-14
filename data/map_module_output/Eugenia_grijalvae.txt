@@ -1,0 +1,8 @@
+"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
+"NHMUK" "BOT" "BM001209102" 1979 NA "Eugenia grijalvae" "Fred Rogers Barrie" -84.991667 13.741667 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"
+"MNHN" "P" "P04022458" 1979 NA "Eugenia grijalvae" "Barrie" -84.99167 13.74167 "PRESERVED_SPECIMEN" NA "GBIF" "2_taxonomist"
+"MO" "MO" "764212" 1979 NA "Eugenia grijalvae" "F.R. Barrie" -84.995833 13.733333 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"
+"MO" "MO" "312697" 1979 NA "Eugenia grijalvae" "F.R. Barrie" -84.99583 13.725 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"
+"MO" "MO" "1499654" 2000 NA "Eugenia grijalvae" "F. Barrie" -85.216667 12.966667 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"
+"MO" "MO" "1335834" 1999 NA "Eugenia grijalvae" "F. Barrie" -84.98333 13.78333 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"
+"MO" "MO" "1183331" 1997 NA "Eugenia grijalvae" "A. Pool" -84.18333 11.15 "PRESERVED_SPECIMEN" NA "GBIF" "2_taxonomist"

@@ -1,0 +1,5 @@
+"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
+"SI" "HERB" "49756" NA NA "Myrcianthes minimifolia" "-" -64.42 -24.03 "PRESERVED_SPECIMEN" NA "GBIF" "4_sci_colection"
+"ntt" NA NA NA NA "Myrcianthes minimifolia" NA -64.8744 -23.6972 NA NA "BIEN" "6_no_criteria_met"
+"ntt" NA NA NA NA "Myrcianthes minimifolia" NA -72.6511 -15.0639 NA NA "BIEN" "6_no_criteria_met"
+"ntt" NA NA NA NA "Myrcianthes minimifolia" NA -75.0603 -11.3636 NA NA "BIEN" "6_no_criteria_met"

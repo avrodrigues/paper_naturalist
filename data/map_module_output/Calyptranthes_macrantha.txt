@@ -1,0 +1,3 @@
+"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
+"MO" "MO" "100850783" 1976 NA "Calyptranthes macrantha" "B.K. Holst (SEL)" -91.640555 16.096389 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"
+"F" "Botany" "V0064815F" 1941 NA "Calyptranthes macrantha" "RRC ID Flag" -90 15.6667 "PRESERVED_SPECIMEN" NA "GBIF" "4_sci_colection"

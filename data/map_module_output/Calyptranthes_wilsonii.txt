@@ -1,0 +1,2 @@
+"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
+"K" "Herbarium" "K000331031" 1909 NA "Calyptranthes wilsonii" "" -76.4 18.08 "PRESERVED_SPECIMEN" NA "GBIF" "4_sci_colection"

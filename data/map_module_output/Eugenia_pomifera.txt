@@ -1,0 +1,6 @@
+"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
+"K" "Herbarium" "K001002630" 1926 NA "Eugenia pomifera" "" -71.4 17.8 "PRESERVED_SPECIMEN" NA "GBIF" "4_sci_colection"
+"MO" "MO" "3150373" 1986 NA "Eugenia pomifera" "" -71.5 17.83333 "PRESERVED_SPECIMEN" NA "GBIF" "4_sci_colection"
+"MO" "MO" "3150297" 1986 NA "Eugenia pomifera" "" -71.56666 17.76666 "PRESERVED_SPECIMEN" NA "GBIF" "4_sci_colection"
+"NY" "NY" "01436762" 1986 NA "Eugenia pomifera" "" -71.57 17.77 "PRESERVED_SPECIMEN" NA "GBIF" "4_sci_colection"
+"NY" "NY" "1436763" 1986 NA "Eugenia pomifera" "" -71.5 17.83 "PRESERVED_SPECIMEN" NA "GBIF" "4_sci_colection"

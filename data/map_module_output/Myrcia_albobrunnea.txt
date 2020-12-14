@@ -1,0 +1,3 @@
+"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
+"MO" "MO" "309756" 1972 NA "Myrcia albobrunnea" "Rogers McVaugh" -73.265556 -3.690833 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"
+"ntt" NA NA NA NA "Myrcia albobrunnea" NA -73.8469 -4.5572 NA NA "BIEN" "6_no_criteria_met"

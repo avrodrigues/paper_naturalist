@@ -1,0 +1,4 @@
+"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
+"K" "Herbarium" "K001002475" NA NA "Eugenia crenulata" "" -70.74 18.91 "PRESERVED_SPECIMEN" NA "GBIF" "4_sci_colection"
+"MO" "MO" "3152976" 1999 NA "Eugenia crenulata" "" -70.23333 18.55 "PRESERVED_SPECIMEN" NA "GBIF" "4_sci_colection"
+"NY" "NY" "1435667" 1989 NA "Eugenia crenulata" "" -71.22 19.38 "PRESERVED_SPECIMEN" NA "GBIF" "4_sci_colection"

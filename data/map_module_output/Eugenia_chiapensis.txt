@@ -1,0 +1,4 @@
+"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
+"UNICACH" "HEM" "HEM 2243" 2001 NA "Eugenia chiapensis" "M.A.Pérez-Farrera" -93.09 15.772778 "PRESERVED_SPECIMEN" NA "GBIF" "2_taxonomist"
+"UNICACH" "HEM" "HEM 19384" 2003 NA "Eugenia chiapensis" "R.R.S." -92.943611 15.722778 "PRESERVED_SPECIMEN" NA "GBIF" "2_taxonomist"
+"MO" "MO" "2865322" 1989 NA "Eugenia chiapensis" "F.R. Barrie" -92.8 15.65 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"

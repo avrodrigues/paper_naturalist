@@ -1,0 +1,7 @@
+"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
+"NY" "NY" "1437000" 1951 NA "Eugenia rimosa" "" -83.445597 22.790292 "PRESERVED_SPECIMEN" NA "GBIF" "4_sci_colection"
+"NY" "NY" "1437012" 1925 NA "Eugenia rimosa" "" -76.064722 20.016407 "PRESERVED_SPECIMEN" NA "GBIF" "4_sci_colection"
+"NY" "NY" "1437002" 1922 NA "Eugenia rimosa" "" -83.100021 22.766652 "PRESERVED_SPECIMEN" NA "GBIF" "4_sci_colection"
+"NY" "NY" "1437010" 1914 NA "Eugenia rimosa" "" -83.366478 22.647253 "PRESERVED_SPECIMEN" NA "GBIF" "4_sci_colection"
+"NY" "NY" "1437001" 1952 NA "Eugenia rimosa" "" -83.008328 22.799429 "PRESERVED_SPECIMEN" NA "GBIF" "4_sci_colection"
+"NY" "NY" "1437003" 1923 NA "Eugenia rimosa" "" -83.659242 22.324144 "PRESERVED_SPECIMEN" NA "GBIF" "4_sci_colection"

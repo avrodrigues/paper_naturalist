@@ -1,0 +1,2 @@
+"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
+"MO" "MO" NA 1987 NA "Marlierea cana" NA -66.15 5.68333 "PRESERVED_SPECIMEN" NA "BIEN" "4_sci_colection"

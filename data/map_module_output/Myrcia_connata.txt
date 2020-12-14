@@ -1,0 +1,5 @@
+"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
+"MO" "MO" "1924149" 2003 NA "Myrcia connata" "A. Fuentes (LPB)" -68.671944 -14.628889 "PRESERVED_SPECIMEN" NA "GBIF" "2_taxonomist"
+"MO" "LPB, MO, SEL" NA 2003 NA "Myrcia connata" NA -68.67194 -14.62888 "PRESERVED_SPECIMEN" NA "BIEN" "4_sci_colection"
+"traits" NA NA NA NA "Myrcia connata" NA -68.6385833 -14.7710278 NA NA "BIEN" "6_no_criteria_met"
+"ntt" NA NA NA NA "Myrcia connata" NA -68.6361 -13.6014 NA NA "BIEN" "6_no_criteria_met"

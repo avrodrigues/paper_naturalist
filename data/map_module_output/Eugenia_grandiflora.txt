@@ -1,0 +1,8 @@
+"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
+"K" "Herbarium" "K001002900" 1999 NA "Eugenia grandiflora" "" -70.09 9.24 "PRESERVED_SPECIMEN" NA "GBIF" "4_sci_colection"
+"K" "Herbarium" "K001002897" 1982 NA "Eugenia grandiflora" "" -69 9 "PRESERVED_SPECIMEN" NA "GBIF" "4_sci_colection"
+"US" "Botany" "3382321" 1999 NA "Eugenia grandiflora" "Cuello, N. L." -70.0736 9.3175 "PRESERVED_SPECIMEN" NA "GBIF" "2_taxonomist"
+"US" "Botany" "3392116" 1999 NA "Eugenia grandiflora" "Dorr, L. J., (BOT), Smithsonian Institution - National Museum of Natural History (UNITED STATES)" -70.0906 9.2439 "PRESERVED_SPECIMEN" NA "GBIF" "2_taxonomist"
+"MO" "MO" "3224867" 2004 NA "Eugenia grandiflora" "W. Meier" -68.625 10.29166 "PRESERVED_SPECIMEN" NA "GBIF" "2_taxonomist"
+"MO" "MO" "100151147" 1999 NA "Eugenia grandiflora" "N. Cuello" -70.066667 9.316667 "PRESERVED_SPECIMEN" NA "GBIF" "2_taxonomist"
+"F" "Botany" "V0108752F" NA NA "Eugenia grandiflora" "" -65.9119 7.0758 "PRESERVED_SPECIMEN" NA "GBIF" "4_sci_colection"

@@ -1,0 +1,5 @@
+"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
+"REFLORA" "RB" "RB01116793" NA "2016-06-29" "Eugenia membranifolia" "Bünger, M." -47.9247222222222 -24.1913888888889 "PRESERVED_SPECIMEN" NA "REFLORA" "1_det_by_spec"
+"SPLINK" "BHCB" "164467" NA NA "Eugenia membranifolia" "" -47.924722 -24.191389 "PRESERVED_SPECIMEN" NA "SPLINK" "4_sci_colection"
+"SPLINK" "HUFSJ" "6601" 2012 NA "Eugenia membranifolia" "Sobral, M" -46.285556 -23.768611 "PRESERVED_SPECIMEN" NA "SPLINK" "1_det_by_spec"
+"SPLINK" "HUFSJ" "6604" 2012 "2016-07-05" "Eugenia membranifolia" "Bunger, MO" -46.286944 -23.768056 "PRESERVED_SPECIMEN" NA "SPLINK" "1_det_by_spec"

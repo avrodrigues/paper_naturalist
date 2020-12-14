@@ -1,0 +1,7 @@
+"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
+"MO" "MO" "3191239" 1979 NA "Myrcianthes karsteniana" "Francesca T. Grifo" -72.4 7.51666 "PRESERVED_SPECIMEN" NA "GBIF" "2_taxonomist"
+"MEL" "MEL" "MEL 1540542A" NA NA "Myrcianthes karsteniana" "Macheda, D.R." -67.5 10.35 "PRESERVED_SPECIMEN" NA "GBIF" "2_taxonomist"
+"NHMUK" "BOT" "BM000953818" NA NA "Myrcianthes karsteniana" "Francesca. T. Grifo" -67.28925 10.406347 "PRESERVED_SPECIMEN" NA "GBIF" "2_taxonomist"
+"ntt" NA NA NA NA "Myrcianthes karsteniana" NA -74.3022 4.6089 NA NA "BIEN" "6_no_criteria_met"
+"ntt" NA NA NA NA "Myrcianthes karsteniana" NA -71.4133 8.6483 NA NA "BIEN" "6_no_criteria_met"
+"ntt" NA NA NA NA "Myrcianthes karsteniana" NA -67.3042 10.4003 NA NA "BIEN" "6_no_criteria_met"

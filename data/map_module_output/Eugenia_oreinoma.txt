@@ -1,0 +1,7 @@
+"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
+"LAGU" "Herbarium LAGU" "ES-00153" 1991 NA "Eugenia oreinoma" "F.R.Barrie [Tropicos]" -89.93333 13.81667 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"
+"LAGU" "Herbarium LAGU" "AM-03110" 1999 NA "Eugenia oreinoma" "J.Monterrosa (LAGU) 2005-04" -89.87222 13.82611 "PRESERVED_SPECIMEN" NA "GBIF" "2_taxonomist"
+"MO" "MO" "2866156" 1949 NA "Eugenia oreinoma" "F.R. Barrie" -89.682222 13.87 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"
+"MO" "MO" "2865627" 1938 NA "Eugenia oreinoma" "F.R. Barrie" -89.89833 14.29361 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"
+"MO" "MO" "2865626" 1991 NA "Eugenia oreinoma" "F.R. Barrie" -89.93333 13.81666 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"
+"MO" "MO" "2279587" 1999 NA "Eugenia oreinoma" "F.R. Barrie" -89.85 13.8 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"

@@ -1,0 +1,4 @@
+"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
+"MO" "MO" "1704669" 1996 NA "Eugenia sancarlosensis" "F.R. Barrie" -84.19 10.69 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"
+"MO" "MO" "776214" 1991 NA "Eugenia sancarlosensis" "F.R. Barrie" -84.16 10.7 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"
+"MO" "MO" "902029" 1993 NA "Eugenia sancarlosensis" "F.R. Barrie" -84.08333 12.31666 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"

@@ -1,0 +1,4 @@
+"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
+"REFLORA" "RB" "RB01101525" 2015 "2018-06-08" "Eugenia atroracemosa" "Marcos Eduardo Guerra Sobral" -54.9291666666667 -3.34805555555556 "PRESERVED_SPECIMEN" NA "REFLORA" "1_det_by_spec"
+"SPLINK" "MOBOT_BR" "3189265" 1936 NA "Eugenia atroracemosa" "McVaugh" -68.8725 -3.37833 "PRESERVED_SPECIMEN" NA "SPLINK" "2_taxonomist"
+"MO" "MO" "306907" 1978 NA "Eugenia atroracemosa" "Ronald L. Liesner (MO)" -73.5 -3.83333 "PRESERVED_SPECIMEN" NA "GBIF" "2_taxonomist"
