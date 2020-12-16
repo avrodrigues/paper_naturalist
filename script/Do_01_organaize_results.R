@@ -8,14 +8,15 @@ library(dplyr)
 source(here("function", "summ_results_area.R"))
 source(here("function", "summ_results_richness.R"))
 
-output.files <- list.files(here("output"), full.names = T)
-
-file.names <- grep("RData", output.files, value = T)
 
 # Loading data ------------------------------------------------------------
 
 # list of matrix results from sampling specilist table before classify 
 # and filter occurrences which was identified by a specialist
+
+output.files <- list.files(here("output"), full.names = T)
+file.names <- grep("RData", output.files, value = T)
+
 
 load(file.names[[1]])
 spec_10 <- list.env.area.std
@@ -463,6 +464,7 @@ txt.spec.all <- ggplot(data.frame(x = 1, y = 1)) +
                 label = "           Lists united"), size = sz) +
   theme_void()
 
+
 lout.mtx <- matrix(c(1,2,3,4,5,
                      6,7,8,9,10,
                      6,7,8,9,10,
@@ -602,3 +604,72 @@ grid.arrange(txt.spec.1,
              bottom = "Proportion sampled from the list of specialists",
              left = "Correlation of richness from full and filtered dataset")
 
+
+
+# Richness all specielist data --------------------------------------------
+
+
+spec.1.occ$pol.richness 
+spec.5.occ 
+spec.10.occ
+spec.myrt.occ
+spec.all.occ 
+
+
+pol.sp.rich.1    <-  cor(spec.1.occ$pol.richness,
+                      all.occ$pol.richness)
+pol.sp.rich.5    <-  cor(spec.5.occ$pol.richness,
+                      all.occ$pol.richness)
+pol.sp.rich.10   <-  cor(spec.10.occ$pol.richness,
+                      all.occ$pol.richness)
+pol.sp.rich.myrt <-  cor(spec.myrt.occ$pol.richness,
+                      all.occ$pol.richness)
+pol.sp.rich.all  <-  cor(spec.all.occ$pol.richness,
+                      all.occ$pol.richness)
+
+cor.pol <- c(pol.sp.rich.1,
+  pol.sp.rich.5,
+  pol.sp.rich.10,
+  pol.sp.rich.myrt,
+  pol.sp.rich.all )
+
+pt.sp.rich.1    <-  cor(spec.1.occ$pt.richness,
+                         all.occ$pt.richness,  use = "na.or.complete")
+pt.sp.rich.5    <-  cor(spec.5.occ$pt.richness,
+                         all.occ$pt.richness, use = "na.or.complete")
+pt.sp.rich.10   <-  cor(spec.10.occ$pt.richness,
+                         all.occ$pt.richness, use = "na.or.complete")
+pt.sp.rich.myrt <-  cor(spec.myrt.occ$pt.richness,
+                         all.occ$pt.richness, use = "na.or.complete")
+pt.sp.rich.all  <-  cor(spec.all.occ$pt.richness,
+                         all.occ$pt.richness, use = "na.or.complete")
+
+cor.pt <- c(pt.sp.rich.1,
+             pt.sp.rich.5,
+             pt.sp.rich.10,
+             pt.sp.rich.myrt,
+             pt.sp.rich.all )
+
+rich.df <- tibble(cor.pol, 
+                  cor.pt,
+                  label = c("1% most frequent string",
+                            "5% most frequent string",
+                            "10% most frequent string",
+                            "Provided by a specialist",
+                            "Lists united"), 
+                  order = 1:5)
+windows(8,3)
+ggplot(rich.df, aes(x = factor(label, levels = label[5:1]))) +
+  geom_col(aes(y = cor.pol, fill = "pol"))  +
+  geom_col(aes(y = cor.pt, fill = "pt"))  +
+  geom_hline( yintercept = 1, linetype = "longdash") +
+  scale_y_continuous(breaks = seq(0, 1, by = 0.1)) +
+  scale_fill_manual(name = "Legend",
+                     values = c( "pol" = "blue", "pt" = "red"),
+                     labels = c("Richness based in Polygons", 
+                                "Richness based in Points")) +
+  labs(x = "Type of List of specialist", 
+       y = "Peason correlation [cleaned vs not-cleaned]") +
+  theme_classic() +
+  coord_flip() +
+  theme(legend.position = "bottom") 
