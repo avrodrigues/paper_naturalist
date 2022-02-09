@@ -1,0 +1,178 @@
+---
+title: "Mapas para comparação"
+author: "Arthur Rodrigues"
+date: "01/03/2021"
+output: 
+  html_document:
+    code_folding: hide
+---
+
+Esses mapas são bem similares a forma que construímos a função `map_module` do `{naturaList}` .
+
+Aqui colori as ocorrências que são determinadas por especialistas (roxo) e as determinadas por não-especialistas (laranja). Essa classificação é baseada na lista mais ampla de especialistas que temos. Esses dados também passaram por uma conferência utilizando o `map_module` e foram filtrados por data (mantendo apenas os coletados após 1979), como está descrito no manuscrito.
+
+Teve uma única espécie das que você pediu que não encontrei nos meus dados: *Myrcia obversa*. Procurei também pelo sinônimo *Marlierea obversa* e também não encontrei ocorrências para essa espécie. Para todas as outras espécies seguem os mapas. Neles é possivel escolher as ocorrências a serem mostradas (especialistas ou não-especialistas) e ao clicar nos pontos são mostradas algumas informações sobre a ocorrência.
+
+```{r, message=F}
+
+#pacotes
+library(leaflet)
+library(mapview)
+library(here)
+library(tidyverse)
+library(htmltools)
+
+#dados
+load(here("data", "occ_df.RData"))
+#occ.df <- filter(occ.df, year >= 1979)
+
+# especies para comparação
+van.sp <- 
+c("Eugenia expansa",
+"Myrceugenia alpigena",
+"Myrcia pubipetala",
+"Myrcia decorticans",
+"Myrcia isaiana",
+"Myrcia spectabilis",
+"Myrcia springiana",
+"Myrcia vittoriana",
+"Myrcianthes pungens",
+"Siphoneugena densiflora")
+
+# função para mapa
+leaf_map <- function(occ.df, sel.sp){
+  
+sp.data.spec <- 
+occ.df %>% 
+  filter(species == sel.sp,
+         naturaList_levels == "1_det_by_spec") 
+
+sp.data.not.spec <- 
+  occ.df %>% 
+  filter(species == sel.sp,
+         naturaList_levels != "1_det_by_spec") 
+
+
+leaflet() %>% 
+  addTiles() %>% 
+  leaflet::addCircleMarkers(
+    data = sp.data.not.spec,
+    lng= sp.data.not.spec$decimalLongitude,
+    lat= sp.data.not.spec$decimalLatitude,
+    radius=6,
+    fillColor="orange", 
+    stroke = F,
+    fillOpacity = 0.8,
+    group = "Especialista",
+    popup = paste(
+      strong("ID:"), sp.data.not.spec[, "occurrenceID"],"<br>",
+      strong("Institution Source:"), sp.data.not.spec[, "collectionCode"], "<br>",
+      strong("Determined by:"), sp.data.not.spec[, "identifiedBy"], "<br>",
+      strong("Year of data colection:"), sp.data.not.spec[, "year"], "<br>",
+      strong("Date Identified:"), sp.data.not.spec[, "dateIdentified"], "<br>")) %>% 
+  leaflet::addCircleMarkers(
+    data = sp.data.spec,
+    lng= sp.data.spec$decimalLongitude,
+    lat= sp.data.spec$decimalLatitude,
+    radius=6,
+    fillColor="purple", 
+    stroke = F,
+    fillOpacity = 0.8,
+    group ="Não-especialista",
+    popup = paste(
+      strong("ID:"), sp.data.spec[, "occurrenceID"],"<br>",
+      strong("Institution Source:"), sp.data.spec[, "collectionCode"], "<br>",
+      strong("Determined by:"), sp.data.spec[, "identifiedBy"], "<br>",
+      strong("Year of data colection:"), sp.data.spec[, "year"], "<br>",
+      strong("Date Identified:"), sp.data.spec[, "dateIdentified"], "<br>")) %>% 
+  leaflet::addLayersControl(
+    overlayGroups = c("Especialista", "Não-especialista")) %>% 
+  leaflet::addLegend(
+    "bottomright",
+    colors = c("purple", "orange"),
+    labels = c("Especialista", "Não-especialista"),
+    opacity = 0.8)
+}
+
+
+```
+
+------------------------------------------------------------------------
+
+## *Eugenia expansa*
+
+```{r}
+leaf_map(occ.df, van.sp[1])
+```
+
+------------------------------------------------------------------------
+
+## *Myrceugenia alpigena*
+
+```{r}
+leaf_map(occ.df, van.sp[2])
+```
+
+------------------------------------------------------------------------
+
+## *Myrcia pubipetala*
+
+```{r}
+leaf_map(occ.df, van.sp[3])
+```
+
+------------------------------------------------------------------------
+
+## *Myrcia decorticans*
+
+```{r}
+leaf_map(occ.df, van.sp[4])
+```
+
+------------------------------------------------------------------------
+
+## *Myrcia isaiana*
+
+```{r}
+leaf_map(occ.df, van.sp[5])
+```
+
+------------------------------------------------------------------------
+
+## *Myrcia spectabilis*
+
+```{r}
+leaf_map(occ.df, van.sp[6])
+```
+
+------------------------------------------------------------------------
+
+## *Myrcia springiana*
+
+```{r}
+leaf_map(occ.df, van.sp[7])
+```
+
+------------------------------------------------------------------------
+
+## *Myrcia vittoriana*
+
+```{r}
+leaf_map(occ.df, van.sp[8])
+```
+
+------------------------------------------------------------------------
+
+## *Myrcianthes pungens*
+
+```{r}
+leaf_map(occ.df, van.sp[9])
+```
+
+------------------------------------------------------------------------
+
+## *Siphoneugena densiflora*
+
+```{r}
+leaf_map(occ.df, van.sp[10])
+```

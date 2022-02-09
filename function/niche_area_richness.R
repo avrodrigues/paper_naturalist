@@ -48,6 +48,7 @@ niche_area_richness <- function(occ,
                xlim = c(-120,-30),
                ylim = c(-60,35)
   )  
+  
   pt.richness.val <- values(pt.richness)
   
   # Environmental space

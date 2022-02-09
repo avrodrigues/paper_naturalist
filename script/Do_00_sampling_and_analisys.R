@@ -1,5 +1,4 @@
 library(naturaList)
-library(here)
 library(tidyverse)
 library(raster)
 library(sp)
@@ -7,10 +6,9 @@ library(sf)
 library(rnaturalearth)
 library(vegan)
 library(fasterize)
-source(here::here("function", "niche_area_richness.R"))
-source(here::here("function", "class_filter_samp_spec.R"))
-source("https://raw.githubusercontent.com/avrodrigues/avr_functions/master/map_rich_occ.R")
-
+library(here)
+source(here("function", "define_env_space.R"))
+source(here("function", "clean_eval.R"))
 
 # Load data ---------------------------------------------------------------
 
@@ -28,236 +26,153 @@ spec.files <- grep("especialistas",
 l.spec.df <- lapply(spec.files, read.csv2)
 names(l.spec.df) <- substr(spec.files, 99, nchar(spec.files)-4)
 
-# enviromental data
-temp <- raster(here("data", "env", "bio1_chelsa_0_5dd.tif"))
-dry <- raster(here("data", "env", "bio17_chelsa_0_5dd_sqrt.tif"))
+# environmental data
+env.files <- list.files(here("data", "env"), full.names = T)
+env.stack <- stack(env.files)
 
-env.df <- na.omit(data.frame(temp = values(temp),
-                              dry = values(dry)))
+# standardized 
+values(env.stack) <- scale(as.data.frame(env.stack))
 
-# standardized by range
-env.stand <- decostand(env.df, "range")
+env.stand <- na.omit(as.data.frame(env.stack))
+
+env.pca <- prcomp(env.stand)
+res.env.pca <- summary(env.pca)
+
+#biplot(env.pca)
+# Sumary statistics of PCA
+# explanation
+res.env.pca
+#loadings
+res.env.pca$rotation[,1:2]
+
+# Select the first two axes
+raster.pca <- predict(env.stack, env.pca, index = 1:2)
 
 
-# Define limits of eniromental and geographical space ---------------------
+# Define limits of environmental and geographical space ---------------------
 
-# define the possible eviromental space
-env.point <-  st_multipoint(as.matrix(env.stand))
-
-box <- c(0,1,0,1)
-r <- raster(extent(box), resolution = 0.025)
-r.cell <- unique(cellFromXY(r, env.stand))
-xy.cell <- xyFromCell(r, r.cell)
-ch.point <-  st_multipoint(as.matrix(xy.cell))
-ch.buffer <- st_buffer(ch.point, 0.05)
-
-box2 <- c(xmin = 0, ymin = 0, xmax = 1, ymax = 1)
-env.space <- st_crop(st_geometry(ch.buffer), box2)
-plot(env.space)
+# define the possible environmental space
+pca.df <- na.omit(as.data.frame(raster.pca))
+env.space <- define_env_space(pca.df, buffer.size = 0.05)
 
 # defining geographic region
 neo_coastline <- ne_coastline(scale = 50, returnclass = "sf")
-ext <- extent(temp)[c(1:4)]
+ext <- extent(env.stack)[c(1:4)]
 names(ext) <- c("xmin", "xmax", "ymin", "ymax")
 neo_coastline <- st_crop(st_geometry(neo_coastline), ext)
 neo_coastline <- st_cast(neo_coastline, "MULTIPOLYGON")
 
-plot(temp)
-plot(neo_coastline,  add = T)
-
-
-
-
-# Classify and filter from complete lists of specialists ------------------
-
-# All occurrence data
-# No filtering
-occ.test <- occ.df %>% 
-  dplyr::select(decimalLongitude, decimalLatitude, species) 
-
-all.occ <- niche_area_richness(occ.test,
-                               neo_coastline,
-                               env.space)
-saveRDS(all.occ, here("output", "all_occ_classified.rds"))
-
+# Classify, filter and compute metrics ------------------
 
 # Specialist list: 1% most frequent strings
-# Filter: only identified by specialists
-occ.df.spec.1 <- classify_occ(occ.df,
-                             l.spec.df$especialistas_1porcento,
-                             spec.ambiguity = "not.spec")
+occ.cl.spec.1 <- classify_occ(occ.df,
+                          l.spec.df$especialistas_1porcento,
+                          spec.ambiguity = "not.spec")
 
-occ.spec.1 <- occ.df.spec.1 %>% 
-  filter(naturaList_levels == "1_det_by_spec") %>% 
-  dplyr::select(decimalLongitude, decimalLatitude, species) 
-
-spec.1.occ <- niche_area_richness(occ.spec.1,
-                                  neo_coastline,
-                                  env.space)
-
-names.sp <- names(all.occ[[1]]) %in% names(spec.1.occ[[1]])
-mtx.env.area <- matrix(0, length(all.occ[[1]]), 1)
-mtx.geo.area <- matrix(0, length(all.occ[[1]]), 1)
-mtx.env.area[names.sp, 1] <- spec.1.occ$env.area
-mtx.geo.area[names.sp, 1] <- spec.1.occ$geo.area
-spec.1.occ$env.area <- mtx.env.area
-spec.1.occ$geo.area <- mtx.geo.area
+occ.cl.spec.1 %>% 
+  group_by(naturaList_levels) %>% 
+  summarise(count = n()/nrow(occ.cl.spec.1))
 
 
-saveRDS(spec.1.occ, here("output", "spec_1_occ_classified.rds"))
+l.eval.spec.1 <- clean_eval(occ.cl.spec.1, 
+                     neo_coastline, 
+                     env.space,
+                     r = raster.pca)
+
+saveRDS(l.eval.spec.1, here("output", "spec_1_clean_eval_results.rds"))
+
 
 # Specialist list: 5% most frequent strings
-# Filter: only identified by specialists
-occ.df.spec.5 <- classify_occ(occ.df,
-                             l.spec.df$especialistas_5porcento,
-                             spec.ambiguity = "not.spec")
+occ.cl.spec.5 <- classify_occ(occ.df,
+                              l.spec.df$especialistas_5porcento,
+                              spec.ambiguity = "not.spec")
 
-occ.spec.5 <- occ.df.spec.5 %>% 
-  filter(naturaList_levels == "1_det_by_spec") %>% 
-  dplyr::select(decimalLongitude, decimalLatitude, species) 
+occ.cl.spec.5 %>% 
+  group_by(naturaList_levels) %>% 
+  summarise(count = n()/nrow(occ.cl.spec.5))
 
-spec.5.occ <- niche_area_richness(occ.spec.5,
-                                  neo_coastline,
-                                  env.space)
 
-names.sp <- names(all.occ[[1]]) %in% names(spec.5.occ[[1]])
-mtx.env.area <- matrix(0, length(all.occ[[1]]), 1)
-mtx.geo.area <- matrix(0, length(all.occ[[1]]), 1)
-mtx.env.area[names.sp, 1] <- spec.5.occ$env.area
-mtx.geo.area[names.sp, 1] <- spec.5.occ$geo.area
-spec.5.occ$env.area <- mtx.env.area
-spec.5.occ$geo.area <- mtx.geo.area
+l.eval.spec.5 <- clean_eval(occ.cl.spec.5, 
+                            neo_coastline, 
+                            env.space,
+                            r = raster.pca)
 
-saveRDS(spec.5.occ, here("output", "spec_5_occ_classified.rds"))
+saveRDS(l.eval.spec.5, here("output", "spec_5_clean_eval_results.rds"))
+
 
 # Specialist list: 10% most frequent strings
-# Filter: only identified by specialists
-occ.df.spec.10 <- classify_occ(occ.df,
-                             l.spec.df$especialistas_10porcento,
-                             spec.ambiguity = "not.spec")
+occ.cl.spec.10 <- classify_occ(occ.df,
+                              l.spec.df$especialistas_10porcento,
+                              spec.ambiguity = "not.spec")
 
-occ.spec.10 <- occ.df.spec.10 %>% 
-  filter(naturaList_levels == "1_det_by_spec") %>% 
-  dplyr::select(decimalLongitude, decimalLatitude, species) 
+occ.cl.spec.10 %>% 
+  group_by(naturaList_levels) %>% 
+  summarise(count = n()/nrow(occ.cl.spec.10))
 
-spec.10.occ <- niche_area_richness(occ.spec.10,
-                                  neo_coastline,
-                                  env.space)
+l.eval.spec.10 <- clean_eval(occ.cl.spec.10, 
+                            neo_coastline, 
+                            env.space,
+                            r = raster.pca)
 
-names.sp <- names(all.occ[[1]]) %in% names(spec.10.occ[[1]])
-mtx.env.area <- matrix(0, length(all.occ[[1]]), 1)
-mtx.geo.area <- matrix(0, length(all.occ[[1]]), 1)
-mtx.env.area[names.sp, 1] <- spec.10.occ$env.area
-mtx.geo.area[names.sp, 1] <- spec.10.occ$geo.area
-spec.10.occ$env.area <- mtx.env.area
-spec.10.occ$geo.area <- mtx.geo.area
+saveRDS(l.eval.spec.10, here("output", "spec_10_clean_eval_results.rds"))
 
-saveRDS(spec.10.occ, here("output", "spec_10_occ_classified.rds"))
 
-# Specialist list: provided by a specialist
-# Filter: only identified by specialists
-occ.df.spec.Myrt <- classify_occ(occ.df,
-                             l.spec.df$especialistas_Myrtaceae,
-                             spec.ambiguity = "not.spec")
+# Specialist list: provided by a specialist in Myrtaceae
+occ.cl.spec.myrt <- classify_occ(occ.df,
+                               l.spec.df$especialistas_Myrtaceae,
+                               spec.ambiguity = "not.spec")
 
-occ.spec.Myrt <- occ.df.spec.Myrt %>% 
-  filter(naturaList_levels == "1_det_by_spec") %>% 
-  dplyr::select(decimalLongitude, decimalLatitude, species) 
+occ.cl.spec.myrt %>% 
+  group_by(naturaList_levels) %>% 
+  summarise(count = n()/nrow(occ.cl.spec.myrt))
 
-spec.Myrt.occ <- niche_area_richness(occ.spec.Myrt,
-                                   neo_coastline,
-                                   env.space)
+l.eval.spec.myrt <- clean_eval(occ.cl.spec.myrt, 
+                             neo_coastline, 
+                             env.space,
+                             r = raster.pca)
 
-names.sp <- names(all.occ[[1]]) %in% names(spec.Myrt.occ[[1]])
-mtx.env.area <- matrix(0, length(all.occ[[1]]), 1)
-mtx.geo.area <- matrix(0, length(all.occ[[1]]), 1)
-mtx.env.area[names.sp, 1] <- spec.Myrt.occ$env.area
-mtx.geo.area[names.sp, 1] <- spec.Myrt.occ$geo.area
-spec.Myrt.occ$env.area <- mtx.env.area
-spec.Myrt.occ$geo.area <- mtx.geo.area
+saveRDS(l.eval.spec.myrt, here("output", "spec_myrt_clean_eval_results.rds"))
 
-saveRDS(spec.Myrt.occ, here("output", "spec_Myrt_occ_classified.rds"))
 
 # Specialist list: jointed the lists of 10% most freq. and provided by a specialist
-# Filter: only identified by specialists
-occ.df.spec.all <- classify_occ(occ.df,
-                             l.spec.df$especialistas_todos,
-                             spec.ambiguity = "not.spec")
+occ.cl.spec.all <- classify_occ(occ.df,
+                                 l.spec.df$especialistas_todos,
+                                 spec.ambiguity = "not.spec")
 
-occ.spec.all <- occ.df.spec.all %>% 
-  filter(naturaList_levels == "1_det_by_spec") %>% 
-  dplyr::select(decimalLongitude, decimalLatitude, species) 
+occ.cl.spec.all %>% 
+  group_by(naturaList_levels) %>% 
+  summarise(count = n()/nrow(occ.cl.spec.all))
 
-spec.all.occ <- niche_area_richness(occ.spec.all,
-                                     neo_coastline,
-                                     env.space)
+l.eval.spec.all <- clean_eval(occ.cl.spec.all, 
+                               neo_coastline, 
+                               env.space,
+                               r = raster.pca)
 
-names.sp <- names(all.occ[[1]]) %in% names(spec.all.occ[[1]])
-mtx.env.area <- matrix(0, length(all.occ[[1]]), 1)
-mtx.geo.area <- matrix(0, length(all.occ[[1]]), 1)
-mtx.env.area[names.sp, 1] <- spec.all.occ$env.area
-mtx.geo.area[names.sp, 1] <- spec.all.occ$geo.area
-spec.all.occ$env.area <- mtx.env.area
-spec.all.occ$geo.area <- mtx.geo.area
+saveRDS(l.eval.spec.all, here("output", "spec_all_clean_eval_results.rds"))
 
-saveRDS(spec.all.occ, here("output", "spec_all_occ_classified.rds"))
 
-# Sampling the list of specialists and filter occurrence data -------------
+##############################
+#### GRANDE RASCUNHO FINAL E COISAS ANTIGAS
+############
 
-# each list of specialists
-for(k in 1:length(l.spec.df)){
-  
-  idx <- 1
-  list.env.area.std <- vector("list", 5)
-  
-  # each proportional sampling of a list of specialist
-  for(prop in c(0.1,0.3,0.5,0.7,0.9)){
-    
-    # number of repetitions
-    n.run <- 100
-    mtx.env.area <- matrix(0, length(all.occ[[1]]), n.run)
-    mtx.geo.area <- matrix(0, length(all.occ[[1]]), n.run)
-    mtx.pol.richness <- matrix(0, length(all.occ[[3]]), n.run)
-    mtx.pt.richness <- matrix(0, length(all.occ[[4]]), n.run)
-    
-    # classification, filter only idetified by specialists
-    # calcule geographical and environmental range and
-    # richness based only on points and polygons
-    pb <- txtProgressBar(min = 0, max = n.run, style = 3)
-    for(i in 1:n.run){
-      occ.run <- class_filter_samp_spec(occ.df = occ.df, 
-                                        spec.list = l.spec.df[[k]],
-                                        sample.spec = prop)
-      
-      occ.run.ft <- occ.run %>% 
-        dplyr::select(decimalLongitude, decimalLatitude, species)
-      
-      smp.occ <- niche_area_richness(occ.run.ft,
-                                     geo.space = neo_coastline,
-                                     env.space)
-      
-      run.sp <- names(all.occ[[1]]) %in% names(smp.occ[[1]])
-      
-      mtx.env.area[run.sp, i] <- smp.occ$env.area
-      mtx.geo.area[run.sp, i] <- smp.occ$geo.area
-      mtx.pol.richness[,i] <- smp.occ$pol.richness
-      mtx.pt.richness[,i] <- smp.occ$pt.richness
-      
-      setTxtProgressBar(pb, i)
-      
-    }
-    
-    list.env.area.std[[idx]] <- list(mtx.env.area = mtx.env.area,
-                                     mtx.geo.area = mtx.geo.area,
-                                     mtx.pol.richness = mtx.pol.richness,
-                                     mtx.pt.richness = mtx.pt.richness)
-    cat(paste("prop", idx), fill = T)
-    idx <- idx + 1
-  }
-  save(list.env.area.std, file = here("output", 
-                                      paste0("sample_",
-                                             names(l.spec.df)[k],
-                                             ".RData")))
-  cat(paste(k, "finalizado"))
-}
+cor(l.eval$area$r.geo.area, l.eval$area$r.env.area, use = "na.or.complete")
+
+
+comp.BC <- l.eval$comp$comp.BC
+comp.AC <- l.eval$comp$comp.AC
+
+empty.sites <- rowSums(comp.BC) == 0 & rowSums(comp.AC) == 0
+empty.sites[is.na(empty.sites)] <- TRUE
+
+tbi.null <- ifelse(empty.sites, 0, 0)
+tbi.all.sites <- rep(NA, nrow(comp.BC))
+
+tbi <- TBI(comp.BC[!empty.sites,], 
+           comp.AC[!empty.sites,])
+
+tbi.all.sites[!empty.sites] <- tbi$TBI
+
+r.tbi <- rasterFromXYZ(cbind(l.eval$site.coords,tbi.all.sites))
+plot(r.tbi)
+
 
