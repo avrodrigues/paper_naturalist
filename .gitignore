@@ -2,11 +2,11 @@
 .Rhistory
 .RData
 .Ruserdata
-data/map_module_output/**
+**data/map_module_output/
 data/Continentes/
 /wc10
 data/myrteae_raw_CoordClean.csv
 data/myrteae_to_naturaList_CoordClean.csv
 function/bind_spec_df.R
-data/classify_occ_data.RData
 function/map_module2.R
+data/classify_occ_data.RData
