@@ -1,2 +1,0 @@
-"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
-"ntt" NA NA NA NA "Calyptranthes anacletoi" NA -74.8558 20.5003 NA NA "BIEN" "6_no_criteria_met"

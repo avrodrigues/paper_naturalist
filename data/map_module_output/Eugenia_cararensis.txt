@@ -1,8 +1,0 @@
-"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
-"MO" "MO" "308987" 1990 NA "Eugenia cararensis" "F.R. Barrie" -84.59 9.78 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"
-"MO" "MO" "309352" 1990 NA "Eugenia cararensis" "F.R. Barrie" -83.46 8.45 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"
-"MO" "MO" "312118" 1991 NA "Eugenia cararensis" "F.R. Barrie" -83.6 8.76666 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"
-"MO" "MO" "2864459" 1993 NA "Eugenia cararensis" "F.R. Barrie" -83.584722 8.733333 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"
-"MO" "MO" "2864755" 1990 NA "Eugenia cararensis" "F.R. Barrie" -84.55 9.766667 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"
-"MO" "MO" "2865038" 1990 NA "Eugenia cararensis" "F.R. Barrie" -84.53055 9.76111 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"
-"MO" "MO" "903214" 1990 NA "Eugenia cararensis" "F.R. Barrie" -83.31 8.42 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"

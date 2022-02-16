@@ -1,2 +1,0 @@
-"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
-"ntt" NA NA NA NA "Calyptranthes chrysophylloides" NA -72.8497 18.4058 NA NA "BIEN" "6_no_criteria_met"

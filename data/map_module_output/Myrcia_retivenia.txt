@@ -1,4 +1,0 @@
-"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
-"NY" "NY" "1437381" 1914 NA "Myrcia retivenia" "" -75.738379 20.441815 "PRESERVED_SPECIMEN" NA "GBIF" "4_sci_colection"
-"K" "Herbarium" "K000261865" 1915 NA "Myrcia retivenia" "Urban, I." -75.92 20.37 "PRESERVED_SPECIMEN" NA "GBIF" "2_taxonomist"
-"FR" "Herbarium Senckenbergianum" "FR-0093984" NA NA "Myrcia retivenia" "" -75.695 20.50945 "PRESERVED_SPECIMEN" NA "GBIF" "4_sci_colection"

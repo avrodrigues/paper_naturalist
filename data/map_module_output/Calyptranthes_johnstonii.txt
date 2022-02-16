@@ -1,4 +1,0 @@
-"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
-"MO" "MO" "2775833" 1955 NA "Calyptranthes johnstonii" "B.K. Holst & M.K. Kawasaki" -79.938889 9.297222 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"
-"MO" "A, MICH" NA 1955 NA "Calyptranthes johnstonii" NA -79.93888 9.29722 "PRESERVED_SPECIMEN" NA "BIEN" "4_sci_colection"
-"ntt" NA NA NA NA "Calyptranthes johnstonii" NA -79.8442 9.1592 NA NA "BIEN" "6_no_criteria_met"

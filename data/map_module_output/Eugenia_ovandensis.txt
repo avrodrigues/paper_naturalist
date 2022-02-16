@@ -1,2 +1,0 @@
-"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
-"MO" "MO" "1704609" 1937 NA "Eugenia ovandensis" "F.R. Barrie" -92.61 15.41 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"

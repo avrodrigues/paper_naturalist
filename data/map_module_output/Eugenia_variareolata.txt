@@ -1,5 +1,0 @@
-"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
-"Instituto de Investigación de Recursos Biológicos Alexander von Humboldt (IAvH)" "FMB" "FMB-93036" 2004 NA "Eugenia variareolata" "Téllez, Germán" -73.116667 5 "PRESERVED_SPECIMEN" NA "GBIF" "2_taxonomist"
-"Herbario Amazónico Colombiano" "COAH" "38972" NA NA "Eugenia variareolata" "Parra-O.,C." -73.76224 2.98532 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"
-"Herbario Amazónico Colombiano" "COAH" "56328" NA NA "Eugenia variareolata" "C. Parra O." -73.916667 3.283333 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"
-"UDFJC" "UDBC" "UDBC024763" NA NA "Eugenia variareolata" "Parra, C." -71.928481 6.9529 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"

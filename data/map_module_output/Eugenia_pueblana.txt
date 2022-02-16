@@ -1,3 +1,0 @@
-"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
-"MO" "MO" "2865400" 1943 NA "Eugenia pueblana" "F.R. Barrie" -98.05 20.17 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"
-"FCN-UAQ" "QMEX" "NO APLICA" 1989 NA "Eugenia pueblana" "S. Zamudio" -99.4725 21.221389 "PRESERVED_SPECIMEN" NA "GBIF" "2_taxonomist"

@@ -1,3 +1,0 @@
-"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
-"F" "Botany" "V0108097F" NA NA "Eugenia amshoffiae" "" -58.7017 4.7364 "PRESERVED_SPECIMEN" NA "GBIF" "4_sci_colection"
-"NY" "NY" "386641" NA NA "Eugenia amshoffiae" "" -58.993508 5.360389 "PRESERVED_SPECIMEN" NA "GBIF" "4_sci_colection"

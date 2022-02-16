@@ -1,3 +1,0 @@
-"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
-"NHMUK" "BOT" "BM000043678" 1983 NA "Eugenia costaricensis" "Fred Rogers Barrie" -82.85 8.933333 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"
-"JBRJ" "RB" "RB00309343" 1965 NA "Eugenia costaricensis" "R.L.Liesner" -85.916667 13.033333 "PRESERVED_SPECIMEN" NA "GBIF" "2_taxonomist"

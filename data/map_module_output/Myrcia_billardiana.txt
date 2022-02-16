@@ -1,3 +1,0 @@
-"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
-"MEL" "MEL" "MEL 1540433A" NA NA "Myrcia billardiana" "Macheda, D.R." -63.916667 10.25 "PRESERVED_SPECIMEN" NA "GBIF" "2_taxonomist"
-"K" "Herbarium" "K000330018" NA NA "Myrcia billardiana" "" -66.17 5.67 "PRESERVED_SPECIMEN" NA "GBIF" "4_sci_colection"

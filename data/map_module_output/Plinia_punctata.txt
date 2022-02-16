@@ -1,5 +1,0 @@
-"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
-"NY" "NY" "1437996" 1945 NA "Plinia punctata" "" -74.859986 20.629162 "PRESERVED_SPECIMEN" NA "GBIF" "4_sci_colection"
-"NY" "NY" "99361" 1914 NA "Plinia punctata" "" -75.738379 20.441815 "PRESERVED_SPECIMEN" NA "GBIF" "4_sci_colection"
-"NY" "NY" "1437995" 1944 NA "Plinia punctata" "" -74.873609 20.606222 "PRESERVED_SPECIMEN" NA "GBIF" "4_sci_colection"
-"NY" "NY" "1437994" 1919 NA "Plinia punctata" "" -75.806615 20.484036 "PRESERVED_SPECIMEN" NA "GBIF" "4_sci_colection"

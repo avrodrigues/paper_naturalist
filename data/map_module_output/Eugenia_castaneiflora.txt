@@ -1,4 +1,0 @@
-"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
-"REFLORA" "K" "K001089088" 1998 NA "Eugenia castaneiflora" "Kawasaki, M.L.; Holst, B." -79.87 -0.23 "PRESERVED_SPECIMEN" NA "REFLORA" "1_det_by_spec"
-"MO" "MO" "1336432" 1997 NA "Eugenia castaneiflora" "fide Kawasaki & Holst" -79.8 0.25 "PRESERVED_SPECIMEN" NA "GBIF" "2_taxonomist"
-"MO" "MO" "1297346" 1998 NA "Eugenia castaneiflora" "fide Kawasaki & Holst [TYPUS]" -79.866667 0.233333 "PRESERVED_SPECIMEN" NA "GBIF" "2_taxonomist"

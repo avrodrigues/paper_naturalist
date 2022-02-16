@@ -1,7 +1,0 @@
-"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
-"REFLORA" "RB" "RB01299103" 2015 NA "Eugenia pachystachya" "A. Giaretta" -54.9572222222222 -2.85166666666667 "PRESERVED_SPECIMEN" NA "REFLORA" "1_det_by_spec"
-"US" "Botany" "1519358" 1931 NA "Eugenia pachystachya" "McVaugh, R." -67.62 5.66 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"
-"US" "Botany" "1801287" 1940 NA "Eugenia pachystachya" "" -67.6236 5.66389 "PRESERVED_SPECIMEN" NA "GBIF" "4_sci_colection"
-"MO" "MO" "3200956" 1987 NA "Eugenia pachystachya" "B.K.Holst" -64.5 7.5 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"
-"MO" "MO" "3200702" 1990 NA "Eugenia pachystachya" "" -70.26666 9.25 "PRESERVED_SPECIMEN" NA "GBIF" "4_sci_colection"
-"MO" "MO" "311271" 1978 NA "Eugenia pachystachya" "Bruce K.Holst" -67.6 5.46666 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"

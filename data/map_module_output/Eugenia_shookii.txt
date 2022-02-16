@@ -1,8 +1,0 @@
-"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
-"MO" "MO" "3428839" 1961 NA "Eugenia shookii" "F.R. Barrie" -89.41583 16.5125 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"
-"MO" "MO" "2866221" 1962 NA "Eugenia shookii" "F.R. Barrie" -89.41638 16.51222 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"
-"MO" "MO" "2865165" 1968 NA "Eugenia shookii" "F.R. Barrie" -89.54833 15.79944 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"
-"MO" "MO" "2865163" 1968 NA "Eugenia shookii" "F.R. Barrie" -89.59027 15.78694 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"
-"MO" "MO" "2864888" 1961 NA "Eugenia shookii" "F.R. Barrie" -89.42777 16.50888 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"
-"MO" "MO" "2864889" 1966 NA "Eugenia shookii" "F.R. Barrie" -89.35083 16.08111 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"
-"G" "Geneva Herbarium – General Collection (G)" "G-G-219617/1" 1961 NA "Eugenia shookii" "" -90.28944 16.94306 "PRESERVED_SPECIMEN" NA "GBIF" "4_sci_colection"

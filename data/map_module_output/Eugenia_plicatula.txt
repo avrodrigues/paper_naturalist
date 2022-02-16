@@ -1,5 +1,0 @@
-"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
-"NY" "NY" "84564" 1921 NA "Eugenia plicatula" "" -82.858203 22.697568 "PRESERVED_SPECIMEN" NA "GBIF" "4_sci_colection"
-"NY" "NY" "01436751" 1943 NA "Eugenia plicatula" "" -83.008328 22.799429 "PRESERVED_SPECIMEN" NA "GBIF" "4_sci_colection"
-"Université de Montréal Biodiversity Centre" "MT" "MT00114182" 1943 NA "Eugenia plicatula" "Marie-Victorin, Fr." -82.8078 22.7536 "PRESERVED_SPECIMEN" NA "GBIF" "2_taxonomist"
-"Université de Montréal Biodiversity Centre" "MT" "MT00114181" 1944 NA "Eugenia plicatula" "Marie-Victorin, Fr.; Liogier, H. Alain" -75.847263 20.192935 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"

@@ -1,3 +1,0 @@
-"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
-"Instituto de Investigación de Recursos Biológicos Alexander von Humboldt (IAvH)" "FMB" "FMB-91909" 2005 NA "Calyptranthes estoraquensis" "Anónimo" -73.25 8.25 "PRESERVED_SPECIMEN" NA "GBIF" "2_taxonomist"
-"ntt" NA NA NA NA "Calyptranthes estoraquensis" NA -73.2422 8.2197 NA NA "BIEN" "6_no_criteria_met"

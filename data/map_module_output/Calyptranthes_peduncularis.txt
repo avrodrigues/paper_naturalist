@@ -1,6 +1,0 @@
-"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
-"US" "Botany" "3525704" 2000 NA "Calyptranthes peduncularis" "" -66.9064 18.0706 "PRESERVED_SPECIMEN" NA "GBIF" "4_sci_colection"
-"US" "Botany" "3429243" 2001 NA "Calyptranthes peduncularis" "Acevedo-Rodríguez, P., (BOT), Smithsonian Institution - National Museum of Natural History (UNITED STATES)" -66.6425 18.4022 "PRESERVED_SPECIMEN" NA "GBIF" "2_taxonomist"
-"F" "Botany" "V0064834F" 1963 NA "Calyptranthes peduncularis" "" -66.3242 18.2761 "PRESERVED_SPECIMEN" NA "GBIF" "4_sci_colection"
-"NY" "NY" "84396" 1963 NA "Calyptranthes peduncularis" "" -66.89233 18.03514 "PRESERVED_SPECIMEN" NA "GBIF" "4_sci_colection"
-"NY" "NY" "37685" 1960 NA "Calyptranthes peduncularis" "A. H. Liogier" -66.90641 18.07929 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"

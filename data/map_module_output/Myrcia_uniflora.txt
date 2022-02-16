@@ -1,5 +1,0 @@
-"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
-"US" "Botany" "3353004" 1992 NA "Myrcia uniflora" "Licata, A." -66.51 1.5 "PRESERVED_SPECIMEN" NA "GBIF" "2_taxonomist"
-"MO" "MO" "3200184" 1989 NA "Myrcia uniflora" "B.K. Holst" -67.03333 3.08333 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"
-"MO" "MO" "311625" 1984 NA "Myrcia uniflora" "B.K. Holst" -66.583333 1.883333 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"
-"MO" "MO" "1110144" 1996 NA "Myrcia uniflora" "B. Holst" -67.37666 3.21305 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"

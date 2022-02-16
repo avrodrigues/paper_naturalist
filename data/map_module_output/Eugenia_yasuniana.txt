@@ -1,2 +1,0 @@
-"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
-"MO" "MO" "3160593" 1995 NA "Eugenia yasuniana" "fide Holst & Kawasaki" -76.5 -0.633333 "PRESERVED_SPECIMEN" NA "GBIF" "2_taxonomist"

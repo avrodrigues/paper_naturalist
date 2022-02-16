@@ -1,6 +1,0 @@
-"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
-"REFLORA" "NY" "NY01015519" 1994 NA "Calyptranthes ursina" "Sem determinador" -43.4508333333333 -22.7594444444444 "PRESERVED_SPECIMEN" NA "REFLORA" "2_taxonomist"
-"SPLINK" "NYBG_BR" "1015519" 1994 NA "Calyptranthes ursina" "" -43.4508 -22.7594 "PRESERVED_SPECIMEN" NA "SPLINK" "4_sci_colection"
-"JABOT" "RB" "763995" 2018 NA "Calyptranthes ursina" "" -42.735 -22.3955555555556 "PRESERVED_SPECIMEN" NA "JABOT" "4_sci_colection"
-"NY" "NY" NA 1994 NA "Calyptranthes ursina" NA -43.45083 -22.75944 "PRESERVED_SPECIMEN" NA "BIEN" "4_sci_colection"
-"ntt" NA NA NA NA "Calyptranthes ursina" NA -43.48 -22.5914 NA NA "BIEN" "6_no_criteria_met"

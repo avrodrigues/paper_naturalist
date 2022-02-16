@@ -1,2 +1,0 @@
-"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
-"U" "U" NA 1970 NA "Marlierea multiglomerata" NA -52.16666667 4.283333333 "PRESERVED_SPECIMEN" NA "BIEN" "4_sci_colection"

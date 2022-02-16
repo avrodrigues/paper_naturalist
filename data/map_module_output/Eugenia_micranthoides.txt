@@ -1,2 +1,0 @@
-"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
-"F" "Botany" "V0040025F" 1929 NA "Eugenia micranthoides" "RRC ID Flag" -75 -4 "PRESERVED_SPECIMEN" NA "GBIF" "4_sci_colection"

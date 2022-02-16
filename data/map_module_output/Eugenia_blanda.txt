@@ -1,6 +1,0 @@
-"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
-"REFLORA" "SPF" "SPF00069383" 1990 NA "Eugenia blanda" "Sem determinador" -42.49 -16.32 "PRESERVED_SPECIMEN" NA "REFLORA" "2_taxonomist"
-"SPLINK" "G" "G00227926" 1990 NA "Eugenia blanda" "?" -42.89222222 -16.56611111 "PRESERVED_SPECIMEN" NA "SPLINK" "2_taxonomist"
-"SPLINK" "ASU-PLANTS" "19312" 1990 NA "Eugenia blanda" "" -42.9 -16.5667 "PRESERVED_SPECIMEN" NA "SPLINK" "4_sci_colection"
-"SPLINK" "BHCB" "75805" 2002 NA "Eugenia blanda" "" -42.816667 -16.533333 "PRESERVED_SPECIMEN" NA "SPLINK" "4_sci_colection"
-"G" "Geneva Herbarium – General Collection (G)" "G-G-210726/1" 1990 NA "Eugenia blanda" "" -42.89222 -16.56611 "PRESERVED_SPECIMEN" NA "GBIF" "4_sci_colection"

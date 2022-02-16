@@ -1,8 +1,0 @@
-"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
-"UNICACH" "HEM" "HEM 27186" 2004 NA "Eugenia macrocarpa" "O.F.S." -93.313611 16.000556 "PRESERVED_SPECIMEN" NA "GBIF" "2_taxonomist"
-"UNICACH" "HEM" "HEM 27735" 2004 NA "Eugenia macrocarpa" "O.F.S." -93.280278 16.006944 "PRESERVED_SPECIMEN" NA "GBIF" "2_taxonomist"
-"UNICACH" "HEM" "HEM 27281" 2004 NA "Eugenia macrocarpa" "O.F.S." -93.313611 16.007778 "PRESERVED_SPECIMEN" NA "GBIF" "2_taxonomist"
-"UNICACH" "HEM" "HEM 19392" 2003 NA "Eugenia macrocarpa" "R.R.S." -92.940833 15.722778 "PRESERVED_SPECIMEN" NA "GBIF" "2_taxonomist"
-"UNICACH" "HEM" "HEM 26916" 2004 NA "Eugenia macrocarpa" "O.F.S." -93.328889 15.982778 "PRESERVED_SPECIMEN" NA "GBIF" "2_taxonomist"
-"UACh" "CHAP" "21146" 1989 NA "Eugenia macrocarpa" "F. Ramos M." -93.266667 16.166667 "PRESERVED_SPECIMEN" NA "GBIF" "2_taxonomist"
-"CNS-UT" "LL" "00266045" 1971 NA "Eugenia macrocarpa" "R. McVaugh" -94.61333 18.21556 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"

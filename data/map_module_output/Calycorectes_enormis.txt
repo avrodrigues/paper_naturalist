@@ -1,4 +1,0 @@
-"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
-"US" "Botany" "2503494" 1964 NA "Calycorectes enormis" "Holst, Bruce K." -61.6 8.2 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"
-"US" "Botany" "2572471A" 1961 NA "Calycorectes enormis" "McVaugh, R." -61.21 7.61 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"
-"US" "Botany" "2583077A" 1966 NA "Calycorectes enormis" "Holst, Bruce K." -61.73 8.06 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"

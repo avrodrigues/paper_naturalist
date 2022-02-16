@@ -1,4 +1,0 @@
-"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
-"K" "Herbarium" "K001001863" 1977 NA "Eugenia eliasii" "" -89.35 16.08 "PRESERVED_SPECIMEN" NA "GBIF" "4_sci_colection"
-"MO" "MO" "2864488" 1942 NA "Eugenia eliasii" "F.R. Barrie" -91.78666 15.38888 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"
-"MO" "MO" "1704369" 1977 NA "Eugenia eliasii" "F.R. Barrie" -89.35083 16.08111 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"

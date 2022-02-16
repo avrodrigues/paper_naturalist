@@ -1,2 +1,0 @@
-"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
-"UACh" "CHAP" "24634" 1989 NA "Calyptranthes perlaevigata" "U. Bachem C." -92.7325 15.941944 "PRESERVED_SPECIMEN" NA "GBIF" "2_taxonomist"

@@ -1,2 +1,0 @@
-"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
-"REFLORA" "K" "K000331178" NA NA "Calyptranthes ovata" "Sem determinador" -43.2 -20.77 "PRESERVED_SPECIMEN" NA "REFLORA" "2_taxonomist"

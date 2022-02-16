@@ -1,2 +1,0 @@
-"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
-"REFLORA" "FURB" "FURB02446" 2010 NA "Eugenia imaruiensis" "Sobral, M" -48.78 -28.08 "PRESERVED_SPECIMEN" NA "REFLORA" "1_det_by_spec"

@@ -1,3 +1,0 @@
-"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
-"NY" "NY" "1435163" NA NA "Eugenia acrantha" "" -74.894582 20.576659 "PRESERVED_SPECIMEN" NA "GBIF" "4_sci_colection"
-"NY" "NY" "1435161" 1947 NA "Eugenia acrantha" "" -74.859986 20.629162 "PRESERVED_SPECIMEN" NA "GBIF" "4_sci_colection"

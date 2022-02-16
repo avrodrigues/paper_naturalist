@@ -1,3 +1,0 @@
-"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
-"SPLINK" "BHCB" "135419" NA NA "Eugenia neoformosa" "" -42.888611 -19.073056 "PRESERVED_SPECIMEN" NA "SPLINK" "4_sci_colection"
-"JABOT" "RB" "340632" 1994 NA "Eugenia neoformosa" "G.M. Barroso" -41.4402777777778 -12.4597222222222 "PRESERVED_SPECIMEN" NA "JABOT" "1_det_by_spec"

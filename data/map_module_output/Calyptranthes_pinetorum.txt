@@ -1,2 +1,0 @@
-"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
-"NY" "NY" "01434947" 1923 NA "Calyptranthes pinetorum" "" -83.659242 22.324144 "PRESERVED_SPECIMEN" NA "GBIF" "4_sci_colection"

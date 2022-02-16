@@ -1,2 +1,0 @@
-"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
-"NHMUK" "BOT" "BM001125471" 1915 NA "Eugenia psiloclada" "Ignatz Urban" -75.718641 20.964967 "PRESERVED_SPECIMEN" NA "GBIF" "2_taxonomist"

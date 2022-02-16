@@ -1,3 +1,0 @@
-"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
-"US" "Botany" "2785045" 1920 NA "Eugenia cowanii" "McVaugh, R." -55.21 4.88 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"
-"MO" "MO" "3190319" 1988 NA "Eugenia cowanii" "B.K.Holst" -58.95 3.983333 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"

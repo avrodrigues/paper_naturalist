@@ -1,5 +1,0 @@
-"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
-"LAGU" "Herbarium LAGU" "MLR01408" 1988 NA "Eugenia shimishito" "F.R.Barrie [Novon 15(1): 44, Paratipo]" -89.48333 13.9 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"
-"LAGU" "Herbarium LAGU" "CMC00534" 2001 NA "Eugenia shimishito" "D.Rodríguez (LAGU) 2006-06" -89.35 14.4 "PRESERVED_SPECIMEN" NA "GBIF" "2_taxonomist"
-"MO" "MO" "2865747" 1994 NA "Eugenia shimishito" "F.R. Barrie" -89.93333 13.81666 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"
-"MO" "MO" "2864586" 1994 NA "Eugenia shimishito" "F.R. Barrie" -89.933333 13.816667 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"

@@ -1,5 +1,0 @@
-"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
-"SPLINK" "CVRD" "13634" 2011 "2015-07-01" "Myrcia gilsoniana" "M.C. Souza & A. C. Tuler" -39.963778 -19.074139 "PRESERVED_SPECIMEN" NA "SPLINK" "1_det_by_spec"
-"SPLINK" "CVRD" "14762" 2014 "2015-07-01" "Myrcia gilsoniana" "M.C. Souza & A. C. Tuler" -40.058667 -19.135194 "PRESERVED_SPECIMEN" NA "SPLINK" "1_det_by_spec"
-"ntt" NA NA NA NA "Myrcia gilsoniana" NA -40.0217 -19.1586 NA NA "BIEN" "6_no_criteria_met"
-"ntt" NA NA NA NA "Myrcia gilsoniana" NA -39.3383 -15.7422 NA NA "BIEN" "6_no_criteria_met"

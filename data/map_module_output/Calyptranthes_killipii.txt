@@ -1,6 +1,0 @@
-"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
-"MO" "MO" "1801139" 1987 NA "Calyptranthes killipii" "J.G. Ramirez & D. Cardenas" -74.75 6 "PRESERVED_SPECIMEN" NA "GBIF" "2_taxonomist"
-"ntt" NA NA NA NA "Calyptranthes killipii" NA -77.2467 6.0508 NA NA "BIEN" "6_no_criteria_met"
-"ntt" NA NA NA NA "Calyptranthes killipii" NA -74.6736 6.1278 NA NA "BIEN" "6_no_criteria_met"
-"ntt" NA NA NA NA "Calyptranthes killipii" NA -74.89 6.0533 NA NA "BIEN" "6_no_criteria_met"
-"ntt" NA NA NA NA "Calyptranthes killipii" NA -76.8628 7.4803 NA NA "BIEN" "6_no_criteria_met"

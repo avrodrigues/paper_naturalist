@@ -1,4 +1,0 @@
-"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
-"US" "Botany" "3404582" 1995 NA "Eugenia longisepala" "" -76.4333 -0.65 "PRESERVED_SPECIMEN" NA "GBIF" "4_sci_colection"
-"MO" "MO" "2662205" 1985 NA "Eugenia longisepala" "fide Kawasaki & Holst" -76.366667 -0.55 "PRESERVED_SPECIMEN" NA "GBIF" "2_taxonomist"
-"MO" "MO" "1066211" 1995 NA "Eugenia longisepala" "fide Kawasaki & Holst [TYPUS]" -76.433333 -0.65 "PRESERVED_SPECIMEN" NA "GBIF" "2_taxonomist"

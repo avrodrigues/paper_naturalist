@@ -1,5 +1,0 @@
-"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
-"REFLORA" "NY" "NY01801309" 1998 NA "Eugenia elongata" "Sem determinador" -45.1994444444444 -23.5083333333333 "PRESERVED_SPECIMEN" NA "REFLORA" "2_taxonomist"
-"REFLORA" "RB" "RB01040320" 2014 "2017-09-29" "Eugenia elongata" "M. Sobral" -41.5963888888889 -21.4563888888889 "PRESERVED_SPECIMEN" NA "REFLORA" "1_det_by_spec"
-"SPLINK" "NYBG_BR" "1801309" 1998 NA "Eugenia elongata" "" -45.1994 -23.5083 "PRESERVED_SPECIMEN" NA "SPLINK" "4_sci_colection"
-"SPLINK" "BHCB" "91167" 1998 NA "Eugenia elongata" "" -45.199444 -23.508333 "PRESERVED_SPECIMEN" NA "SPLINK" "4_sci_colection"

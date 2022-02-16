@@ -1,2 +1,0 @@
-"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
-"MO" "MO" "3189721" 1992 NA "Eugenia mcvaughii" "B.K. Holst" -68.23333 10.21805 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"

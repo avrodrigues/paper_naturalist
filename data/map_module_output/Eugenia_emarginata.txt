@@ -1,3 +1,0 @@
-"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
-"Universidad de Antioquia" "HUA" "169417" 2004 NA "Eugenia emarginata" "Parra C." -67.50044 6.171452 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"
-"US" "Botany" "1801260" 1940 NA "Eugenia emarginata" "McVaugh, R." -67.62 5.66 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"

@@ -1,2 +1,0 @@
-"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
-"K" "Herbarium" "K000330945" 1929 NA "Calyptranthes barkeri" "Urban, I." -71.5 18.67 "PRESERVED_SPECIMEN" NA "GBIF" "2_taxonomist"

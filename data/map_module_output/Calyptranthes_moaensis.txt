@@ -1,2 +1,0 @@
-"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
-"NY" "NY" "84479" 1945 NA "Calyptranthes moaensis" "" -74.873609 20.606222 "PRESERVED_SPECIMEN" NA "GBIF" "4_sci_colection"

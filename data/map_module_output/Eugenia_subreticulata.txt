@@ -1,3 +1,0 @@
-"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
-"REFLORA" "NY" "NY01095592" NA NA "Eugenia subreticulata" "M. Sobral" -39.08 -12.53 "PRESERVED_SPECIMEN" NA "REFLORA" "1_det_by_spec"
-"UEFS" "HUEFS" "743" 1980 NA "Eugenia subreticulata" "M.Sobral" -39.083333 -12.533333 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"

@@ -1,4 +1,0 @@
-"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
-"MO" "MO" "1749899" 2002 NA "Eugenia cydoniifolia" "B.K. Holst (SEL)" -67.78972 -14.97972 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"
-"MO" "MO" "1153050" 1996 NA "Eugenia cydoniifolia" "B. Holst" -60.991389 -15.158056 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"
-"MO" "MO" "100607114" 2000 NA "Eugenia cydoniifolia" "B.K. Holst (SEL)" -61.683333 -15.733333 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"

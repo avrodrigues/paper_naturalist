@@ -1,2 +1,0 @@
-"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
-"ntt" NA NA NA NA "Calyptranthes websteri" NA -78.5033 0.1506 NA NA "BIEN" "6_no_criteria_met"

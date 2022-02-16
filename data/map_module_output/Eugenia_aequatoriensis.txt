@@ -1,4 +1,0 @@
-"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
-"REFLORA" "K" "K000975955" 1997 NA "Eugenia aequatoriensis" "Sem determinador" -79.49 -4.19 "PRESERVED_SPECIMEN" NA "REFLORA" "2_taxonomist"
-"MO" "MO" "3181887" 1997 NA "Eugenia aequatoriensis" "fide Kawasaki & Holst" -79.816667 -4.316667 "PRESERVED_SPECIMEN" NA "GBIF" "2_taxonomist"
-"NY" "NY" "1239698" 1996 NA "Eugenia aequatoriensis" "" -79.82 -4.32 "PRESERVED_SPECIMEN" NA "GBIF" "4_sci_colection"

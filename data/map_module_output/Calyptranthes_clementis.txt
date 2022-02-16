@@ -1,2 +1,0 @@
-"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
-"NY" "NY" "84391" NA NA "Calyptranthes clementis" "" -79.624545 21.910411 "PRESERVED_SPECIMEN" NA "GBIF" "4_sci_colection"

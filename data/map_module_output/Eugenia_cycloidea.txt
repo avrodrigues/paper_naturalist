@@ -1,3 +1,0 @@
-"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
-"NY" "NY" "1435693" 1942 NA "Eugenia cycloidea" "" -75.039103 20.617629 "PRESERVED_SPECIMEN" NA "GBIF" "4_sci_colection"
-"NY" "NY" "1435691" NA NA "Eugenia cycloidea" "" -74.894582 20.576659 "PRESERVED_SPECIMEN" NA "GBIF" "4_sci_colection"

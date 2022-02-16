@@ -1,5 +1,0 @@
-"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
-"REFLORA" "RB" "RB01390902" 2017 NA "Eugenia coccifera" "L.F. Gonçalves" -42.9905555555556 -22.4569444444444 "PRESERVED_SPECIMEN" NA "REFLORA" "2_taxonomist"
-"REFLORA" "RB" "RB01390821" 2016 NA "Eugenia coccifera" "L.F. Gonçalves" -42.9908333333333 -22.4572222222222 "PRESERVED_SPECIMEN" NA "REFLORA" "2_taxonomist"
-"SPLINK" "RBR" "42254" 2017 NA "Eugenia coccifera" "L.F. Gonçalves" -42.9905555 -22.4569444 "PRESERVED_SPECIMEN" NA "SPLINK" "2_taxonomist"
-"SPLINK" "RBR" "42255" 2016 NA "Eugenia coccifera" "L.F. Gonçalves" -42.9908333 -22.4572222 "PRESERVED_SPECIMEN" NA "SPLINK" "2_taxonomist"

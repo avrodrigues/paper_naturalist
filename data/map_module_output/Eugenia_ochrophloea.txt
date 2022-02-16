@@ -1,8 +1,0 @@
-"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
-"MO" "MO" "309771" 1972 NA "Eugenia ochrophloea" "Rogers McVaugh" -73.26555 -3.69055 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"
-"MO" "MO" "309856" 1972 NA "Eugenia ochrophloea" "Rogers McVaugh" -73.505556 -2.893055 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"
-"MO" "MO" "310091" 1978 NA "Eugenia ochrophloea" "R.L. Liesner" -73.283333 -3.666667 "PRESERVED_SPECIMEN" NA "GBIF" "2_taxonomist"
-"MO" "MO" "909191" 1973 NA "Eugenia ochrophloea" "R. Vasquez (MO)" -78.25 -4.53333 "PRESERVED_SPECIMEN" NA "GBIF" "2_taxonomist"
-"MO" "MO" "915723" 1994 NA "Eugenia ochrophloea" "R. Vasquez (MO)" -78.35 -4.38333 "PRESERVED_SPECIMEN" NA "GBIF" "2_taxonomist"
-"MO" "MO" "987990" 1995 NA "Eugenia ochrophloea" "R. Vasquez (MO)" -78.31666 -4.91666 "PRESERVED_SPECIMEN" NA "GBIF" "2_taxonomist"
-"K" "Herbarium" "K001002958" NA NA "Eugenia ochrophloea" "" -74.5 -4.12 "PRESERVED_SPECIMEN" NA "GBIF" "4_sci_colection"

@@ -1,7 +1,0 @@
-"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
-"MO" "MO" "2863192" 1934 NA "Eugenia symphoricarpos" "F.R. Barrie" -96.95 19.25 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"
-"MO" "MO" "2863193" 1977 NA "Eugenia symphoricarpos" "F.R. Barrie" -96.83333 19.53333 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"
-"MO" "MO" "2864601" 1906 NA "Eugenia symphoricarpos" "F.R. Barrie" -98.33333 20.43333 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"
-"FA-UAS" "UAS" "009617" 1986 NA "Eugenia symphoricarpos" "HAH" -106.727778 24.516667 "PRESERVED_SPECIMEN" NA "GBIF" "2_taxonomist"
-"CNS-UT" "TEX" "00266012" 1993 NA "Eugenia symphoricarpos" "T. F. Patterson" -98.241667 23.202778 "PRESERVED_SPECIMEN" NA "GBIF" "2_taxonomist"
-"CNS-UT" "LL" "00266011" 1956 NA "Eugenia symphoricarpos" "C. L. Lundell" -98.359719 23.208889 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"

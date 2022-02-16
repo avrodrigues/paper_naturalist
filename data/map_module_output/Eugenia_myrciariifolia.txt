@@ -1,3 +1,0 @@
-"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
-"REFLORA" "NY" "NY00688171" 1995 NA "Eugenia myrciariifolia" "Sem determinador" -50.5802777777778 -23.9108333333333 "PRESERVED_SPECIMEN" NA "REFLORA" "2_taxonomist"
-"SPLINK" "NYBG_BR" "688171" 1995 NA "Eugenia myrciariifolia" "" -50.5803 -23.9108 "PRESERVED_SPECIMEN" NA "SPLINK" "4_sci_colection"

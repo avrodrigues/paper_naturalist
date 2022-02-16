@@ -1,4 +1,0 @@
-"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
-"Instituto de Investigación de Recursos Biológicos Alexander von Humboldt (IAvH)" "FMB" "FMB-51696" 1994 NA "Myrcia xylopioides" "Cárdenas, Dairon" -72.5 5.333331 "PRESERVED_SPECIMEN" NA "GBIF" "2_taxonomist"
-"Instituto de Investigación de Recursos Biológicos Alexander von Humboldt (IAvH)" "FMB" "FMB-55999" 1994 NA "Myrcia xylopioides" "Cárdenas, Dairon" -72.5 5.333333 "PRESERVED_SPECIMEN" NA "GBIF" "2_taxonomist"
-"Instituto de Investigación de Recursos Biológicos Alexander von Humboldt (IAvH)" "FMB" "FMB-65589" 2003 NA "Myrcia xylopioides" "Lucas, Eve" -76.584167 3.565556 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"

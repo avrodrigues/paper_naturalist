@@ -1,3 +1,0 @@
-"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
-"ntt" NA NA NA NA "Marlierea langsdorffii" NA -43.4778 -22.4319 NA NA "BIEN" "6_no_criteria_met"
-"ntt" NA NA NA NA "Marlierea langsdorffii" NA -42.5311 -22.305 NA NA "BIEN" "6_no_criteria_met"

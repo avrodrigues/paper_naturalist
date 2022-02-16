@@ -1,4 +1,0 @@
-"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
-"K" "Herbarium" "K001001994" 1938 NA "Eugenia tapirorum" "" -86.77 14.53 "PRESERVED_SPECIMEN" NA "GBIF" "4_sci_colection"
-"F" "Botany" "V0065015F" 1938 NA "Eugenia tapirorum" "" -86.4556 14.8364 "PRESERVED_SPECIMEN" NA "GBIF" "4_sci_colection"
-"G" "Geneva Herbarium – General Collection (G)" "G-G-219521/1" 1938 NA "Eugenia tapirorum" "Mazine-Capelo, F. (2004)" -87.05333 15.63694 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"

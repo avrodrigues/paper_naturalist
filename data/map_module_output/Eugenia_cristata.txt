@@ -1,4 +1,0 @@
-"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
-"K" "Herbarium" "K000261749" NA NA "Eugenia cristata" "Howard, R.A." -74.85 20.17 "PRESERVED_SPECIMEN" NA "GBIF" "2_taxonomist"
-"FR" "Herbarium Senckenbergianum" "FR-0093584" NA NA "Eugenia cristata" "" -84.3 22.439683 "PRESERVED_SPECIMEN" NA "GBIF" "4_sci_colection"
-"FR" "Herbarium Senckenbergianum" "FR-0093208" 1999 NA "Eugenia cristata" "" -83.292667 22.953067 "PRESERVED_SPECIMEN" NA "GBIF" "4_sci_colection"

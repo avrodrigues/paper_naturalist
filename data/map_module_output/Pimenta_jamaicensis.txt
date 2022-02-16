@@ -1,6 +1,0 @@
-"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
-"MO" "MO" "2500421" 1977 NA "Pimenta jamaicensis" "L.R. Landrum" -77.36553 18.22408 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"
-"MO" "MO" "2499694" 1917 NA "Pimenta jamaicensis" "L.R. Landrum" -77.3833 18.15 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"
-"ntt" NA NA NA NA "Pimenta jamaicensis" NA -77.2669 18.0592 NA NA "BIEN" "6_no_criteria_met"
-"ntt" NA NA NA NA "Pimenta jamaicensis" NA -77.5311 18.1164 NA NA "BIEN" "6_no_criteria_met"
-"ntt" NA NA NA NA "Pimenta jamaicensis" NA -77.1125 18.2011 NA NA "BIEN" "6_no_criteria_met"

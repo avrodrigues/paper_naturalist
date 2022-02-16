@@ -1,8 +1,0 @@
-"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
-"REFLORA" "RB" "RB01223089" 2015 NA "Eugenia arenosa" "G. Durigan" -49.2369444444444 -22.7916666666667 "PRESERVED_SPECIMEN" NA "REFLORA" "2_taxonomist"
-"SPLINK" "HVAT" "4173" 2012 "2012-09-15" "Eugenia arenosa" "E. Freitas" -55.404444 -29.6575 "PRESERVED_SPECIMEN" NA "SPLINK" "2_taxonomist"
-"SPLINK" "ICN" "159207" 2008 "2009-03-02" "Eugenia arenosa" "Sobral, M" -55.375833 -29.599167 "PRESERVED_SPECIMEN" NA "SPLINK" "1_det_by_spec"
-"SPLINK" "HAS" "92594" NA "2015-09-21" "Eugenia arenosa" "Molz, M." -55.157638 -29.615466 "PRESERVED_SPECIMEN" NA "SPLINK" "1_det_by_spec"
-"SPLINK" "UNOP" "8712" 2016 "2016-12-22" "Eugenia arenosa" "Freitas, E.M." -55.157222 -29.612778 "PRESERVED_SPECIMEN" NA "SPLINK" "2_taxonomist"
-"UnB" "UB" "168875" 1992 NA "Eugenia arenosa" "Silva, LHS" -50.16 -25.1 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"
-"UnB" "UB" "168876" 1996 NA "Eugenia arenosa" "Silva, LHS" -50.41 -24.51 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"

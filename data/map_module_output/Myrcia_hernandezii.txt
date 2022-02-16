@@ -1,5 +1,0 @@
-"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
-"Instituto de Investigación de Recursos Biológicos Alexander von Humboldt (IAvH)" "FMB" "FMB-65596" 2003 NA "Myrcia hernandezii" "Lucas, Eve" -76.586389 3.570278 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"
-"Instituto de Investigación de Recursos Biológicos Alexander von Humboldt (IAvH)" "FMB" "FMB-99614" 2012 NA "Myrcia hernandezii" "Lucas, Eve" -74.252603 5.000264 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"
-"ntt" NA NA NA NA "Myrcia hernandezii" NA -73.395 4.7572 NA NA "BIEN" "6_no_criteria_met"
-"ntt" NA NA NA NA "Myrcia hernandezii" NA -73.6817 4.57 NA NA "BIEN" "6_no_criteria_met"

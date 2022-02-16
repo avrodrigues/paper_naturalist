@@ -1,7 +1,0 @@
-"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
-"MO" "MO" "3205533" 1988 NA "Myrcianthes pedersenii" "" -56.76666 -27.16666 "PRESERVED_SPECIMEN" NA "GBIF" "4_sci_colection"
-"F" "Botany" "V0121782F" NA NA "Myrcianthes pedersenii" "" -58.1689 -23.2025 "PRESERVED_SPECIMEN" NA "GBIF" "4_sci_colection"
-"G" "Geneva Herbarium – General Collection (G)" "G-G-62770/1" NA NA "Myrcianthes pedersenii" "" -56.73333 -27.18333 "PRESERVED_SPECIMEN" NA "GBIF" "4_sci_colection"
-"G" "Geneva Herbarium – General Collection (G)" "G-G-62769/1" 1974 NA "Myrcianthes pedersenii" "" -54.63333 -25.38333 "PRESERVED_SPECIMEN" NA "GBIF" "4_sci_colection"
-"G" "Geneva Herbarium – General Collection (G)" "G-G-49983/1" 1874 NA "Myrcianthes pedersenii" "" -56.45 -25.78333 "PRESERVED_SPECIMEN" NA "GBIF" "4_sci_colection"
-"G" "Geneva Herbarium – General Collection (G)" "G-G-62768/1" 1985 NA "Myrcianthes pedersenii" "" -54.58333 -25.31667 "PRESERVED_SPECIMEN" NA "GBIF" "4_sci_colection"

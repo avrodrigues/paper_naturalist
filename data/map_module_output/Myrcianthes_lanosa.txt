@@ -1,2 +1,0 @@
-"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
-"MO" "MO" "100402918" 2009 NA "Myrcianthes lanosa" "Les R. Landrum (ASU)" -75.64 -10.03 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"

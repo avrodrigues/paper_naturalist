@@ -1,3 +1,0 @@
-"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
-"G" "Geneva Herbarium – General Collection (G)" "G-G-260645/1" 1918 NA "Myrcia polyneura" "Araujo, A. C. (2011)" -75.72111 20.55944 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"
-"ntt" NA NA NA NA "Myrcia polyneura" NA -75.8311 20.4689 NA NA "BIEN" "6_no_criteria_met"

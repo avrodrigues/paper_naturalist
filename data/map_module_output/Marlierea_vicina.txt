@@ -1,4 +1,0 @@
-"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
-"US" "Botany" "3549978" 2002 NA "Marlierea vicina" "Holst, Bruce K." -60.219 5.61767 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"
-"US" "Botany" "3549977" 2004 NA "Marlierea vicina" "Holst, Bruce K." -60.2172 5.58992 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"
-"US" "Botany" "2548637" 1960 NA "Marlierea vicina" "" -59.9422 5.40771 "PRESERVED_SPECIMEN" NA "GBIF" "4_sci_colection"

@@ -1,2 +1,0 @@
-"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
-"K" "Herbarium" "K000330128" NA NA "Myrcia fasciata" "McVaugh, R." -78.62 -2.78 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"

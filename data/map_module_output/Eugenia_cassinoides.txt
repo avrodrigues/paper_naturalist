@@ -1,4 +1,0 @@
-"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
-"REFLORA" "VIES" "VIES022749" 1999 "1999-06-07" "Eugenia cassinoides" "Canal, M." -39.7525 -18.7658333333333 "PRESERVED_SPECIMEN" NA "REFLORA" "2_taxonomist"
-"SPLINK" "NHM-LONDON-BOT" "BM000884355" NA NA "Eugenia cassinoides" "" -41.844147 -13.442881 "PRESERVED_SPECIMEN" NA "SPLINK" "4_sci_colection"
-"SPLINK" "NYBG_BR" "404886" NA NA "Eugenia cassinoides" "" -39.039072 -15.159747 "PRESERVED_SPECIMEN" NA "SPLINK" "4_sci_colection"

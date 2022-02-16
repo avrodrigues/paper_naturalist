@@ -1,8 +1,0 @@
-"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
-"ntt" NA NA NA NA "Myrcia brunnea" NA -43.89 -21.9689 NA NA "BIEN" "6_no_criteria_met"
-"ntt" NA NA NA NA "Myrcia brunnea" NA -43.9731 -20.0139 NA NA "BIEN" "6_no_criteria_met"
-"ntt" NA NA NA NA "Myrcia brunnea" NA -42.5311 -22.305 NA NA "BIEN" "6_no_criteria_met"
-"ntt" NA NA NA NA "Myrcia brunnea" NA -43.6822 -18.7819 NA NA "BIEN" "6_no_criteria_met"
-"ntt" NA NA NA NA "Myrcia brunnea" NA -43.8089 -19.8783 NA NA "BIEN" "6_no_criteria_met"
-"ntt" NA NA NA NA "Myrcia brunnea" NA -43.8775 -22.0331 NA NA "BIEN" "6_no_criteria_met"
-"ntt" NA NA NA NA "Myrcia brunnea" NA -46.325 -23.7689 NA NA "BIEN" "6_no_criteria_met"

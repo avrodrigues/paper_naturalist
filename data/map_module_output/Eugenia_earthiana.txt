@@ -1,4 +1,0 @@
-"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
-"MO" "MO" "312206" 1988 NA "Eugenia earthiana" "P. E. Sánchez" -83.408333 10 "PRESERVED_SPECIMEN" NA "GBIF" "2_taxonomist"
-"MO" "MO" "2863073" 1982 NA "Eugenia earthiana" "F.R. Barrie" -82.95 9.58333 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"
-"MO" "MO" "2863074" 1986 NA "Eugenia earthiana" "F.R. Barrie" -83.50638 10.09972 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"

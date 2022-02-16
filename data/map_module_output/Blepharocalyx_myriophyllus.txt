@@ -1,7 +1,0 @@
-"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
-"REFLORA" "NY" "NY00886397" 1884 NA "Blepharocalyx myriophyllus" "Sem determinador" -43.5080555555556 -20.2877777777778 "PRESERVED_SPECIMEN" NA "REFLORA" "2_taxonomist"
-"SPLINK" "NYBG_BR" "886397" 1884 NA "Blepharocalyx myriophyllus" "" -43.5081 -20.2878 "PRESERVED_SPECIMEN" NA "SPLINK" "4_sci_colection"
-"SPLINK" "BHCB" "178762" 2015 NA "Blepharocalyx myriophyllus" "" -43.605 -20.197222 "PRESERVED_SPECIMEN" NA "SPLINK" "4_sci_colection"
-"JABOT" "RB" "776021" 2018 NA "Blepharocalyx myriophyllus" "T. Fernandes, J.E.Q. Faria & T.N.C. Vasconcelos" -43.42 -18.4052777777778 "PRESERVED_SPECIMEN" NA "JABOT" "1_det_by_spec"
-"Universidade Federal de Minas Gerais (UFMG)" "BHCB" "163983" 2012 NA "Blepharocalyx myriophyllus" "" -43.991603 -20.352483 "PRESERVED_SPECIMEN" NA "GBIF" "4_sci_colection"
-"NY" "NY" NA 1884 NA "Blepharocalyx myriophyllus" NA -43.50806 -20.28778 "PRESERVED_SPECIMEN" NA "BIEN" "4_sci_colection"

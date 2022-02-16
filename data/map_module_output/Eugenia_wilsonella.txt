@@ -1,2 +1,0 @@
-"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
-"MO" "MO" "2502000" 1959 NA "Eugenia wilsonella" "" -77.26666 18.2 "PRESERVED_SPECIMEN" NA "GBIF" "4_sci_colection"

@@ -1,5 +1,0 @@
-"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
-"MO" "MO" "3289640" 2005 NA "Eugenia sanjuanensis" "A. Pool" -84.35111 11.12083 "PRESERVED_SPECIMEN" NA "GBIF" "2_taxonomist"
-"MO" "MO" "3278408" 2005 NA "Eugenia sanjuanensis" "A. Pool" -84.34888 11.06638 "PRESERVED_SPECIMEN" NA "GBIF" "2_taxonomist"
-"MO" "MO" "308697" 1984 NA "Eugenia sanjuanensis" "F.R. Barrie" -84.416667 11.033333 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"
-"MO" "MO" "308420" 1985 NA "Eugenia sanjuanensis" "F.R. Barrie" -84.43333 11.05 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"

@@ -1,5 +1,0 @@
-"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
-"REFLORA" "P" "P00716023" 1963 NA "Eugenia minuscula" "Sem determinador" -56.8166666666667 3.33333333333333 "PRESERVED_SPECIMEN" NA "REFLORA" "2_taxonomist"
-"US" "Botany" "2572477A" 1963 NA "Eugenia minuscula" "" -56.4824 3.5206 "PRESERVED_SPECIMEN" NA "GBIF" "4_sci_colection"
-"F" "Botany" "V0065230F" NA NA "Eugenia minuscula" "" -55.625 4.1006 "PRESERVED_SPECIMEN" NA "GBIF" "4_sci_colection"
-"S" "VascularPlants" "S05-2946" 1963 NA "Eugenia minuscula" "" -56.82 3.33 "PRESERVED_SPECIMEN" NA "GBIF" "4_sci_colection"

@@ -1,7 +1,0 @@
-"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
-"NY" "NY" "3107510" 2016 NA "Psidium rostratum" "" -80.02 -2.17 "PRESERVED_SPECIMEN" NA "GBIF" "4_sci_colection"
-"F" "Botany" "V0386366F" 1985 NA "Psidium rostratum" "" -78.1869 -1.4628 "PRESERVED_SPECIMEN" NA "GBIF" "4_sci_colection"
-"S" "VascularPlants" "S06-21308" 1981 NA "Psidium rostratum" "" -80.65 -1.07 "PRESERVED_SPECIMEN" NA "GBIF" "4_sci_colection"
-"traits" NA NA NA NA "Psidium rostratum" NA -80.587 -4.17 NA NA "BIEN" "6_no_criteria_met"
-"MO" "MO" NA 1987 NA "Psidium rostratum" NA -80.61666 -4.15 "PRESERVED_SPECIMEN" NA "BIEN" "4_sci_colection"
-"dryflor" NA NA NA NA "Psidium rostratum" NA -80.26670074 -3.833329916 NA NA "BIEN" "6_no_criteria_met"

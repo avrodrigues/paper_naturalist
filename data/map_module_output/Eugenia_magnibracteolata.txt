@@ -1,6 +1,0 @@
-"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
-"REFLORA" "K" "K001051863" 2012 NA "Eugenia magnibracteolata" "Sem determinador" -46.4894444444444 -23.905 "PRESERVED_SPECIMEN" NA "REFLORA" "2_taxonomist"
-"SPLINK" "SINBIOTA" "180270051" NA NA "Eugenia magnibracteolata" "" -44.832199 -23.3342 "PRESERVED_SPECIMEN" NA "SPLINK" "4_sci_colection"
-"SPLINK" "SINBIOTA" "205560058" NA NA "Eugenia magnibracteolata" "" -44.835556 -23.336944 "PRESERVED_SPECIMEN" NA "SPLINK" "4_sci_colection"
-"SPLINK" "BHCB" "161471" 2012 "2012-10-29" "Eugenia magnibracteolata" "" -46.489444 -23.905 "PRESERVED_SPECIMEN" NA "SPLINK" "4_sci_colection"
-"SPLINK" "EFC" "15225" 2016 "2016-10-07" "Eugenia magnibracteolata" "Souza, I." -48.2973 -25.1755 "PRESERVED_SPECIMEN" NA "SPLINK" "2_taxonomist"

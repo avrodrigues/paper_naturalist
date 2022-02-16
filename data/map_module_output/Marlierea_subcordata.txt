@@ -1,3 +1,0 @@
-"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
-"ntt" NA NA NA NA "Marlierea subcordata" NA -66.5789 1.6639 NA NA "BIEN" "6_no_criteria_met"
-"ntt" NA NA NA NA "Marlierea subcordata" NA -66.4183 1.2036 NA NA "BIEN" "6_no_criteria_met"

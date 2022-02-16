@@ -1,5 +1,0 @@
-"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
-"REFLORA" "NY" "NY01018144" 1995 NA "Eugenia macahensis" "Sem determinador" -42.3916666666667 -22.6508333333333 "PRESERVED_SPECIMEN" NA "REFLORA" "2_taxonomist"
-"SPLINK" "NYBG_BR" "1018144" 1995 NA "Eugenia macahensis" "" -42.3917 -22.6508 "PRESERVED_SPECIMEN" NA "SPLINK" "4_sci_colection"
-"JABOT" "RB" "594502" NA "2013-07-26" "Eugenia macahensis" "Sobral" -42.6094444444444 -22.4197222222222 "PRESERVED_SPECIMEN" NA "JABOT" "2_taxonomist"
-"JABOT" "RB" "407215" 2004 NA "Eugenia macahensis" "M.Sobral" -42.4186111111111 -22.4069444444444 "PRESERVED_SPECIMEN" NA "JABOT" "1_det_by_spec"

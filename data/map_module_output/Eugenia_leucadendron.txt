@@ -1,2 +1,0 @@
-"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
-"MO" "MO" "1704543" NA NA "Eugenia leucadendron" "F.R. Barrie" -83.916667 9.866667 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"

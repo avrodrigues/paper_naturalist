@@ -1,6 +1,0 @@
-"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
-"REFLORA" "NY" "NY00405424" 1933 NA "Myrcia dispar" "Sem determinador" -70 -8.15 "PRESERVED_SPECIMEN" NA "REFLORA" "2_taxonomist"
-"REFLORA" "K" "K000342838" 1933 NA "Myrcia dispar" "Sem determinador" -70.17 -8.15 "PRESERVED_SPECIMEN" NA "REFLORA" "2_taxonomist"
-"UEFS" "HUEFS" "86989" 1933 NA "Myrcia dispar" "" -70 -8 "PRESERVED_SPECIMEN" NA "GBIF" "4_sci_colection"
-"ntt" NA NA NA NA "Myrcia dispar" NA -71.2461 -8.0508 NA NA "BIEN" "6_no_criteria_met"
-"ntt" NA NA NA NA "Myrcia dispar" NA -69.9989 -8.5072 NA NA "BIEN" "6_no_criteria_met"

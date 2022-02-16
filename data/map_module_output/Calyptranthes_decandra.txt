@@ -1,5 +1,0 @@
-"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
-"B" "Herbarium Berolinense" "B 10 0487237" 2012 NA "Calyptranthes decandra" "B. Falcón" -80.438889 22.787222 "PRESERVED_SPECIMEN" NA "GBIF" "2_taxonomist"
-"G" "Geneva Herbarium – General Collection (G)" "G-G-237256/1" NA NA "Calyptranthes decandra" "Araujo, A. C. & E. Lucas (2011)" -79.03639 21.62111 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"
-"K" "Herbarium" "K000330967" 1930 NA "Calyptranthes decandra" "" -80.43 22.12 "PRESERVED_SPECIMEN" NA "GBIF" "4_sci_colection"
-"ntt" NA NA NA NA "Calyptranthes decandra" NA -75.7356 20.5714 NA NA "BIEN" "6_no_criteria_met"

@@ -1,8 +1,0 @@
-"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
-"MO" "MO" "917255" 1994 NA "Calyptranthes ishoaquinicca" "B.K. Holst (SEL)" -77.483333 -1.5 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"
-"MO" "MO" "1350335" 1998 NA "Calyptranthes ishoaquinicca" "M.L. Kawasaki (F)" -77.51666 -1.46666 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"
-"MO" "MO" "1197837" 1997 NA "Calyptranthes ishoaquinicca" "M.L. Kawasaki (F)" -77.45 -1.46666 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"
-"MO" "MO" "1063287" 1996 NA "Calyptranthes ishoaquinicca" "B.K. Holst (SEL)" -77.5 -0.766667 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"
-"F" "Botany" "V0092827F" 2001 NA "Calyptranthes ishoaquinicca" "RRC ID Flag" -77.4972 0.18039 "PRESERVED_SPECIMEN" NA "GBIF" "4_sci_colection"
-"MO" "MO, QCNE" NA 1994 NA "Calyptranthes ishoaquinicca" NA -77.4833333 -1.5 "PRESERVED_SPECIMEN" NA "BIEN" "4_sci_colection"
-"MO" "MO, QCNE" NA 1996 NA "Calyptranthes ishoaquinicca" NA -77.5 -0.7666667 "PRESERVED_SPECIMEN" NA "BIEN" "4_sci_colection"

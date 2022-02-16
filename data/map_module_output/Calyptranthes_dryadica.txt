@@ -1,4 +1,0 @@
-"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
-"SPLINK" "MBML-HERBARIO" "36876" 2008 NA "Calyptranthes dryadica" "A.R. Lourenço/29-10-2015" -41.111389 -20.516111 "PRESERVED_SPECIMEN" NA "SPLINK" "1_det_by_spec"
-"ntt" NA NA NA NA "Calyptranthes dryadica" NA -47.2492 -24.5211 NA NA "BIEN" "6_no_criteria_met"
-"ntt" NA NA NA NA "Calyptranthes dryadica" NA -45.4272 -23.6069 NA NA "BIEN" "6_no_criteria_met"

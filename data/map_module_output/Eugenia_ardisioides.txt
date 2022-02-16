@@ -1,2 +1,0 @@
-"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
-"MO" "MO" "2864431" 1942 NA "Eugenia ardisioides" "F.R. Barrie" -88.40416 16.56611 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"

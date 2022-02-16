@@ -1,5 +1,0 @@
-"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
-"Universidad de Antioquia" "HUA" "158238" 2006 NA "Calyptranthes lozanoi" "Rodríguez W." -75.709 6.2461 "PRESERVED_SPECIMEN" NA "GBIF" "2_taxonomist"
-"ntt" NA NA NA NA "Calyptranthes lozanoi" NA -74.0303 11.1161 NA NA "BIEN" "6_no_criteria_met"
-"ntt" NA NA NA NA "Calyptranthes lozanoi" NA -75.4497 6.2594 NA NA "BIEN" "6_no_criteria_met"
-"MO" "HUA, MO" NA 1995 NA "Calyptranthes lozanoi" NA -75.48333 6.3 "PRESERVED_SPECIMEN" NA "BIEN" "4_sci_colection"

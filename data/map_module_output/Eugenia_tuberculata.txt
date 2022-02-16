@@ -1,2 +1,0 @@
-"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
-"NY" "NY" "1673482" 1928 NA "Eugenia tuberculata" "" -75.626877 20.011466 "PRESERVED_SPECIMEN" NA "GBIF" "4_sci_colection"

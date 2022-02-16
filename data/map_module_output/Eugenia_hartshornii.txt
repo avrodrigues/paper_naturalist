@@ -1,8 +1,0 @@
-"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
-"MO" "MO" "2862737" 1978 NA "Eugenia hartshornii" "F.R. Barrie" -83.78 10.5 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"
-"MO" "MO" "2863876" 1973 NA "Eugenia hartshornii" "F.R. Barrie" -84.016667 10.433333 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"
-"MO" "MO" "2864801" 1994 NA "Eugenia hartshornii" "F.R. Barrie" -83.6 10.43333 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"
-"MO" "MO" "2865083" 1996 NA "Eugenia hartshornii" "F.R. Barrie" -83.9 10.40972 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"
-"MO" "MO" "2866144" 1983 NA "Eugenia hartshornii" "F.R. Barrie" -84.05 10.4 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"
-"MO" "MO" "1704485" 1969 NA "Eugenia hartshornii" "F.R. Barrie" -84.00361 10.43138 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"
-"MO" "MO" "100875821" 2003 NA "Eugenia hartshornii" "D. Santamaría" -83.94167 10.166111 "PRESERVED_SPECIMEN" NA "GBIF" "2_taxonomist"

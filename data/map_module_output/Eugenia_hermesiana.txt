@@ -1,2 +1,0 @@
-"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
-"SPLINK" "IAC" "45962" 1983 "1983-11-24" "Eugenia hermesiana" "A. Custódio Filho" -46.0386 -23.5725 "PRESERVED_SPECIMEN" NA "SPLINK" "2_taxonomist"

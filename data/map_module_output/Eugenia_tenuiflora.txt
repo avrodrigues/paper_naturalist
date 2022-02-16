@@ -1,2 +1,0 @@
-"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
-"SPLINK" "BOTU" "16847" 1980 NA "Eugenia tenuiflora" "Faria Jr., J.E.Q." -63.166667 -7.516667 "PRESERVED_SPECIMEN" NA "SPLINK" "1_det_by_spec"

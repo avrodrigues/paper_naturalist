@@ -1,7 +1,0 @@
-"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
-"ntt" NA NA NA NA "Neomitranthes regeliana" NA -46.7286 -23.5658 NA NA "BIEN" "6_no_criteria_met"
-"ntt" NA NA NA NA "Neomitranthes regeliana" NA -44.8519 -23.3561 NA NA "BIEN" "6_no_criteria_met"
-"ntt" NA NA NA NA "Neomitranthes regeliana" NA -39.9125 -19.6792 NA NA "BIEN" "6_no_criteria_met"
-"ntt" NA NA NA NA "Neomitranthes regeliana" NA -39.8706 -19.1483 NA NA "BIEN" "6_no_criteria_met"
-"ntt" NA NA NA NA "Neomitranthes regeliana" NA -44.7797 -23.1836 NA NA "BIEN" "6_no_criteria_met"
-"ntt" NA NA NA NA "Neomitranthes regeliana" NA -39.7278 -19.2022 NA NA "BIEN" "6_no_criteria_met"

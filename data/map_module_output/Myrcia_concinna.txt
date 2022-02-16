@@ -1,7 +1,0 @@
-"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
-"MO" "MO" "3173236" 1980 NA "Myrcia concinna" "B.K. Holst & M.L. Kawasaki" -79.384722 9.213889 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"
-"MO" "MO" "100278540" 2003 NA "Myrcia concinna" "B.K. Holst" -79.376667 9.218056 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"
-"MO" "MO" NA 1993 NA "Myrcia concinna" NA -78.56666 9.36666 "PRESERVED_SPECIMEN" NA "BIEN" "4_sci_colection"
-"ntt" NA NA NA NA "Myrcia concinna" NA -79.3553 9.2578 NA NA "BIEN" "6_no_criteria_met"
-"MO" "MO" NA 1980 NA "Myrcia concinna" NA -79.3847222 9.2138889 "PRESERVED_SPECIMEN" NA "BIEN" "4_sci_colection"
-"MO" "MO, SCZ" NA 2003 NA "Myrcia concinna" NA -79.3766667 9.2180556 "PRESERVED_SPECIMEN" NA "BIEN" "4_sci_colection"

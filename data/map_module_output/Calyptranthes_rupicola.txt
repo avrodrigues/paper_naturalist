@@ -1,2 +1,0 @@
-"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
-"NY" "NY" "84455" 1910 NA "Calyptranthes rupicola" "" -75.819901 20.478426 "PRESERVED_SPECIMEN" NA "GBIF" "4_sci_colection"

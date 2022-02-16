@@ -1,6 +1,0 @@
-"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
-"MO" "MO" "311624" 1993 NA "Eugenia cayoana" "F.R. Barrie" -89.05 16.5 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"
-"MO" "MO" "311616" 1993 NA "Eugenia cayoana" "F.R. Barrie" -89.033333 16.483333 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"
-"MO" "MO" "2865563" 1968 NA "Eugenia cayoana" "F.R. Barrie" -88.79083 17.00361 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"
-"MO" "MO" "100595742" 2006 NA "Eugenia cayoana" "S.W. Brewer" -88.617778 16.804444 "PRESERVED_SPECIMEN" NA "GBIF" "2_taxonomist"
-"MO" "MO" "100595389" 2004 NA "Eugenia cayoana" "S.W. Brewer" -89.045555 16.495833 "PRESERVED_SPECIMEN" NA "GBIF" "2_taxonomist"

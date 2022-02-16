@@ -1,4 +1,0 @@
-"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
-"REFLORA" "ESA" "ESA073812" NA NA "Eugenia pantagensis" "Sobral, M." -44.1913888888889 -17.7091666666667 "PRESERVED_SPECIMEN" NA "REFLORA" "1_det_by_spec"
-"SPLINK" "ASU-PLANTS" "35539" 1987 NA "Eugenia pantagensis" "Nic Lughadha" -41.933333 -13.55 "PRESERVED_SPECIMEN" NA "SPLINK" "2_taxonomist"
-"SPLINK" "BHCB" "84457" 2001 NA "Eugenia pantagensis" "" -44.191389 -17.709167 "PRESERVED_SPECIMEN" NA "SPLINK" "4_sci_colection"

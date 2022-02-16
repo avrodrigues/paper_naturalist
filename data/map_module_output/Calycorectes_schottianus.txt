@@ -1,3 +1,0 @@
-"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
-"REFLORA" "NY" "NY00561486" 1989 NA "Calycorectes schottianus" "Sem determinador" -42.05 -22 "PRESERVED_SPECIMEN" NA "REFLORA" "2_taxonomist"
-"SPLINK" "HUFSJ" "3164" 2011 NA "Calycorectes schottianus" "" -42.528611 -19.411111 "PRESERVED_SPECIMEN" NA "SPLINK" "4_sci_colection"

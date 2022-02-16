@@ -1,2 +1,0 @@
-"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
-"REFLORA" "MAC" "MAC0031601" 2003 NA "Myrcia glauca" "M.Sobral" -41.7827777777778 -12.9488888888889 "PRESERVED_SPECIMEN" NA "REFLORA" "1_det_by_spec"

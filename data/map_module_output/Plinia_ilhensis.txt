@@ -1,7 +1,0 @@
-"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
-"REFLORA" "HUENF" "HUENF00010893" 2009 NA "Plinia ilhensis" "Sem determinador" -41.4480555555556 -21.7972222222222 "PRESERVED_SPECIMEN" NA "REFLORA" "2_taxonomist"
-"REFLORA" "HUENF" "HUENF00004200" 2002 "2017-11-30" "Plinia ilhensis" "Souza, M.C." -41.0944444444444 -21.3913888888889 "PRESERVED_SPECIMEN" NA "REFLORA" "1_det_by_spec"
-"JABOT" "RB" "461643" 2007 "2007-05-01" "Plinia ilhensis" "M.C. Souza" -43 -22.9219444444444 "PRESERVED_SPECIMEN" NA "JABOT" "1_det_by_spec"
-"ntt" NA NA NA NA "Plinia ilhensis" NA -42.4914 -22.9072 NA NA "BIEN" "6_no_criteria_met"
-"ntt" NA NA NA NA "Plinia ilhensis" NA -42.3347 -22.9344 NA NA "BIEN" "6_no_criteria_met"
-"dryflor" NA NA NA NA "Plinia ilhensis" NA -42.33470154 -22.93440056 NA NA "BIEN" "6_no_criteria_met"

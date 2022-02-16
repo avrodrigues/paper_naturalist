@@ -1,3 +1,0 @@
-"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
-"SNSB-M" "BSMvplantscoll" "M-0171078 / 526143 / 210635" 1889 NA "Calyptranthes glabrescens" "" -79.542221 21.664577 "PRESERVED_SPECIMEN" NA "GBIF" "4_sci_colection"
-"ntt" NA NA NA NA "Calyptranthes glabrescens" NA -79.5922 21.9203 NA NA "BIEN" "6_no_criteria_met"

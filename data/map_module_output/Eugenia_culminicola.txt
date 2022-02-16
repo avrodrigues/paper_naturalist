@@ -1,5 +1,0 @@
-"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
-"MO" "MO" "2862688" 1989 NA "Eugenia culminicola" "F.R. Barrie" -104.234167 19.556667 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"
-"MO" "MO" "2862689" 1987 NA "Eugenia culminicola" "F.R. Barrie" -104.26666 19.56666 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"
-"CNS-UT" "TEX" "00270948" 1987 NA "Eugenia culminicola" "H. H. Iltis" -104.266667 19.566667 "PRESERVED_SPECIMEN" NA "GBIF" "2_taxonomist"
-"CNS-UT" "TEX" "00270949" 1957 NA "Eugenia culminicola" "R. McVaugh" -103.164075 19.278253 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"

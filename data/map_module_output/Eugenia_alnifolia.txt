@@ -1,2 +1,0 @@
-"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
-"CNS-UT" "LL" "00266040" 1942 NA "Eugenia alnifolia" "UTHerbarium" -103.504169 18.598611 "PRESERVED_SPECIMEN" NA "GBIF" "2_taxonomist"

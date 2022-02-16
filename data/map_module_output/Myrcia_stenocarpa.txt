@@ -1,5 +1,0 @@
-"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
-"K" "Herbarium" "K000261943" 1932 NA "Myrcia stenocarpa" "" -61.38 10.65 "PRESERVED_SPECIMEN" NA "GBIF" "4_sci_colection"
-"K" "Herbarium" "K000261945" 1920 NA "Myrcia stenocarpa" "" -61.35 10.72 "PRESERVED_SPECIMEN" NA "GBIF" "4_sci_colection"
-"K" "Herbarium" "K000261944" 1920 NA "Myrcia stenocarpa" "" -61.42 10.65 "PRESERVED_SPECIMEN" NA "GBIF" "4_sci_colection"
-"ntt" NA NA NA NA "Myrcia stenocarpa" NA -61.2108 10.4461 NA NA "BIEN" "6_no_criteria_met"

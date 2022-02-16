@@ -1,5 +1,0 @@
-"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
-"MO" "MO" "2863224" 1974 NA "Eugenia uxpanapensis" "F.R. Barrie" -94.616667 17.266667 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"
-"MO" "MO" "2863223" 1974 NA "Eugenia uxpanapensis" "F.R. Barrie" -94.66666 17.25 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"
-"MO" "MO" "2863634" 1974 NA "Eugenia uxpanapensis" "F.R. Barrie" -94.633333 17.3 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"
-"K" "Herbarium" "K000752372" 1974 NA "Eugenia uxpanapensis" "" -94.67 17.25 "PRESERVED_SPECIMEN" NA "GBIF" "4_sci_colection"

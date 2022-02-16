@@ -1,7 +1,0 @@
-"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
-"G" "Geneva Herbarium – General Collection (G)" "G-G-214060/1" NA NA "Myrcia gundlachii" "McVaugh, R. (1964)" -79.03639 21.62111 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"
-"NY" "NY" "1437322" 1954 NA "Myrcia gundlachii" "" -74.838269 20.335612 "PRESERVED_SPECIMEN" NA "GBIF" "4_sci_colection"
-"NY" "NY" "1437313" 1953 NA "Myrcia gundlachii" "" -74.900841 20.36083 "PRESERVED_SPECIMEN" NA "GBIF" "4_sci_colection"
-"NY" "NY" "1437309" NA NA "Myrcia gundlachii" "" -74.841226 20.5983 "PRESERVED_SPECIMEN" NA "GBIF" "4_sci_colection"
-"K" "Herbarium" "K000261827" NA NA "Myrcia gundlachii" "" -76.07 20.3 "PRESERVED_SPECIMEN" NA "GBIF" "4_sci_colection"
-"ntt" NA NA NA NA "Myrcia gundlachii" NA -75.4389 20.5325 NA NA "BIEN" "6_no_criteria_met"

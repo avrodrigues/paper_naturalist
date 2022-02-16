@@ -1,7 +1,0 @@
-"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
-"MO" "MO" "2622209" 1980 NA "Calyptranthes compactiflora" "fide Kawasaki & Holst (Typus)" -76.166667 -0.05 "PRESERVED_SPECIMEN" NA "GBIF" "2_taxonomist"
-"F" "Botany" "V0092881F" 1980 NA "Calyptranthes compactiflora" "" -76.17 -0.05 "PRESERVED_SPECIMEN" NA "GBIF" "4_sci_colection"
-"ntt" NA NA NA NA "Calyptranthes compactiflora" NA -76.4392 -0.5439 NA NA "BIEN" "6_no_criteria_met"
-"MO" "AAU, F, QCA, SEL" NA 1980 NA "Calyptranthes compactiflora" NA -76.1666667 -0.05 "PRESERVED_SPECIMEN" NA "BIEN" "4_sci_colection"
-"ntt" NA NA NA NA "Calyptranthes compactiflora" NA -76.2197 -0.9042 NA NA "BIEN" "6_no_criteria_met"
-"ntt" NA NA NA NA "Calyptranthes compactiflora" NA -75.7878 -1.0353 NA NA "BIEN" "6_no_criteria_met"

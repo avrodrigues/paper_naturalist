@@ -1,3 +1,0 @@
-"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
-"ntt" NA NA NA NA "Myrceugenia bocaiuvensis" NA -49.3292 -25.1814 NA NA "BIEN" "6_no_criteria_met"
-"ntt" NA NA NA NA "Myrceugenia bocaiuvensis" NA -49.1283 -25.1828 NA NA "BIEN" "6_no_criteria_met"

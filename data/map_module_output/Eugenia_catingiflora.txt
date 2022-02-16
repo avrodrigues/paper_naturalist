@@ -1,4 +1,0 @@
-"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
-"NY" "NY" "84529" 1921 NA "Eugenia catingiflora" "" -76.06378 20.015734 "PRESERVED_SPECIMEN" NA "GBIF" "4_sci_colection"
-"NY" "NY" "1435531" NA NA "Eugenia catingiflora" "" -76.062276 20.013322 "PRESERVED_SPECIMEN" NA "GBIF" "4_sci_colection"
-"NY" "NY" "01435530" 1922 NA "Eugenia catingiflora" "" -76.838996 20.02258 "PRESERVED_SPECIMEN" NA "GBIF" "4_sci_colection"

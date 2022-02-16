@@ -1,7 +1,0 @@
-"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
-"ntt" NA NA NA NA "Campomanesia lundiana" NA -43.3181 -21.7483 NA NA "BIEN" "6_no_criteria_met"
-"ntt" NA NA NA NA "Campomanesia lundiana" NA -43.4361 -19.2064 NA NA "BIEN" "6_no_criteria_met"
-"ntt" NA NA NA NA "Campomanesia lundiana" NA -43.2297 -22.9586 NA NA "BIEN" "6_no_criteria_met"
-"ntt" NA NA NA NA "Campomanesia lundiana" NA -42.445 -20.6853 NA NA "BIEN" "6_no_criteria_met"
-"dryflor" NA NA NA NA "Campomanesia lundiana" NA -43.31809998 -21.74830055 NA NA "BIEN" "6_no_criteria_met"
-"dryflor" NA NA NA NA "Campomanesia lundiana" NA -43.43610001 -19.20639992 NA NA "BIEN" "6_no_criteria_met"

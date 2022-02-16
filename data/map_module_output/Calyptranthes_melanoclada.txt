@@ -1,2 +1,0 @@
-"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
-"SPLINK" "F_BOTANY_BR" "V0064854F" NA NA "Calyptranthes melanoclada" "" -52.8731 -10.8339 "PRESERVED_SPECIMEN" NA "SPLINK" "4_sci_colection"

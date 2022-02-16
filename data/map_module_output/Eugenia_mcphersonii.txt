@@ -1,8 +1,0 @@
-"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
-"MO" "MO" "312743" 1989 NA "Eugenia mcphersonii" "F.R. Barrie" -82.25 8.75 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"
-"MO" "MO" "312242" 1986 NA "Eugenia mcphersonii" "F.R. Barrie" -81.75 8.45 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"
-"MO" "MO" "307104" 1986 NA "Eugenia mcphersonii" "F.R. Barrie" -81.769167 8.484444 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"
-"MO" "MO" "2865372" 1978 NA "Eugenia mcphersonii" "F.R. Barrie" -82.39722 8.82333 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"
-"MO" "MO" "2863517" 1975 NA "Eugenia mcphersonii" "F.R. Barrie" -81.823333 8.540556 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"
-"MO" "MO" "2863133" 1940 NA "Eugenia mcphersonii" "F.R. Barrie" -82.445833 8.825 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"
-"MO" "MO" "1704564" 1979 NA "Eugenia mcphersonii" "F.R. Barrie" -82.4 8.81666 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"

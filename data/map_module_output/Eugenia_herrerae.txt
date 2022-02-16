@@ -1,3 +1,0 @@
-"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
-"MO" "MO" "809492" 1990 NA "Eugenia herrerae" "F.R. Barrie" -83.845833 10.125 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"
-"MO" "MO" "2865084" 1974 NA "Eugenia herrerae" "F.R. Barrie" -81.125833 8.522778 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"

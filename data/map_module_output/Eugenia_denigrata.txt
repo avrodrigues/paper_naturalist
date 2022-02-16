@@ -1,3 +1,0 @@
-"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
-"REFLORA" "US" "US01897845" 1960 NA "Eugenia denigrata" "Sem determinador" -51.8833333333333 3.8 "PRESERVED_SPECIMEN" NA "REFLORA" "2_taxonomist"
-"REFLORA" "NY" "NY01450664" 1960 NA "Eugenia denigrata" "R. McVaugh" -51.88 3.8 "PRESERVED_SPECIMEN" NA "REFLORA" "1_det_by_spec"

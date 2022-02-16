@@ -1,5 +1,0 @@
-"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
-"REFLORA" "NY" "NY00907913" NA NA "Myrcia hoffmannseggii" "C. M. D. E. Legrand" -52.23 -15.4 "PRESERVED_SPECIMEN" NA "REFLORA" "1_det_by_spec"
-"SPLINK" "F_BOTANY_BR" "V0106971F" NA NA "Myrcia hoffmannseggii" "" -52.8731 -10.8339 "PRESERVED_SPECIMEN" NA "SPLINK" "4_sci_colection"
-"ntt" NA NA NA NA "Myrcia hoffmannseggii" NA -50.2497 -8.0131 NA NA "BIEN" "6_no_criteria_met"
-"ntt" NA NA NA NA "Myrcia hoffmannseggii" NA -52.6711 -12.1794 NA NA "BIEN" "6_no_criteria_met"

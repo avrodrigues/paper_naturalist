@@ -1,4 +1,0 @@
-"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
-"ntt" NA NA NA NA "Myrcia rubiginosa" NA -43.4131 -22.5511 NA NA "BIEN" "6_no_criteria_met"
-"ntt" NA NA NA NA "Myrcia rubiginosa" NA -43.2872 -22.94412 NA NA "BIEN" "6_no_criteria_met"
-"ntt" NA NA NA NA "Myrcia rubiginosa" NA -42.7317 -22.3628 NA NA "BIEN" "6_no_criteria_met"

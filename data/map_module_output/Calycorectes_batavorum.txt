@@ -1,2 +1,0 @@
-"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
-"US" "Botany" "3523224" 2005 NA "Calycorectes batavorum" "Holst, Bruce K." -56.78 4.74 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"

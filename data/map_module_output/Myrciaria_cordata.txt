@@ -1,8 +1,0 @@
-"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
-"F" "Botany" "V0065608F" NA NA "Myrciaria cordata" "" -58.7017 4.7364 "PRESERVED_SPECIMEN" NA "GBIF" "4_sci_colection"
-"ntt" NA NA NA NA "Myrciaria cordata" NA -59.2839 3.7678 NA NA "BIEN" "6_no_criteria_met"
-"ntt" NA NA NA NA "Myrciaria cordata" NA -63.1794 3.5417 NA NA "BIEN" "6_no_criteria_met"
-"ntt" NA NA NA NA "Myrciaria cordata" NA -60.7117 5.3517 NA NA "BIEN" "6_no_criteria_met"
-"ntt" NA NA NA NA "Myrciaria cordata" NA -60.7944 4.1431 NA NA "BIEN" "6_no_criteria_met"
-"ntt" NA NA NA NA "Myrciaria cordata" NA -61.1489 4.9881 NA NA "BIEN" "6_no_criteria_met"
-"ntt" NA NA NA NA "Myrciaria cordata" NA -61.1225 4.5022 NA NA "BIEN" "6_no_criteria_met"

@@ -1,3 +1,0 @@
-"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
-"SPLINK" "BHCB" "93043" 1993 NA "Calyptranthes eriopoda" "" -41.85 -13.3 "PRESERVED_SPECIMEN" NA "SPLINK" "4_sci_colection"
-"SPLINK" "BHCB" "93044" 1993 NA "Calyptranthes eriopoda" "" -41.833333 -13.316667 "PRESERVED_SPECIMEN" NA "SPLINK" "4_sci_colection"

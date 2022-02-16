@@ -1,5 +1,0 @@
-"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
-"US" "Botany" "3320810" 1995 NA "Myrcia sanisidrensis" "Cuello, N. L." -70.1614 9.2078 "PRESERVED_SPECIMEN" NA "GBIF" "2_taxonomist"
-"US" "Botany" "3375915" 1996 NA "Myrcia sanisidrensis" "Cuello, N. L." -70.1167 9.2167 "PRESERVED_SPECIMEN" NA "GBIF" "2_taxonomist"
-"MO" "MO" "100150741" 1999 NA "Myrcia sanisidrensis" "N. Cuello" -70.08 9.339167 "PRESERVED_SPECIMEN" NA "GBIF" "2_taxonomist"
-"MO" "MO" NA 1999 NA "Myrcia sanisidrensis" NA -70.08 9.3391666 "PRESERVED_SPECIMEN" NA "BIEN" "4_sci_colection"

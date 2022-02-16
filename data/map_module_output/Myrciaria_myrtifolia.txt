@@ -1,4 +1,0 @@
-"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
-"US" "Botany" "3668687" 2013 NA "Myrciaria myrtifolia" "Acevedo-Rodríguez, P., (BOT), Smithsonian Institution - National Museum of Natural History (UNITED STATES)" -66.2708 18.0588 "PRESERVED_SPECIMEN" NA "GBIF" "2_taxonomist"
-"NY" "NY" "01007220" 2003 NA "Myrciaria myrtifolia" "" -67.128889 17.99 "PRESERVED_SPECIMEN" NA "GBIF" "4_sci_colection"
-"ntt" NA NA NA NA "Myrciaria myrtifolia" NA -65.7939 18.1628 NA NA "BIEN" "6_no_criteria_met"

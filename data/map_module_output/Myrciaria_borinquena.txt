@@ -1,7 +1,0 @@
-"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
-"MO" "MO" "2606648" 1990 NA "Myrciaria borinquena" "" -66.90972 18.07222 "PRESERVED_SPECIMEN" NA "GBIF" "4_sci_colection"
-"NY" "NY" "843541" 1941 NA "Myrciaria borinquena" "" -66.90653 18.07351 "PRESERVED_SPECIMEN" NA "GBIF" "4_sci_colection"
-"NY" "NY" "843546" 1975 NA "Myrciaria borinquena" "A. H. Liogier" -66.769 18.1416 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"
-"NY" "NY" "843543" 1966 NA "Myrciaria borinquena" "" -66.90641 18.07929 "PRESERVED_SPECIMEN" NA "GBIF" "4_sci_colection"
-"ntt" NA NA NA NA "Myrciaria borinquena" NA -66.5933 18.4408 NA NA "BIEN" "6_no_criteria_met"
-"ntt" NA NA NA NA "Myrciaria borinquena" NA -66.9064 18.1053 NA NA "BIEN" "6_no_criteria_met"

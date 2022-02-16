@@ -1,2 +1,0 @@
-"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
-"NY" "NY" "84500" 1911 NA "Eugenia duplicata" "" -82.645 22.953056 "PRESERVED_SPECIMEN" NA "GBIF" "4_sci_colection"

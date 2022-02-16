@@ -1,2 +1,0 @@
-"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
-"REFLORA" "RB" "RB00484917" 2006 NA "Calycorectes beruttii" "M.C.Souza" -42.9116666666667 -22.4955555555556 "PRESERVED_SPECIMEN" NA "REFLORA" "1_det_by_spec"

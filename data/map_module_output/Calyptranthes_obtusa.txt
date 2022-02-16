@@ -1,2 +1,0 @@
-"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
-"F" "Botany" "V0064864F" 1837 NA "Calyptranthes obtusa" "" -58.7017 4.7364 "PRESERVED_SPECIMEN" NA "GBIF" "4_sci_colection"

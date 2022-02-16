@@ -1,8 +1,0 @@
-"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
-"US" "Botany" "3256521" 1985 NA "Myrcia ptariensis" "Holst, Bruce K." -62.08 5.2 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"
-"MO" "MO" "3201925" 1984 NA "Myrcia ptariensis" "B.K. Holst" -62.11666 5.31666 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"
-"MO" "MO" "310186" 1987 NA "Myrcia ptariensis" "B.K. Holst" -62.53333 5.85 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"
-"ntt" NA NA NA NA "Myrcia ptariensis" NA -62.5439 5.9692 NA NA "BIEN" "6_no_criteria_met"
-"ntt" NA NA NA NA "Myrcia ptariensis" NA -62.1367 5.8883 NA NA "BIEN" "6_no_criteria_met"
-"ntt" NA NA NA NA "Myrcia ptariensis" NA -61.8217 5.7703 NA NA "BIEN" "6_no_criteria_met"
-"ntt" NA NA NA NA "Myrcia ptariensis" NA -62.1161 5.3025 NA NA "BIEN" "6_no_criteria_met"

@@ -1,3 +1,0 @@
-"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
-"B" "Herbarium Berolinense" "B 10 0480846" 2012 NA "Eugenia anthacanthoides" "" -80.000832 22.404167 "PRESERVED_SPECIMEN" NA "GBIF" "4_sci_colection"
-"NHMUK" "BOT" "BM001125470" 1924 NA "Eugenia anthacanthoides" "Ignatz Urban" -80.038325 22.353303 "PRESERVED_SPECIMEN" NA "GBIF" "2_taxonomist"

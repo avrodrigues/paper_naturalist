@@ -1,3 +1,0 @@
-"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
-"MO" "MO" "2863947" 1972 NA "Eugenia rufidula" "F.R. Barrie" -89.0175 16.277222 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"
-"MO" "MO" "1704660" 1948 NA "Eugenia rufidula" "F.R. Barrie" -89.16666 16.33333 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"

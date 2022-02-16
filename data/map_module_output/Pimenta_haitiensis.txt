@@ -1,4 +1,0 @@
-"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
-"US" "Botany" "3643096" 1987 NA "Pimenta haitiensis" "" -71.57 17.77 "PRESERVED_SPECIMEN" NA "GBIF" "4_sci_colection"
-"MO" "MO" "2498717" 1987 NA "Pimenta haitiensis" "" -71.56666 17.76666 "PRESERVED_SPECIMEN" NA "GBIF" "4_sci_colection"
-"NY" "NY" "1437810" 1983 NA "Pimenta haitiensis" "" -71.55 17.97 "PRESERVED_SPECIMEN" NA "GBIF" "4_sci_colection"

@@ -1,4 +1,0 @@
-"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
-"US" "Botany" "3459366" 2001 NA "Mosiera cuspidata" "" -69.4831 19.0789 "PRESERVED_SPECIMEN" NA "GBIF" "4_sci_colection"
-"NY" "NY" "01437976" 1986 NA "Mosiera cuspidata" "" -69.4583 19.08 "PRESERVED_SPECIMEN" NA "GBIF" "4_sci_colection"
-"BPBM" "BISH" "733898" 2002 NA "Mosiera cuspidata" "" -69.5005 19.0878 "PRESERVED_SPECIMEN" NA "GBIF" "4_sci_colection"

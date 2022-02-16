@@ -1,4 +1,0 @@
-"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
-"MO" "MO" "3150082" 1986 NA "Eugenia chrootricha" "" -71.5 17.83333 "PRESERVED_SPECIMEN" NA "GBIF" "4_sci_colection"
-"NY" "NY" "01435538" 1986 NA "Eugenia chrootricha" "" -71.5 17.83 "PRESERVED_SPECIMEN" NA "GBIF" "4_sci_colection"
-"FTG" "Herbarium" "60480" 1980 NA "Eugenia chrootricha" "" -70.466667 18.433333 "PRESERVED_SPECIMEN" NA "GBIF" "4_sci_colection"

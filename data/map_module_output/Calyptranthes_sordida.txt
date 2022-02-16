@@ -1,3 +1,0 @@
-"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
-"K" "Herbarium" "K000331065" 1927 NA "Calyptranthes sordida" "Urban, I." -71.92 19.47 "PRESERVED_SPECIMEN" NA "GBIF" "2_taxonomist"
-"ntt" NA NA NA NA "Calyptranthes sordida" NA -69.9708 19.3194 NA NA "BIEN" "6_no_criteria_met"

@@ -1,2 +1,0 @@
-"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
-"BPBM" "BISH" "732454" 2001 NA "Calyptranthes martorellii" "" -65.79 18.2983 "PRESERVED_SPECIMEN" NA "GBIF" "4_sci_colection"

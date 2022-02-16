@@ -1,4 +1,0 @@
-"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
-"REFLORA" "NY" "NY01197877" 2004 NA "Myrcia abrantea" "M. Sobral" -39.0902777777778 -13.3288888888889 "PRESERVED_SPECIMEN" NA "REFLORA" "1_det_by_spec"
-"ntt" NA NA NA NA "Myrcia abrantea" NA -39.095 -15.1753 NA NA "BIEN" "6_no_criteria_met"
-"ntt" NA NA NA NA "Myrcia abrantea" NA -39.6411 -15.4422 NA NA "BIEN" "6_no_criteria_met"

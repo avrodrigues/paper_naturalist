@@ -1,2 +1,0 @@
-"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
-"US" "Botany" "3628420" 2011 NA "Mosiera ekmanii" "" -75.764 20.4774 "PRESERVED_SPECIMEN" NA "GBIF" "4_sci_colection"

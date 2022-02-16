@@ -1,8 +1,0 @@
-"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
-"MO" "MO" "100264777" 1986 NA "Calycolpus aequatorialis" "L.R. Landrum" -76.213889 -0.090278 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"
-"NY" "NY" "1239697" 1986 NA "Calycolpus aequatorialis" "" -76.2139 0.0903 "PRESERVED_SPECIMEN" NA "GBIF" "4_sci_colection"
-"NY" "NY" "1104777" 1986 NA "Calycolpus aequatorialis" "" -76.2139 -0.0903 "PRESERVED_SPECIMEN" NA "GBIF" "4_sci_colection"
-"NY" "NY" NA 1986 NA "Calycolpus aequatorialis" NA -76.21389 0.09028 "PRESERVED_SPECIMEN" NA "BIEN" "4_sci_colection"
-"ntt" NA NA NA NA "Calycolpus aequatorialis" NA -76.3994 -0.6853 NA NA "BIEN" "6_no_criteria_met"
-"MO" "MO" NA 1986 NA "Calycolpus aequatorialis" NA -76.2138889 -0.0902777 "PRESERVED_SPECIMEN" NA "BIEN" "4_sci_colection"
-"NY" "NY" NA 1986 NA "Calycolpus aequatorialis" NA -76.21389 -0.09028 "PRESERVED_SPECIMEN" NA "BIEN" "4_sci_colection"

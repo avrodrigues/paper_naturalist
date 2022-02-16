@@ -1,2 +1,0 @@
-"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
-"NHMUK" "BOT" "BM001125473" 1918 NA "Eugenia laeteviridis" "Ignatz Urban" -79.03635 21.62117 "PRESERVED_SPECIMEN" NA "GBIF" "2_taxonomist"

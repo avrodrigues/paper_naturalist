@@ -1,8 +1,0 @@
-"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
-"MO" "MO" "100612807" 2011 NA "Psidium rutidocarpum" "C. Parra-o (COL)" -75.57 -10.18 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"
-"MO" "MO" "307650" 1984 NA "Psidium rutidocarpum" "B.K. Holst (MO)" -76.5 -10.52 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"
-"MO" "MO" "312017" 1983 NA "Psidium rutidocarpum" "B.K. Holst (MO)" -75.42 -10.67 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"
-"dryflor" NA NA NA NA "Psidium rutidocarpum" NA -80.16699982 -4.5 NA NA "BIEN" "6_no_criteria_met"
-"dryflor" NA NA NA NA "Psidium rutidocarpum" NA -79.85949707 -5.289720058 NA NA "BIEN" "6_no_criteria_met"
-"ntt" NA NA NA NA "Psidium rutidocarpum" NA -74.9703 -9.9844 NA NA "BIEN" "6_no_criteria_met"
-"MO" "MO" NA 1983 NA "Psidium rutidocarpum" NA -75.41666 -10.66666 "PRESERVED_SPECIMEN" NA "BIEN" "4_sci_colection"

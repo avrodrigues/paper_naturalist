@@ -1,2 +1,0 @@
-"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
-"MO" "MO" "2770136" 2003 NA "Eugenia churutensis" "X. Cornejo ISOTYPE" -79.67 -2.4 "PRESERVED_SPECIMEN" NA "GBIF" "2_taxonomist"

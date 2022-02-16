@@ -1,3 +1,0 @@
-"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
-"ntt" NA NA NA NA "Psidium albescens" NA -76.7264 18.0792 NA NA "BIEN" "6_no_criteria_met"
-"ntt" NA NA NA NA "Psidium albescens" NA -77.1125 18.2011 NA NA "BIEN" "6_no_criteria_met"

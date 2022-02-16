@@ -1,4 +1,0 @@
-"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
-"MO" "MO" "310764" 1986 NA "Eugenia sarapiquensis" "F.R. Barrie" -84.066667 10.466667 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"
-"MO" "MO" "2862814" 1999 NA "Eugenia sarapiquensis" "F.R. Barrie" -82.62333 9.61055 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"
-"MO" "MO" "1704673" 1986 NA "Eugenia sarapiquensis" "F.R. Barrie" -83.94916 10.33194 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"

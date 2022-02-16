@@ -1,4 +1,0 @@
-"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
-"MO" "MO" "308807" 1986 NA "Eugenia belloi" "F.R. Barrie" -84.83333 10.41666 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"
-"MO" "MO" "2862586" 1993 NA "Eugenia belloi" "F.R. Barrie" -84.775 10.40833 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"
-"MO" "MO" "100869173" 1995 NA "Eugenia belloi" "D. Santamaría" -84.616667 10.366667 "PRESERVED_SPECIMEN" NA "GBIF" "2_taxonomist"

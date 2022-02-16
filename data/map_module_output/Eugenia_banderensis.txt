@@ -1,6 +1,0 @@
-"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
-"G" "Geneva Herbarium – General Collection (G)" "G-G-210770/1" 1924 NA "Eugenia banderensis" "Mazine-Capelo, F. (2004)" -83.88806 22.45222 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"
-"NY" "NY" "1435420" 1930 NA "Eugenia banderensis" "" -83.717958 22.62582 "PRESERVED_SPECIMEN" NA "GBIF" "4_sci_colection"
-"NY" "NY" "1435421" 1930 NA "Eugenia banderensis" "" -83.705661 22.517585 "PRESERVED_SPECIMEN" NA "GBIF" "4_sci_colection"
-"Université de Montréal Biodiversity Centre" "MT" "MT00114164" 1953 NA "Eugenia banderensis" "Liogier, H. Alain" -83.707113 22.615905 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"
-"Université de Montréal Biodiversity Centre" "MT" "MT00114162" 1953 NA "Eugenia banderensis" "Liogier, H. Alain" -83.5136 22.5047 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"

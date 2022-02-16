@@ -1,7 +1,0 @@
-"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
-"REFLORA" "NY" "NY00386774" 1942 NA "Calyptranthes rufotomentosa" "Sem determinador" -68.9355555555556 -3.45916666666667 "PRESERVED_SPECIMEN" NA "REFLORA" "2_taxonomist"
-"SPLINK" "NYBG_BR" "386774" 1942 NA "Calyptranthes rufotomentosa" "" -68.93558 -3.4590837 "PRESERVED_SPECIMEN" NA "SPLINK" "4_sci_colection"
-"ntt" NA NA NA NA "Calyptranthes rufotomentosa" NA -71.6267 -4.5339 NA NA "BIEN" "6_no_criteria_met"
-"NY" "NY" NA 1942 NA "Calyptranthes rufotomentosa" NA -68.87222 -3.37833 "PRESERVED_SPECIMEN" NA "BIEN" "4_sci_colection"
-"ntt" NA NA NA NA "Calyptranthes rufotomentosa" NA -68.9475 -3.5347 NA NA "BIEN" "6_no_criteria_met"
-"ntt" NA NA NA NA "Calyptranthes rufotomentosa" NA -70.8989 -3.1986 NA NA "BIEN" "6_no_criteria_met"

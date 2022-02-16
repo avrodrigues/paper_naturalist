@@ -1,2 +1,0 @@
-"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
-"MO" "MO" "100354465" 1977 NA "Calyptranthes laevigata" "" -71.1667 19.4167 "PRESERVED_SPECIMEN" NA "GBIF" "4_sci_colection"

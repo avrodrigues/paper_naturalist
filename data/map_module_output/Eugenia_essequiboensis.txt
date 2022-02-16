@@ -1,2 +1,0 @@
-"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
-"US" "Botany" "1543486" 1929 NA "Eugenia essequiboensis" "" -58.5548 6.20426 "PRESERVED_SPECIMEN" NA "GBIF" "4_sci_colection"

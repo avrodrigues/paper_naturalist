@@ -1,4 +1,0 @@
-"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
-"ntt" NA NA NA NA "Campomanesia terminalis" NA -44.62 -22.4261 NA NA "BIEN" "6_no_criteria_met"
-"ntt" NA NA NA NA "Campomanesia terminalis" NA -43.1581 -22.5347 NA NA "BIEN" "6_no_criteria_met"
-"ntt" NA NA NA NA "Campomanesia terminalis" NA -42.7317 -22.3628 NA NA "BIEN" "6_no_criteria_met"

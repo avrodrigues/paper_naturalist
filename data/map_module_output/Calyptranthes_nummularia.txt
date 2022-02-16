@@ -1,2 +1,0 @@
-"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
-"K" "Herbarium" "K000331006" 1924 NA "Calyptranthes nummularia" "" -72.28 18.35 "PRESERVED_SPECIMEN" NA "GBIF" "4_sci_colection"

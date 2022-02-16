@@ -1,6 +1,0 @@
-"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
-"REFLORA" "K" "K000331246" NA NA "Calyptranthes vexata" "Sem determinador" -58.63 1.62 "PRESERVED_SPECIMEN" NA "REFLORA" "2_taxonomist"
-"US" "Botany" "1777508" 1937 NA "Calyptranthes vexata" "" -58.6456 1.56433 "PRESERVED_SPECIMEN" NA "GBIF" "4_sci_colection"
-"NY" "NY" "386759" NA NA "Calyptranthes vexata" "" -58.641726 1.580018 "PRESERVED_SPECIMEN" NA "GBIF" "4_sci_colection"
-"ntt" NA NA NA NA "Calyptranthes vexata" NA -57.4319 2.7689 NA NA "BIEN" "6_no_criteria_met"
-"U" "U" NA 1937 NA "Calyptranthes vexata" NA -58.6333333 1.5666667 "PRESERVED_SPECIMEN" NA "BIEN" "4_sci_colection"

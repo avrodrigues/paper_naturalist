@@ -1,2 +1,0 @@
-"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
-"K" "Herbarium" "K000330989" 1927 NA "Calyptranthes hotteana" "Urban, I." -73.92 18.42 "PRESERVED_SPECIMEN" NA "GBIF" "2_taxonomist"

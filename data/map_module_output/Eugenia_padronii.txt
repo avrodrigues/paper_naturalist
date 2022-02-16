@@ -1,6 +1,0 @@
-"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
-"MO" "MO" "100228111" 2005 NA "Eugenia padronii" "" -66.7324 18.408933 "PRESERVED_SPECIMEN" NA "GBIF" "4_sci_colection"
-"NY" "NY" "00680860" 1970 NA "Eugenia padronii" "A. H. Liogier" -66.974438 18.140457 "PRESERVED_SPECIMEN" NA "GBIF" "1_det_by_spec"
-"NY" "NY" "00680858" 1966 NA "Eugenia padronii" "" -66.90641 18.07929 "PRESERVED_SPECIMEN" NA "GBIF" "4_sci_colection"
-"NY" "NY" "00680859" 1966 NA "Eugenia padronii" "" -66.98315 18.4189 "PRESERVED_SPECIMEN" NA "GBIF" "4_sci_colection"
-"BPBM" "BISH" "733926" 2001 NA "Eugenia padronii" "" -66.9718 18.1412 "PRESERVED_SPECIMEN" NA "GBIF" "4_sci_colection"

@@ -1,4 +1,0 @@
-"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
-"MO" "MO" "313045" 1989 NA "Eugenia sericifolia" "fide Kawasaki & Holst" -77.466667 -0.75 "PRESERVED_SPECIMEN" NA "GBIF" "2_taxonomist"
-"F" "Botany" "V0109554F" NA NA "Eugenia sericifolia" "" -78.1869 -1.4628 "PRESERVED_SPECIMEN" NA "GBIF" "4_sci_colection"
-"F" "Botany" "V0092224F" 1982 NA "Eugenia sericifolia" "" -77.33 -0.5 "PRESERVED_SPECIMEN" NA "GBIF" "4_sci_colection"

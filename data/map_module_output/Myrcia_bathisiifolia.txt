@@ -1,4 +1,0 @@
-"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
-"W" "Herbarium W" "1889-0011351" 1851 NA "Myrcia bathisiifolia" "annot. P. Escobar García 2012-07-03" -60.025 -3.10194 "PRESERVED_SPECIMEN" NA "GBIF" "2_taxonomist"
-"ntt" NA NA NA NA "Myrcia bathisiifolia" NA -60.1475 -2.8903 NA NA "BIEN" "6_no_criteria_met"
-"ntt" NA NA NA NA "Myrcia bathisiifolia" NA -59.7583 -2.7578 NA NA "BIEN" "6_no_criteria_met"

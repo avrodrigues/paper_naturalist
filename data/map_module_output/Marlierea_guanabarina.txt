@@ -1,6 +1,0 @@
-"institutionCode" "collectionCode" "catalogNumber" "year" "dateIdentified" "species" "identifiedBy" "decimalLongitude" "decimalLatitude" "basisOfRecord" "mediaType" "occurrenceID" "naturaList_levels"
-"ntt" NA NA NA NA "Marlierea guanabarina" NA -42.6761 -22.4772 NA NA "BIEN" "6_no_criteria_met"
-"ntt" NA NA NA NA "Marlierea guanabarina" NA -43.1361 -22.6494 NA NA "BIEN" "6_no_criteria_met"
-"ntt" NA NA NA NA "Marlierea guanabarina" NA -44.6806 -23.3303 NA NA "BIEN" "6_no_criteria_met"
-"ntt" NA NA NA NA "Marlierea guanabarina" NA -43.0658 -22.5381 NA NA "BIEN" "6_no_criteria_met"
-"ntt" NA NA NA NA "Marlierea guanabarina" NA -44.7797 -23.1836 NA NA "BIEN" "6_no_criteria_met"
