@@ -11,6 +11,7 @@ function/bind_spec_df.R
 function/map_module2.R
 data/classify_occ_data.RData
 **script/Clean/
-**Do_extra
+**script/Do_extra/
+**function/
 data/myrteae_raw.csv
 data/occ_df.RData
