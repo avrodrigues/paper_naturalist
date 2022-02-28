@@ -11,8 +11,7 @@ library(rnaturalearth)
 library(tidyverse)
 library(tidymodels)
 library(adespatial)
-library(ragg)
-library(patchwork)
+
 
 # load data ---------------------------------------------------------------
 
@@ -148,7 +147,8 @@ bind_rows(lm_rich_genus) %>%
 
 
 # Figures Richness --------------------------------------------------------
-
+library(ragg)
+library(patchwork)
 
 clean.cols <- c(bc = "#e1b74c", ac = "#198c8c")
 label.cols <- c(bc = "Reference dataset", ac ="Reliable ID dataset")
@@ -176,7 +176,7 @@ ggplot(coef_df, aes(y = estimate,
     labeller = labeller(term = facet_label)) +
   scale_y_continuous(n.breaks = 5) +
   theme_bw() +
-  labs(title = "Coefficients of regression") +
+  labs(title = "Regression coefficients ") +
   coord_flip() +
   theme(
     plot.title = element_text(family = "Inter", size = 16),
@@ -338,7 +338,7 @@ ggplot(tbi.lm.df,
     labeller = labeller(term = facet_label)) +
   scale_x_continuous(n.breaks = 4) +
   theme_bw() +
-  labs(title = "Coefficients of regression") +
+  labs(title = "Regression coefficients") +
   theme(
     plot.title = element_text(family = "Inter", size = 16),
     axis.title = element_blank(),
