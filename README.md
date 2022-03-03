@@ -1,4 +1,5 @@
 
+[![DOI](https://zenodo.org/badge/299898382.svg)](https://zenodo.org/badge/latestdoi/299898382)
 
 
 ## Data and analyses of the Rodrigues et al. (under review) *Ecological Informatics*
