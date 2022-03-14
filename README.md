@@ -2,10 +2,11 @@
 [![DOI](https://zenodo.org/badge/299898382.svg)](https://zenodo.org/badge/latestdoi/299898382)
 
 
-## Data and analyses of the Rodrigues et al. (under review) *Ecological Informatics*
+## Data and analyses of the [Rodrigues et al. (2022) *Ecological Informatics*](
+https://doi.org/10.1016/j.ecoinf.2022.101625)
 
 
-Here you find the fundamental data to run the analysis in the main text and the suplementary material of the article **Species misidentification affects biodiversity metrics: dealing with this issue using the new R package *naturaList* **
+Here you find the fundamental data to run the analysis in the main text and the suplementary material of the article "Species misidentification affects biodiversity metrics: dealing with this issue using the new R package *naturaList*"
 
 This directory ir organized in subdirectories:  
   - data  
